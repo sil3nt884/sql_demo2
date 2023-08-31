@@ -1,0 +1,4132 @@
+[
+    {
+        "id": "c02ac538-a8d7-4de2-9c03-1f6c5cc628c0",
+        "itemId": "3064015e-4da2-4563-8d09-e4c4204e2f84",
+        "path": "minecraft_texture\\textures\\block\\stone.png"
+    },
+    {
+        "id": "bc2aed5f-88ab-4b1a-99f4-16b0131d1347",
+        "itemId": "f155f323-13d7-4a45-a2af-f87a5475bfac",
+        "path": "minecraft_texture\\textures\\block\\granite.png"
+    },
+    {
+        "id": "889d33fb-6094-4bb7-acab-f70dd518470f",
+        "itemId": "7babd43e-2719-43ef-803b-18264f1aeeb3",
+        "path": "minecraft_texture\\textures\\block\\polished_granite.png"
+    },
+    {
+        "id": "2d077865-e45f-4e62-814d-7f78c81fc50b",
+        "itemId": "490579dc-f1ed-45ec-a69d-399113e2a3b0",
+        "path": "minecraft_texture\\textures\\block\\diorite.png"
+    },
+    {
+        "id": "ea10e6d9-fc30-48d7-a7f7-a09b4bd32277",
+        "itemId": "6408972e-c291-4fd0-acd0-85a9c3de7dcd",
+        "path": "minecraft_texture\\textures\\block\\polished_diorite.png"
+    },
+    {
+        "id": "360f4120-fbe8-4da4-ba82-9cbee8d6b52b",
+        "itemId": "9dbb4ba3-1efb-4c63-8b40-0c59463b509e",
+        "path": "minecraft_texture\\textures\\block\\andesite.png"
+    },
+    {
+        "id": "ef90460a-3875-4dd1-b70e-f69eceae7fa1",
+        "itemId": "892425f2-6104-4b50-9572-2a37fa0f3faf",
+        "path": "minecraft_texture\\textures\\block\\polished_andesite.png"
+    },
+    {
+        "id": "17de44d4-57ff-42d4-9da8-221246c6f5a2",
+        "itemId": "3ce4bf9b-2e20-4ff5-834c-17b755f35d9b",
+        "path": "minecraft_texture\\textures\\block\\deepslate.png"
+    },
+    {
+        "id": "b7c0a1e3-bb61-4d90-86ce-8a6abd7898ab",
+        "itemId": "56e1d3bc-1a1d-40fe-bd74-5113be4893cc",
+        "path": "minecraft_texture\\textures\\block\\cobbled_deepslate.png"
+    },
+    {
+        "id": "4c9d9998-c814-4c58-a86d-6a3f42d6ccbe",
+        "itemId": "bee84767-0d4b-4591-9f6c-e6370d8e7fa0",
+        "path": "minecraft_texture\\textures\\block\\polished_deepslate.png"
+    },
+    {
+        "id": "565cd8fe-874e-4c73-b67f-05a86327fea0",
+        "itemId": "efc0b181-7196-46cf-86f0-410ad789a7e3",
+        "path": "minecraft_texture\\textures\\block\\calcite.png"
+    },
+    {
+        "id": "d7757c2c-7de0-4ce0-8fbe-30a3679b374f",
+        "itemId": "9c041426-7b7f-421e-96de-e6bc25678453",
+        "path": "minecraft_texture\\textures\\block\\tuff.png"
+    },
+    {
+        "id": "d1d86cb7-dd34-4761-a1c0-72d3a8e1e32a",
+        "itemId": "629d80fd-1632-495f-b9a1-80e40b521114",
+        "path": "minecraft_texture\\textures\\block\\dripstone_block.png"
+    },
+    {
+        "id": "da234080-1d08-4ca9-95a6-5eac2c66af79",
+        "itemId": "c7d2c691-f56e-4696-afef-2d38a683961f",
+        "path": "minecraft_texture\\textures\\block\\dirt.png"
+    },
+    {
+        "id": "f8716eb0-f76f-4e62-b82a-e4ab67ce4de8",
+        "itemId": "9f051e2d-666f-49fc-9e66-93d7cf82f118",
+        "path": "minecraft_texture\\textures\\block\\coarse_dirt.png"
+    },
+    {
+        "id": "45aae9a2-6035-4432-b4bd-6f3838647929",
+        "itemId": "faade920-5442-4025-98d6-00b08d8bcfe3",
+        "path": "minecraft_texture\\textures\\block\\rooted_dirt.png"
+    },
+    {
+        "id": "f553ae6e-cbf2-4a01-88ae-d31bf49d38bb",
+        "itemId": "20e56df6-d331-42cc-97e4-df2f82d224fa",
+        "path": "minecraft_texture\\textures\\block\\mud.png"
+    },
+    {
+        "id": "b6579dfb-2cda-483a-8c4a-fbac172638c6",
+        "itemId": "412ae194-4392-4eb9-81a5-96ee19fa3571",
+        "path": "minecraft_texture\\textures\\block\\crimson_nylium.png"
+    },
+    {
+        "id": "23fafb06-9d2c-416b-9055-b7e584308e52",
+        "itemId": "2055d99f-df23-45f0-b10d-c99d6cc5986a",
+        "path": "minecraft_texture\\textures\\block\\warped_nylium.png"
+    },
+    {
+        "id": "2aea4d4b-f877-4d80-87a7-d50ca43c777a",
+        "itemId": "f7c59f23-5073-4e2a-ae10-f43ebd400731",
+        "path": "minecraft_texture\\textures\\block\\cobblestone.png"
+    },
+    {
+        "id": "f59ef1c6-2379-4fee-a935-0a6b8083fd98",
+        "itemId": "5ee517bd-4416-4f58-a65f-693b83704584",
+        "path": "minecraft_texture\\textures\\block\\oak_planks.png"
+    },
+    {
+        "id": "0be30264-4c8a-4e28-ac83-b76b8fa9ee55",
+        "itemId": "40df2dfb-b82a-4732-a527-db01cba8a0ca",
+        "path": "minecraft_texture\\textures\\block\\spruce_planks.png"
+    },
+    {
+        "id": "479fc83d-5b9b-4920-b76b-505537c89f93",
+        "itemId": "f8d9cf9b-49d7-4564-ad6a-22e9949f5fe9",
+        "path": "minecraft_texture\\textures\\block\\birch_planks.png"
+    },
+    {
+        "id": "09583d6a-f8ad-44ae-b467-ca6bbceb9e23",
+        "itemId": "01ee4027-b03e-47d6-a3c0-82e05070a094",
+        "path": "minecraft_texture\\textures\\block\\jungle_planks.png"
+    },
+    {
+        "id": "29174c31-2c6f-4b2c-a6c9-4bf906a429c5",
+        "itemId": "40231604-0797-4487-87a5-bebc62fd98c7",
+        "path": "minecraft_texture\\textures\\block\\acacia_planks.png"
+    },
+    {
+        "id": "9625163f-9ef3-4caf-975f-406ff14062f9",
+        "itemId": "cbf61959-2899-4af3-957a-e1240c594648",
+        "path": "minecraft_texture\\textures\\block\\cherry_planks.png"
+    },
+    {
+        "id": "959057c8-7d94-4056-92cc-c86b19ee4083",
+        "itemId": "937dbde6-a869-4002-b396-5a8c74096c55",
+        "path": "minecraft_texture\\textures\\block\\dark_oak_planks.png"
+    },
+    {
+        "id": "056bff34-486a-4813-bfd8-b1f9fe304a30",
+        "itemId": "fdc1ce50-e39b-4877-bb78-c4bf50c0d6df",
+        "path": "minecraft_texture\\textures\\block\\mangrove_planks.png"
+    },
+    {
+        "id": "d5fc883b-d602-435f-a48f-4b167cbbebe8",
+        "itemId": "5441e790-0bbc-461a-8fe3-72fa70eda759",
+        "path": "minecraft_texture\\textures\\block\\bamboo_planks.png"
+    },
+    {
+        "id": "0d6497b3-fd4e-4516-8de2-975926403e6b",
+        "itemId": "ce0aa0ef-6164-4644-b108-c5545fe4a2cf",
+        "path": "minecraft_texture\\textures\\block\\crimson_planks.png"
+    },
+    {
+        "id": "ec0cc92a-a249-4987-9a68-fe121e18eb29",
+        "itemId": "4169acc6-4bea-4221-9e57-91ab27bef011",
+        "path": "minecraft_texture\\textures\\block\\warped_planks.png"
+    },
+    {
+        "id": "5a398393-e2be-4a5f-a180-17db16a8e548",
+        "itemId": "9aac1e82-0177-45eb-98e0-467b43fbaf7b",
+        "path": "minecraft_texture\\textures\\block\\bamboo_mosaic.png"
+    },
+    {
+        "id": "b8fb1056-f72a-4b7c-b3c5-51e2efaba60e",
+        "itemId": "b3dd4a37-e07f-40e5-bfe3-dffdcba028f1",
+        "path": "minecraft_texture\\textures\\block\\oak_sapling.png"
+    },
+    {
+        "id": "49c29979-57ab-413d-8cae-3d915191739b",
+        "itemId": "a309bc32-b8ad-4276-8749-560e65c35cbb",
+        "path": "minecraft_texture\\textures\\block\\spruce_sapling.png"
+    },
+    {
+        "id": "579685cb-c86a-466f-8757-02d8a6410a50",
+        "itemId": "27f73da7-f464-4adc-a58b-362aa5aba04f",
+        "path": "minecraft_texture\\textures\\block\\birch_sapling.png"
+    },
+    {
+        "id": "5e762f1f-cce4-4fb2-92af-737a24490831",
+        "itemId": "ac6be003-291e-4158-a74f-057b576eea6a",
+        "path": "minecraft_texture\\textures\\block\\jungle_sapling.png"
+    },
+    {
+        "id": "e865af10-dcda-44fb-9c5a-cf426679795f",
+        "itemId": "b040e457-5bfe-412f-b6fd-9145263db632",
+        "path": "minecraft_texture\\textures\\block\\acacia_sapling.png"
+    },
+    {
+        "id": "dc1ebba1-bc10-4a6b-ab9e-0d570b1c253a",
+        "itemId": "cabb1f0f-06dc-4bb1-ba85-8f37616cd93c",
+        "path": "minecraft_texture\\textures\\block\\cherry_sapling.png"
+    },
+    {
+        "id": "09f25d0b-ab87-4078-97c2-53bd5628e0d3",
+        "itemId": "4d723c28-3292-40e4-ad9d-ebfe4d1474fb",
+        "path": "minecraft_texture\\textures\\block\\dark_oak_sapling.png"
+    },
+    {
+        "id": "f59ebd1c-40b1-4edb-bc03-4281029ff8ba",
+        "itemId": "defc4070-ec87-489d-ad82-55bf4730c506",
+        "path": "minecraft_texture\\textures\\block\\mangrove_propagule.png"
+    },
+    {
+        "id": "1558f59a-3f3a-4065-a700-d249122a6f99",
+        "itemId": "8c1463b9-059f-4a67-ab10-1d448aabeb83",
+        "path": "minecraft_texture\\textures\\block\\bedrock.png"
+    },
+    {
+        "id": "9757a522-eaaa-4d24-b2b0-27b3fef40c0e",
+        "itemId": "517a20e6-4f66-4f0a-a594-74d04bea1c0d",
+        "path": "minecraft_texture\\textures\\block\\sand.png"
+    },
+    {
+        "id": "31d81457-7cf3-44c1-942a-5d75033e4722",
+        "itemId": "71b5f8be-8d18-4107-873b-291946942703",
+        "path": "minecraft_texture\\textures\\block\\red_sand.png"
+    },
+    {
+        "id": "2ce22eca-6f63-4fa1-831b-29ae26622626",
+        "itemId": "44bbab1a-6fc7-48d9-b037-f7303bc9a788",
+        "path": "minecraft_texture\\textures\\block\\gravel.png"
+    },
+    {
+        "id": "fb39e051-2199-46ff-b328-94a7842bd80f",
+        "itemId": "56ee43fe-f874-4e9f-99f0-72a8326020fc",
+        "path": "minecraft_texture\\textures\\block\\coal_ore.png"
+    },
+    {
+        "id": "d63854ce-ea16-4814-9809-080ef441ab6e",
+        "itemId": "fd5c2180-801a-4dd6-91bc-d509796227b1",
+        "path": "minecraft_texture\\textures\\block\\deepslate_coal_ore.png"
+    },
+    {
+        "id": "b749b1ab-c17a-4514-8108-091f6ba13bc7",
+        "itemId": "dec7575d-ca7d-479a-b700-f00935faa27d",
+        "path": "minecraft_texture\\textures\\block\\iron_ore.png"
+    },
+    {
+        "id": "c00b83ad-1419-4acd-8062-c00e796674e4",
+        "itemId": "55c4b5ce-b1e4-4b28-a2ed-c8eb43c64344",
+        "path": "minecraft_texture\\textures\\block\\deepslate_iron_ore.png"
+    },
+    {
+        "id": "936dcb69-02c8-496a-8b67-f80c76cb6098",
+        "itemId": "d1a0562f-9132-4cd5-9856-f04141df0e55",
+        "path": "minecraft_texture\\textures\\block\\copper_ore.png"
+    },
+    {
+        "id": "2edd3ba8-484f-424a-88c9-feb7012153c7",
+        "itemId": "47cceabc-e9d9-45ae-afc7-8072d2daa62e",
+        "path": "minecraft_texture\\textures\\block\\deepslate_copper_ore.png"
+    },
+    {
+        "id": "ca5dd7eb-a6ee-4355-90f0-b6c89727e0ae",
+        "itemId": "ca4bda39-54b8-4085-aa4d-a460bbb11139",
+        "path": "minecraft_texture\\textures\\block\\gold_ore.png"
+    },
+    {
+        "id": "d841d1b1-4dc2-497f-8ac8-4a7266768c17",
+        "itemId": "bf9f7999-a8d2-46a5-a27e-086d33f0fad2",
+        "path": "minecraft_texture\\textures\\block\\deepslate_gold_ore.png"
+    },
+    {
+        "id": "02494ae5-0b26-43ee-b294-b36f14ca08ac",
+        "itemId": "f2684372-c89e-47f7-8467-4f76d113a347",
+        "path": "minecraft_texture\\textures\\block\\redstone_ore.png"
+    },
+    {
+        "id": "bf745c1f-a760-450d-97b8-676212ed91e8",
+        "itemId": "7f4d7f84-31ea-49fc-9ff0-a9620a0253b0",
+        "path": "minecraft_texture\\textures\\block\\deepslate_redstone_ore.png"
+    },
+    {
+        "id": "4117c1af-187e-4a6d-a96b-9080568a7a66",
+        "itemId": "30d7505b-0e2d-4a12-9556-822af412f018",
+        "path": "minecraft_texture\\textures\\block\\emerald_ore.png"
+    },
+    {
+        "id": "fb3d1024-e5a6-4ba3-9f3c-b905bf4168f8",
+        "itemId": "22f875f8-7823-45be-8ec0-4dd082950e23",
+        "path": "minecraft_texture\\textures\\block\\deepslate_emerald_ore.png"
+    },
+    {
+        "id": "a651ff8a-49f6-46f0-96fc-738c948bf231",
+        "itemId": "3206f87b-6ab3-4bad-9125-8cf1f9215e8c",
+        "path": "minecraft_texture\\textures\\block\\lapis_ore.png"
+    },
+    {
+        "id": "b41c79d2-daf2-4211-a193-c3bec8127b62",
+        "itemId": "98e0f322-1938-4322-bb84-ff121b429b91",
+        "path": "minecraft_texture\\textures\\block\\deepslate_lapis_ore.png"
+    },
+    {
+        "id": "fb2daebd-07b9-4e81-ac05-c661475d4b68",
+        "itemId": "6e17706f-e2fa-4262-adcd-60209de2fe37",
+        "path": "minecraft_texture\\textures\\block\\diamond_ore.png"
+    },
+    {
+        "id": "3a6a73e9-97e2-4a40-9227-f37263c5fa02",
+        "itemId": "cfbe2f06-26f3-4aca-a0b6-45f54675457c",
+        "path": "minecraft_texture\\textures\\block\\deepslate_diamond_ore.png"
+    },
+    {
+        "id": "693df339-6716-4061-8786-fd8de1ddd585",
+        "itemId": "89482a9f-16c0-434b-9624-72ca34ca28d0",
+        "path": "minecraft_texture\\textures\\block\\nether_gold_ore.png"
+    },
+    {
+        "id": "4390f726-5f74-460d-95f3-b5bc8aa332ee",
+        "itemId": "6ac16295-a64b-4fe1-8520-6d7c8b3e3511",
+        "path": "minecraft_texture\\textures\\block\\nether_quartz_ore.png"
+    },
+    {
+        "id": "f5fa3b1f-aca7-410a-a271-48fb51d8f602",
+        "itemId": "2d5cd1f1-7172-47e3-9c7d-96691dbdbb76",
+        "path": "minecraft_texture\\textures\\block\\coal_block.png"
+    },
+    {
+        "id": "1e138f37-6103-4ae1-9f00-5d96042b7c6c",
+        "itemId": "e16de032-9eae-4cb5-9f4a-19f2d9106027",
+        "path": "minecraft_texture\\textures\\block\\raw_iron_block.png"
+    },
+    {
+        "id": "e24c287e-f911-4871-a64e-5a66c6400ab9",
+        "itemId": "fa1a22c1-16b8-4a73-b23f-15a6636be1bf",
+        "path": "minecraft_texture\\textures\\block\\raw_copper_block.png"
+    },
+    {
+        "id": "e9a4734f-75b2-47a7-81eb-ec7e280b15d9",
+        "itemId": "1e70dc91-3ae4-4018-8023-a64553664d07",
+        "path": "minecraft_texture\\textures\\block\\raw_gold_block.png"
+    },
+    {
+        "id": "31df2617-415b-4a3d-b673-73e1c746a5ea",
+        "itemId": "d7d58eb5-ba1f-40bf-b773-4da4f193b25f",
+        "path": "minecraft_texture\\textures\\block\\amethyst_block.png"
+    },
+    {
+        "id": "ce431c8b-9e03-44fb-a253-62b32a884010",
+        "itemId": "a9c465ed-94a3-4d43-a3d1-73d68320386b",
+        "path": "minecraft_texture\\textures\\block\\budding_amethyst.png"
+    },
+    {
+        "id": "5903b1a2-628d-4a5d-890d-7041f3bca84d",
+        "itemId": "fc68beff-4871-45a3-94a6-de964acf0b8e",
+        "path": "minecraft_texture\\textures\\block\\iron_block.png"
+    },
+    {
+        "id": "8825efa6-9640-4fbc-b8b6-1bb581bf377e",
+        "itemId": "dafae349-1260-4c01-804f-6c3168d33d08",
+        "path": "minecraft_texture\\textures\\block\\copper_block.png"
+    },
+    {
+        "id": "ffd2dfb3-8594-4288-bc4d-5d441c0bfedf",
+        "itemId": "b871a6be-11f3-4275-85c4-421da8962318",
+        "path": "minecraft_texture\\textures\\block\\gold_block.png"
+    },
+    {
+        "id": "a5279d3b-402e-4fc1-8d66-5a3c39ad6c57",
+        "itemId": "f1b7e928-5e98-45f2-a013-2c56123ba895",
+        "path": "minecraft_texture\\textures\\block\\diamond_block.png"
+    },
+    {
+        "id": "daed4f1c-556c-499c-bc0c-c9f155429f89",
+        "itemId": "d7d7443e-c7d5-4144-881f-7369536da85b",
+        "path": "minecraft_texture\\textures\\block\\netherite_block.png"
+    },
+    {
+        "id": "0b5044be-c17a-4173-90dd-4f42566db8fb",
+        "itemId": "65d4b4e3-5e7a-49e5-9994-27b5f3458f35",
+        "path": "minecraft_texture\\textures\\block\\exposed_copper.png"
+    },
+    {
+        "id": "04dbf552-78b3-4c11-aad4-9930e7fa4e1f",
+        "itemId": "a25e3f6c-aee6-421c-b2a7-c7773e908668",
+        "path": "minecraft_texture\\textures\\block\\weathered_copper.png"
+    },
+    {
+        "id": "0a2a045f-3f1e-4265-abe8-8576c2c826d2",
+        "itemId": "92dffddd-3971-4174-8d81-8d4174e2c22d",
+        "path": "minecraft_texture\\textures\\block\\oxidized_copper.png"
+    },
+    {
+        "id": "01810bf4-6313-474e-aa9d-1d2d1be81561",
+        "itemId": "b1cc27a5-85c0-4d58-a5d7-49936f30d986",
+        "path": "minecraft_texture\\textures\\block\\cut_copper.png"
+    },
+    {
+        "id": "e8b35ebe-3bac-421e-a22e-7707a97cea64",
+        "itemId": "dd77f069-bdf0-43bb-bd3a-8b9eb65208cd",
+        "path": "minecraft_texture\\textures\\block\\exposed_cut_copper.png"
+    },
+    {
+        "id": "a03d073a-20ee-4e34-be02-bff60f85d014",
+        "itemId": "edc97c7d-6725-411e-9a58-ac2716b39be6",
+        "path": "minecraft_texture\\textures\\block\\weathered_cut_copper.png"
+    },
+    {
+        "id": "39214fa9-4fd1-44ae-a4e8-d76a58333cc1",
+        "itemId": "4878cc63-a9e5-44ce-84b9-dc718dacd532",
+        "path": "minecraft_texture\\textures\\block\\oxidized_cut_copper.png"
+    },
+    {
+        "id": "b04fb7ab-411d-4d09-ba83-5cd6076bc931",
+        "itemId": "a54a7d7b-3921-451a-8f63-5692dd6dd38c",
+        "path": "minecraft_texture\\textures\\block\\oak_log.png"
+    },
+    {
+        "id": "476520ec-def9-4aff-ab55-f131b7081cce",
+        "itemId": "5559aade-2773-446b-bcad-565556226fcc",
+        "path": "minecraft_texture\\textures\\block\\spruce_log.png"
+    },
+    {
+        "id": "9530cd4d-488b-4aa1-bd95-2dfa4a10691d",
+        "itemId": "89083754-225f-45f5-aebb-0cca0445d3db",
+        "path": "minecraft_texture\\textures\\block\\birch_log.png"
+    },
+    {
+        "id": "c29936f1-917c-4a26-bcc2-1d0c909f944e",
+        "itemId": "36dc22c5-0f9e-46c7-99a9-df5d839d52ec",
+        "path": "minecraft_texture\\textures\\block\\jungle_log.png"
+    },
+    {
+        "id": "e326fcd9-bbc0-46ba-86a5-3b3aaf80bccb",
+        "itemId": "b2775e54-4819-4fef-830a-24831c17df53",
+        "path": "minecraft_texture\\textures\\block\\acacia_log.png"
+    },
+    {
+        "id": "01b9847d-d035-4624-8485-9aada36bc75f",
+        "itemId": "f9733e9a-9b1d-4343-b334-7b53e801420a",
+        "path": "minecraft_texture\\textures\\block\\cherry_log.png"
+    },
+    {
+        "id": "17dbdc07-6216-41d1-96d4-3b391d20935e",
+        "itemId": "5c9ac640-fcb7-46c1-895c-9913cf790743",
+        "path": "minecraft_texture\\textures\\block\\dark_oak_log.png"
+    },
+    {
+        "id": "4c14518a-b813-4af3-b5a9-993c23e501b8",
+        "itemId": "6bc0e5f2-ccc7-4713-91c3-0f312b7112d2",
+        "path": "minecraft_texture\\textures\\block\\mangrove_log.png"
+    },
+    {
+        "id": "a5263bcf-efcc-4618-af14-0eb7d23ad03e",
+        "itemId": "bb190428-c692-4f27-b56c-13dcb7d9db4d",
+        "path": "minecraft_texture\\textures\\block\\crimson_stem.png"
+    },
+    {
+        "id": "2454cfbc-580d-4f0f-8c30-17e9924d137b",
+        "itemId": "cda4516a-a69a-444a-a538-fbf797ce6ff5",
+        "path": "minecraft_texture\\textures\\block\\warped_stem.png"
+    },
+    {
+        "id": "0a842a34-e3c2-44d4-b7d5-9ae4205389c5",
+        "itemId": "02b1ddd2-615c-44c7-9593-28c7a4dc4a70",
+        "path": "minecraft_texture\\textures\\block\\bamboo_block.png"
+    },
+    {
+        "id": "c1571f80-1e40-495e-9884-1f959b12f744",
+        "itemId": "5688e10f-9ec4-451c-9178-d9976a257724",
+        "path": "minecraft_texture\\textures\\block\\stripped_oak_log.png"
+    },
+    {
+        "id": "08bd26cf-a0c7-45b9-aced-75f3168c4495",
+        "itemId": "6496dac6-0186-46e9-baaf-31fecff74e4b",
+        "path": "minecraft_texture\\textures\\block\\stripped_spruce_log.png"
+    },
+    {
+        "id": "8b85b922-fbe6-4d5a-9b80-ed5e4aec942c",
+        "itemId": "1c982ce8-2332-4877-810b-bef9c98eef0c",
+        "path": "minecraft_texture\\textures\\block\\stripped_birch_log.png"
+    },
+    {
+        "id": "9af7fbc5-ae9a-43e1-aa34-2a4ed2e72b05",
+        "itemId": "70142945-787c-430c-ba39-6c15feae479b",
+        "path": "minecraft_texture\\textures\\block\\stripped_jungle_log.png"
+    },
+    {
+        "id": "5ec4df0a-e599-4fea-9c38-d402e0887c88",
+        "itemId": "d9638ea6-a4aa-4b54-b950-b92a7b9cca3f",
+        "path": "minecraft_texture\\textures\\block\\stripped_acacia_log.png"
+    },
+    {
+        "id": "9b810aff-344c-4eb3-9c7a-8cff89084994",
+        "itemId": "602dde8f-5edd-4be0-91ff-eaa9d06b1893",
+        "path": "minecraft_texture\\textures\\block\\stripped_cherry_log.png"
+    },
+    {
+        "id": "5dfd1c94-30af-47ce-a3b8-746a2ed65757",
+        "itemId": "9d2164b6-178f-48c8-99c2-5f9f28c5067a",
+        "path": "minecraft_texture\\textures\\block\\stripped_dark_oak_log.png"
+    },
+    {
+        "id": "acbb14d9-40f0-452f-aeee-5c435785a397",
+        "itemId": "161f76de-d18d-4363-a88c-3d6415df46e9",
+        "path": "minecraft_texture\\textures\\block\\stripped_mangrove_log.png"
+    },
+    {
+        "id": "322c41f5-0fb3-4f5f-aef1-bcd676ac4d4a",
+        "itemId": "6910222d-c9a0-4def-b7dd-a160789b872f",
+        "path": "minecraft_texture\\textures\\block\\stripped_crimson_stem.png"
+    },
+    {
+        "id": "5e3bd159-6491-4693-b00a-dbdd0132817d",
+        "itemId": "42c8d767-2725-4bd6-bf40-83d9ad719331",
+        "path": "minecraft_texture\\textures\\block\\stripped_warped_stem.png"
+    },
+    {
+        "id": "ab861714-6e11-493e-8ef7-0a0e2015b0f0",
+        "itemId": "3e25eec3-fb56-4b80-8ddd-50c91e130ef1",
+        "path": "minecraft_texture\\textures\\block\\stripped_bamboo_block.png"
+    },
+    {
+        "id": "6504945c-5ac5-4135-bba7-0610399fe57a",
+        "itemId": "99f7d2ba-cd6c-4034-aa39-c56085ff402b",
+        "path": "minecraft_texture\\textures\\block\\oak_leaves.png"
+    },
+    {
+        "id": "68854046-48ee-4127-98e4-fc35d0df2155",
+        "itemId": "93a958b5-a3f0-4416-8d38-d93143161f03",
+        "path": "minecraft_texture\\textures\\block\\spruce_leaves.png"
+    },
+    {
+        "id": "622e3394-538e-48f6-b5fa-3167234f89ab",
+        "itemId": "5ac53b7d-58bf-43e9-89b9-5ef95e92fe45",
+        "path": "minecraft_texture\\textures\\block\\birch_leaves.png"
+    },
+    {
+        "id": "f3b30554-417b-49f5-ad0f-1d39b1201d47",
+        "itemId": "143615c6-8460-4005-b810-b0e4bc277678",
+        "path": "minecraft_texture\\textures\\block\\jungle_leaves.png"
+    },
+    {
+        "id": "45fe5052-3c1e-4829-a324-28ca5174a6c7",
+        "itemId": "c8805cc5-38b8-4b1c-a23a-9c5e213f805e",
+        "path": "minecraft_texture\\textures\\block\\acacia_leaves.png"
+    },
+    {
+        "id": "59d1bdde-6b09-42fc-8bb6-5ed86f93d146",
+        "itemId": "952ec8d5-79ee-46ed-ae14-75123096d07f",
+        "path": "minecraft_texture\\textures\\block\\cherry_leaves.png"
+    },
+    {
+        "id": "b2298205-0d5a-4956-977f-123e521be0d6",
+        "itemId": "7ab0d7b4-78fe-4561-98d3-93bc7df4305c",
+        "path": "minecraft_texture\\textures\\block\\dark_oak_leaves.png"
+    },
+    {
+        "id": "cbad651a-4a66-4f17-9c21-2085c4b5c595",
+        "itemId": "a7799fdb-f6b6-44f9-9b65-e8dd20e67fc3",
+        "path": "minecraft_texture\\textures\\block\\mangrove_leaves.png"
+    },
+    {
+        "id": "44452d1c-f677-4630-baf7-489e45053811",
+        "itemId": "37bf999b-ceb6-4575-aebd-36a71ec806f6",
+        "path": "minecraft_texture\\textures\\block\\azalea_leaves.png"
+    },
+    {
+        "id": "3248ad03-8122-4aa3-8cfe-1a6cd3313b93",
+        "itemId": "5ae7db95-5ebd-4930-a29c-bd86457a9726",
+        "path": "minecraft_texture\\textures\\block\\flowering_azalea_leaves.png"
+    },
+    {
+        "id": "7ff14f3c-0776-4f3b-ac40-2018d34c9cb3",
+        "itemId": "c45b05d5-72e6-4447-9185-520889b68339",
+        "path": "minecraft_texture\\textures\\block\\sponge.png"
+    },
+    {
+        "id": "3eaf8f3a-662f-4a22-b405-21fbce7f62b9",
+        "itemId": "9e20246e-2752-4081-8179-f01d82fd0711",
+        "path": "minecraft_texture\\textures\\block\\wet_sponge.png"
+    },
+    {
+        "id": "4c30481b-0c2c-4970-ba7c-d5fe0203cc2c",
+        "itemId": "9274a1ed-9eab-49dc-9846-571fbe425ed0",
+        "path": "minecraft_texture\\textures\\block\\glass.png"
+    },
+    {
+        "id": "477dc592-2b66-4dc0-973e-62d68c53d25b",
+        "itemId": "1ff8f2a5-909e-4ccb-9634-ced15b46684d",
+        "path": "minecraft_texture\\textures\\block\\tinted_glass.png"
+    },
+    {
+        "id": "6ac66031-510c-47b9-8f50-78285987275a",
+        "itemId": "c8c0165c-84be-4440-910e-fc2257a7ac48",
+        "path": "minecraft_texture\\textures\\block\\lapis_block.png"
+    },
+    {
+        "id": "552d3f62-1f4b-4113-9414-cec577e26698",
+        "itemId": "7c3e11e3-11da-4a30-82bc-28e55dc1e250",
+        "path": "minecraft_texture\\textures\\block\\sandstone.png"
+    },
+    {
+        "id": "6ce24673-0f79-4a6a-be9a-413eec0d45d4",
+        "itemId": "a39bccdc-fc38-44d5-af2e-5066d88fa2ce",
+        "path": "minecraft_texture\\textures\\block\\chiseled_sandstone.png"
+    },
+    {
+        "id": "61cb8b61-4ce4-4b8e-ae19-88fd1258f06c",
+        "itemId": "415c872e-4085-4714-be26-7729941de537",
+        "path": "minecraft_texture\\textures\\block\\cut_sandstone.png"
+    },
+    {
+        "id": "3c1af284-7881-49d0-b20c-088f826f2716",
+        "itemId": "28aa1bd9-4080-4a6c-8b5f-fb9653906c20",
+        "path": "minecraft_texture\\textures\\block\\cobweb.png"
+    },
+    {
+        "id": "386baa91-767e-433f-9efc-bf02fcf59ab6",
+        "itemId": "9bbc3f6f-98f4-4413-8b7c-daf872996ec6",
+        "path": "minecraft_texture\\textures\\block\\grass.png"
+    },
+    {
+        "id": "e1757967-f968-40c6-b370-ff6ab91bda2a",
+        "itemId": "97150580-fbb3-4503-8db7-e61fabe5d32a",
+        "path": "minecraft_texture\\textures\\block\\fern.png"
+    },
+    {
+        "id": "de4f0a0a-cf2d-45bb-80d0-77aef9411ce3",
+        "itemId": "fa6f064e-5ca5-4e4c-8693-eef484fc3188",
+        "path": "minecraft_texture\\textures\\block\\dead_bush.png"
+    },
+    {
+        "id": "9c99bbed-6aaf-4c93-ab69-ed6451f1c502",
+        "itemId": "d388a4c1-2557-4a5b-82d2-162682dbd711",
+        "path": "minecraft_texture\\textures\\block\\seagrass.png"
+    },
+    {
+        "id": "817adb1d-c2c9-4592-8e58-ebd0dba9b3d5",
+        "itemId": "ec220c74-7833-4cc7-ad40-3420d5328105",
+        "path": "minecraft_texture\\textures\\block\\sea_pickle.png"
+    },
+    {
+        "id": "80315534-92f7-46b9-aa58-a8f63673e0e4",
+        "itemId": "ae690405-16f2-4c44-a65f-cc856585a2b2",
+        "path": "minecraft_texture\\textures\\block\\white_wool.png"
+    },
+    {
+        "id": "ff1dda9f-384d-4370-892d-026906f7e2b0",
+        "itemId": "bf614fda-073d-42ad-b56f-7b00d430986d",
+        "path": "minecraft_texture\\textures\\block\\orange_wool.png"
+    },
+    {
+        "id": "c6c142f4-9b9f-4f18-9755-786dfc7a9fb9",
+        "itemId": "558dab73-e490-46e9-bb14-b3c94007db0f",
+        "path": "minecraft_texture\\textures\\block\\magenta_wool.png"
+    },
+    {
+        "id": "48c17479-688b-4a99-bdd4-4316c6be7224",
+        "itemId": "42077ac6-cd5a-4547-819f-73d92e3a25c3",
+        "path": "minecraft_texture\\textures\\block\\light_blue_wool.png"
+    },
+    {
+        "id": "b784f286-7d11-495b-ab42-87fb89707fed",
+        "itemId": "6bf216ad-f2bc-4935-8515-5c04940015fa",
+        "path": "minecraft_texture\\textures\\block\\yellow_wool.png"
+    },
+    {
+        "id": "1d62ad05-dc44-482e-9744-1baf546cc7db",
+        "itemId": "150f57f8-d27c-4325-a803-d0333a596355",
+        "path": "minecraft_texture\\textures\\block\\lime_wool.png"
+    },
+    {
+        "id": "b054fccd-f0ac-4160-9be3-81057eea1124",
+        "itemId": "025fee9b-fa21-43b8-948d-2b5e48772151",
+        "path": "minecraft_texture\\textures\\block\\pink_wool.png"
+    },
+    {
+        "id": "77e43041-baee-417b-b05e-4ad7007639ea",
+        "itemId": "4fac98b3-8297-4a92-815f-9badeec4354b",
+        "path": "minecraft_texture\\textures\\block\\gray_wool.png"
+    },
+    {
+        "id": "dd139c05-ae4d-4113-969a-af610439d5ee",
+        "itemId": "466441ed-6e4f-44ff-88ad-ffcd2e9ff3d0",
+        "path": "minecraft_texture\\textures\\block\\light_gray_wool.png"
+    },
+    {
+        "id": "32c7897c-2ab2-445b-8b65-35a9366a444a",
+        "itemId": "cc4f901c-14c8-4ee3-b80d-fa86ef075548",
+        "path": "minecraft_texture\\textures\\block\\cyan_wool.png"
+    },
+    {
+        "id": "6cc5e271-291c-4830-9534-a0a810cdb9c6",
+        "itemId": "2b746cb0-72d3-4c52-af5b-411533d10af5",
+        "path": "minecraft_texture\\textures\\block\\purple_wool.png"
+    },
+    {
+        "id": "4df389a3-fb4a-4d63-9904-507a8effa16f",
+        "itemId": "6fc40d4c-eae2-4981-bd11-89590d1af114",
+        "path": "minecraft_texture\\textures\\block\\blue_wool.png"
+    },
+    {
+        "id": "c6a464fa-a328-443b-963b-5b5d5b48b427",
+        "itemId": "c19706e0-8c6b-43de-bb75-a9896b791bbc",
+        "path": "minecraft_texture\\textures\\block\\brown_wool.png"
+    },
+    {
+        "id": "425d8bec-5749-4b35-a79f-26f0e9dd6583",
+        "itemId": "d623f4eb-c6d4-4e53-a915-3acc10f4e60a",
+        "path": "minecraft_texture\\textures\\block\\green_wool.png"
+    },
+    {
+        "id": "366fc40e-6de7-42f8-8876-7d8c55183fec",
+        "itemId": "7cf1f015-05c5-4b8f-b7c9-faae205d096b",
+        "path": "minecraft_texture\\textures\\block\\red_wool.png"
+    },
+    {
+        "id": "f26004ae-c3b6-40e6-adfb-649298ad8591",
+        "itemId": "42674db9-3e33-4cba-b6b3-5fbf4fe9f6da",
+        "path": "minecraft_texture\\textures\\block\\black_wool.png"
+    },
+    {
+        "id": "3243fabb-a912-42bf-ab55-de80a4c8b470",
+        "itemId": "0b7fd45a-144d-4e28-b96f-1922fd0f8729",
+        "path": "minecraft_texture\\textures\\block\\dandelion.png"
+    },
+    {
+        "id": "2bc43e61-1875-4b09-9125-9456674a4bae",
+        "itemId": "b5269886-5f74-4bcf-86c5-e76d37a0dd14",
+        "path": "minecraft_texture\\textures\\block\\poppy.png"
+    },
+    {
+        "id": "4b2c125e-e735-49f0-96b8-1e38305ab486",
+        "itemId": "76367f8e-a30d-43df-b997-74633094176a",
+        "path": "minecraft_texture\\textures\\block\\blue_orchid.png"
+    },
+    {
+        "id": "20f79be0-7470-4727-b4ac-473ded4d5024",
+        "itemId": "3e66ef59-c6aa-4f03-98eb-e9f052ec51ae",
+        "path": "minecraft_texture\\textures\\block\\allium.png"
+    },
+    {
+        "id": "d5fe02b0-b21d-420b-8ec3-49922c7ea200",
+        "itemId": "d71831b4-002b-431c-a756-504369dd1736",
+        "path": "minecraft_texture\\textures\\block\\azure_bluet.png"
+    },
+    {
+        "id": "cd5d0c08-3293-41cb-aa5b-1afb2c899865",
+        "itemId": "7751d217-a6e1-42c0-bd63-9da1a0c384d6",
+        "path": "minecraft_texture\\textures\\block\\red_tulip.png"
+    },
+    {
+        "id": "a1e0ff80-b89d-4f54-baf0-20cf1e950806",
+        "itemId": "83652cdd-e127-43b0-bc1a-ac46a8cd59bb",
+        "path": "minecraft_texture\\textures\\block\\orange_tulip.png"
+    },
+    {
+        "id": "aaa1b42e-314d-4606-b8eb-768bb60c622d",
+        "itemId": "b92b033d-37d3-457d-a498-8763dd760e88",
+        "path": "minecraft_texture\\textures\\block\\white_tulip.png"
+    },
+    {
+        "id": "2be7a37e-94d3-4bdc-bbdb-c533943f552e",
+        "itemId": "aaacd83a-e0d9-4bed-8bef-98f431e96e5d",
+        "path": "minecraft_texture\\textures\\block\\pink_tulip.png"
+    },
+    {
+        "id": "4c10117d-766b-4e62-831f-cf47d75b271a",
+        "itemId": "ada9419e-f6d9-4510-a8bc-0f52cbac5469",
+        "path": "minecraft_texture\\textures\\block\\oxeye_daisy.png"
+    },
+    {
+        "id": "6000960b-62a6-4517-b8ae-0a4e36266589",
+        "itemId": "5daf7afd-1ac5-42c5-9e45-96173aa8073a",
+        "path": "minecraft_texture\\textures\\block\\cornflower.png"
+    },
+    {
+        "id": "f347cb25-7a0f-4f3b-bb9c-f3e2d42930af",
+        "itemId": "8bca3513-6742-4320-95fc-eae63ad297e6",
+        "path": "minecraft_texture\\textures\\block\\lily_of_the_valley.png"
+    },
+    {
+        "id": "a25a6955-300f-430d-9939-0bcba1e37907",
+        "itemId": "0dedfc2d-baa3-46a2-96da-9fb119e2dcee",
+        "path": "minecraft_texture\\textures\\block\\wither_rose.png"
+    },
+    {
+        "id": "ee3df69b-c621-4e0a-806f-ffedf24ee8ad",
+        "itemId": "23d1633c-4638-4f90-8071-2ecc0a6800fc",
+        "path": "minecraft_texture\\textures\\block\\torchflower.png"
+    },
+    {
+        "id": "d8b6ba73-bfdb-4e6e-98d8-a31c1bf05595",
+        "itemId": "74f157b5-71e9-4912-a36a-4306b3eb7cd0",
+        "path": "minecraft_texture\\textures\\item\\pitcher_plant.png"
+    },
+    {
+        "id": "cd49efad-641d-4a03-9b1e-48513c24c1e3",
+        "itemId": "53297d72-e798-48d6-b0ae-06baa647642b",
+        "path": "minecraft_texture\\textures\\block\\spore_blossom.png"
+    },
+    {
+        "id": "942bb0d0-e953-4d01-a8d2-dc92ad5be34c",
+        "itemId": "8d7ce025-da20-4ea6-80be-2f63dfbf17b3",
+        "path": "minecraft_texture\\textures\\block\\brown_mushroom.png"
+    },
+    {
+        "id": "dd3d923f-b5ed-4dff-8ae3-20108c2e80ff",
+        "itemId": "5ddf564e-4cdc-4f94-a68b-2f09af904dff",
+        "path": "minecraft_texture\\textures\\block\\red_mushroom.png"
+    },
+    {
+        "id": "deeb1bc0-bbcf-4440-90a6-c1591eb27994",
+        "itemId": "496b8969-d4f8-4fa0-aa1c-ce1c8646b13d",
+        "path": "minecraft_texture\\textures\\block\\crimson_fungus.png"
+    },
+    {
+        "id": "fc90b274-f366-45d6-a3fe-30711622c96e",
+        "itemId": "b4b1df41-c666-48b1-bd39-f8fb4dbfc0aa",
+        "path": "minecraft_texture\\textures\\block\\warped_fungus.png"
+    },
+    {
+        "id": "a54e86e9-d7c2-467d-951d-202fa3d3e19e",
+        "itemId": "72433192-5435-4359-b755-f7910c4d6e92",
+        "path": "minecraft_texture\\textures\\block\\crimson_roots.png"
+    },
+    {
+        "id": "a90a75c8-2e5f-4fcd-b867-4ed8c27a81f7",
+        "itemId": "6d361083-af22-4757-9e13-e8105aaa9b42",
+        "path": "minecraft_texture\\textures\\block\\warped_roots.png"
+    },
+    {
+        "id": "e2dfabf1-bbac-41e7-885e-9e1a2ff58449",
+        "itemId": "d944ddb1-b015-48e1-a5af-3ad70e294170",
+        "path": "minecraft_texture\\textures\\block\\nether_sprouts.png"
+    },
+    {
+        "id": "1d02ab68-cda8-4ad4-9dcc-740d4954524f",
+        "itemId": "d8a91a11-3b5d-43fa-a9d3-6dca0545fe0f",
+        "path": "minecraft_texture\\textures\\block\\weeping_vines.png"
+    },
+    {
+        "id": "3fd97962-6deb-4b37-be18-e1ac9476d553",
+        "itemId": "b0b048dd-733e-493e-9eeb-acdb44d6f666",
+        "path": "minecraft_texture\\textures\\block\\twisting_vines.png"
+    },
+    {
+        "id": "df9c7fed-e6e3-45e9-8b71-9bc40f6af288",
+        "itemId": "cb6cae41-37fc-4698-aa32-5046b64c6acd",
+        "path": "minecraft_texture\\textures\\block\\sugar_cane.png"
+    },
+    {
+        "id": "295ca3a7-bc33-4b62-bcaf-94f1960883ad",
+        "itemId": "e3a11c02-5692-4633-b47c-43416b9c7ea5",
+        "path": "minecraft_texture\\textures\\block\\kelp.png"
+    },
+    {
+        "id": "b3e54a04-946c-43db-ac7a-fdc713537a4e",
+        "itemId": "34cb05ad-0379-4984-b02c-e474eb5e927d",
+        "path": "minecraft_texture\\textures\\block\\pink_petals.png"
+    },
+    {
+        "id": "8896c228-402d-4be3-8722-76d7fc3efdb8",
+        "itemId": "6851e86e-ea0f-41e0-9286-38e0e88743c3",
+        "path": "minecraft_texture\\textures\\block\\moss_block.png"
+    },
+    {
+        "id": "df351813-11c8-4a80-a02c-63eca2c3cd73",
+        "itemId": "3fcbaece-8401-4ace-b9be-300695bc9ed4",
+        "path": "minecraft_texture\\textures\\block\\hanging_roots.png"
+    },
+    {
+        "id": "b4083d83-ec2a-4ad6-b761-2e4af9c5ea5a",
+        "itemId": "e762673a-e1e2-4cb9-911f-2f2fd0bf1c1b",
+        "path": "minecraft_texture\\textures\\entity\\boat\\bamboo.png"
+    },
+    {
+        "id": "6dea0e92-32c2-444c-bfd1-70029fe01598",
+        "itemId": "2fbbeccf-a596-4501-ae20-cb5a059c4e84",
+        "path": "minecraft_texture\\textures\\block\\smooth_stone.png"
+    },
+    {
+        "id": "82f49c94-a3e2-4d71-9a26-46a1dcebda64",
+        "itemId": "e463778c-5008-41a7-8fcd-87249e834511",
+        "path": "minecraft_texture\\textures\\block\\bricks.png"
+    },
+    {
+        "id": "95d904b5-1cb7-4e84-a2c5-1075e63bbf85",
+        "itemId": "4f263d96-d0e8-4d46-a4f1-345f736c6a0a",
+        "path": "minecraft_texture\\textures\\block\\bookshelf.png"
+    },
+    {
+        "id": "c8275c7f-1c30-4689-a0ba-79c516de132f",
+        "itemId": "5acb4e4f-72b2-426f-9eb2-cd04789a6216",
+        "path": "minecraft_texture\\textures\\block\\mossy_cobblestone.png"
+    },
+    {
+        "id": "f4d4cf00-300b-42bc-a508-d4e4b1e18fe8",
+        "itemId": "e12354b8-e5f2-49c1-b67c-d8e95676c95e",
+        "path": "minecraft_texture\\textures\\block\\obsidian.png"
+    },
+    {
+        "id": "82c7b8ff-9ee8-471c-a7ef-5f3b7ca48783",
+        "itemId": "9645cde2-8ce1-432f-896e-9b9df8ed7559",
+        "path": "minecraft_texture\\textures\\block\\torch.png"
+    },
+    {
+        "id": "c51cc2fb-fe47-4fb6-a131-85ef83d32546",
+        "itemId": "3bcb5469-98fc-4549-a79a-76ef56497249",
+        "path": "minecraft_texture\\textures\\block\\end_rod.png"
+    },
+    {
+        "id": "d8e18c96-e9a0-4843-b3cc-ee85fb6a9145",
+        "itemId": "e256654e-51fe-41ea-87a7-80976110f889",
+        "path": "minecraft_texture\\textures\\block\\chorus_plant.png"
+    },
+    {
+        "id": "be1fa125-7e24-44db-b52a-e0fae0657f71",
+        "itemId": "5f675f3f-3474-464f-aa1b-b0fde2857f4d",
+        "path": "minecraft_texture\\textures\\block\\chorus_flower.png"
+    },
+    {
+        "id": "aecbefca-55dc-4eac-946c-37404fec0f46",
+        "itemId": "805e8e20-548b-4c78-965b-bb4919df28f6",
+        "path": "minecraft_texture\\textures\\block\\purpur_block.png"
+    },
+    {
+        "id": "a16a0d08-5e7f-42eb-ab76-a4b294af18f3",
+        "itemId": "93fc7354-51d0-4a9b-8df2-ad1e985030d5",
+        "path": "minecraft_texture\\textures\\block\\purpur_pillar.png"
+    },
+    {
+        "id": "951af3eb-158b-4133-a073-4df213037ce6",
+        "itemId": "70c27a60-2e29-482c-90a4-93de14cb8e0b",
+        "path": "minecraft_texture\\textures\\block\\spawner.png"
+    },
+    {
+        "id": "4d14e573-3579-41bb-89df-d94716446f00",
+        "itemId": "8a8624a7-6e41-48bf-9c45-9e64d275474e",
+        "path": "minecraft_texture\\textures\\gui\\container\\crafting_table.png"
+    },
+    {
+        "id": "aa14ddad-b09f-409a-9ad3-bee114a7f166",
+        "itemId": "fe6d171f-aee7-4a08-bf72-5a675f5f6a90",
+        "path": "minecraft_texture\\textures\\block\\farmland.png"
+    },
+    {
+        "id": "8f145fb0-0489-4f2c-9bba-9642d3abf19f",
+        "itemId": "cd2335a6-e5fa-4eb8-8510-d5337203b135",
+        "path": "minecraft_texture\\textures\\gui\\container\\furnace.png"
+    },
+    {
+        "id": "c7e2d5bb-3244-452d-a292-4e42238fad2f",
+        "itemId": "45ea47a8-5d3a-4d02-b519-da50f11e73e1",
+        "path": "minecraft_texture\\textures\\block\\ladder.png"
+    },
+    {
+        "id": "a746e6ec-b938-45da-84ed-c2ee4d71f789",
+        "itemId": "8dada609-563b-412b-b9a9-bc23ffa9b8ed",
+        "path": "minecraft_texture\\textures\\block\\snow.png"
+    },
+    {
+        "id": "bf3fe3c1-946d-424c-bfaa-627988852187",
+        "itemId": "1f53a037-8c47-40c4-b27d-38a5f9480a96",
+        "path": "minecraft_texture\\textures\\block\\ice.png"
+    },
+    {
+        "id": "bc962686-46bd-4bba-b1b5-57ad4540c08f",
+        "itemId": "d5fd65ed-2294-4e4a-a4bc-3c220bec351c",
+        "path": "minecraft_texture\\textures\\block\\clay.png"
+    },
+    {
+        "id": "b1a8dc93-3559-45d3-8b95-efd19962ffd1",
+        "itemId": "136b3c0a-6605-46ac-a6fe-31c217e9e1f0",
+        "path": "minecraft_texture\\textures\\block\\bamboo_fence.png"
+    },
+    {
+        "id": "1590f01f-931e-496e-859c-0aaab654fa43",
+        "itemId": "ce84f817-0751-4eab-b9cc-80b9e7f5b3a6",
+        "path": "minecraft_texture\\textures\\block\\carved_pumpkin.png"
+    },
+    {
+        "id": "91f87ecf-2747-420f-8ccf-8bb9b1f2126a",
+        "itemId": "21005025-6bab-4a6c-adc8-7076b53f1678",
+        "path": "minecraft_texture\\textures\\block\\jack_o_lantern.png"
+    },
+    {
+        "id": "0190b2aa-dd76-4af8-be9b-819cf9fed2eb",
+        "itemId": "bd7218de-5894-4a1d-a26b-206cb1668cb6",
+        "path": "minecraft_texture\\textures\\block\\netherrack.png"
+    },
+    {
+        "id": "c54cc0d3-ff1f-4025-ad0b-28aea4281478",
+        "itemId": "1e392c0f-d4d1-4636-9111-b77a68769f2f",
+        "path": "minecraft_texture\\textures\\block\\soul_sand.png"
+    },
+    {
+        "id": "44d5e42f-361b-4d79-a8b8-f46199ec29cf",
+        "itemId": "c5febebf-9e76-4602-a93a-cdebfb168582",
+        "path": "minecraft_texture\\textures\\block\\soul_soil.png"
+    },
+    {
+        "id": "c1f10234-5e55-4572-bb0b-44e4e5bcf268",
+        "itemId": "2d7f05b5-545b-4324-a997-befed050e8ce",
+        "path": "minecraft_texture\\textures\\block\\smooth_basalt.png"
+    },
+    {
+        "id": "0f806c7c-57ee-4ea5-8a86-42e62e0e8a4e",
+        "itemId": "51c9f51a-1e83-41f5-abe9-5138939501fb",
+        "path": "minecraft_texture\\textures\\block\\soul_torch.png"
+    },
+    {
+        "id": "d9db926c-0178-4a18-8bef-ea61d683b96e",
+        "itemId": "6c2ba04c-3b15-40c5-8c51-8df206aaae92",
+        "path": "minecraft_texture\\textures\\block\\glowstone.png"
+    },
+    {
+        "id": "d467e20f-c0bd-4f81-b002-9f7d8c815aa9",
+        "itemId": "f3363e5f-bf50-4da2-81b2-6988974c7407",
+        "path": "minecraft_texture\\textures\\block\\stone_bricks.png"
+    },
+    {
+        "id": "3f9082fa-d44a-4d11-995f-e08e42e498c5",
+        "itemId": "e316f93a-a9f6-4cd2-93c5-1424adfbb561",
+        "path": "minecraft_texture\\textures\\block\\mossy_stone_bricks.png"
+    },
+    {
+        "id": "2d9d6c4f-c539-448b-bf8e-7af9ce3a65e5",
+        "itemId": "f2fa2ed0-ed90-4241-86ac-0108900e1251",
+        "path": "minecraft_texture\\textures\\block\\cracked_stone_bricks.png"
+    },
+    {
+        "id": "7ea9b365-7960-44d6-a59b-4bca0028bdd9",
+        "itemId": "209800cf-a5db-434d-9350-7256d1089d44",
+        "path": "minecraft_texture\\textures\\block\\chiseled_stone_bricks.png"
+    },
+    {
+        "id": "887a2c2d-a54e-48b8-b3d5-5b5b6d3d0715",
+        "itemId": "2996fed6-e01f-4bf6-98fb-b87c6bb6859e",
+        "path": "minecraft_texture\\textures\\block\\packed_mud.png"
+    },
+    {
+        "id": "ce2a14fd-1167-4f0a-96f3-e953bc138944",
+        "itemId": "cabbdc0f-433a-467c-9e95-9872f6e698df",
+        "path": "minecraft_texture\\textures\\block\\mud_bricks.png"
+    },
+    {
+        "id": "22acb5af-e1ea-4532-9576-7b4657bee204",
+        "itemId": "d3f95347-be7f-4c76-814d-0acd7b54f8c9",
+        "path": "minecraft_texture\\textures\\block\\deepslate_bricks.png"
+    },
+    {
+        "id": "8213f767-3034-4ac9-918b-90b88a0f1654",
+        "itemId": "0a63c735-3459-4a3f-8799-0383f8747fe1",
+        "path": "minecraft_texture\\textures\\block\\cracked_deepslate_bricks.png"
+    },
+    {
+        "id": "eca1d2e9-bc95-46c3-8b97-1c31469d79ca",
+        "itemId": "8718828e-2693-4778-b600-66f78c5e2a59",
+        "path": "minecraft_texture\\textures\\block\\deepslate_tiles.png"
+    },
+    {
+        "id": "e420ac95-a697-4dd2-9d43-65282397922b",
+        "itemId": "c82ea350-1fd2-423f-858f-c98bd18abf9d",
+        "path": "minecraft_texture\\textures\\block\\cracked_deepslate_tiles.png"
+    },
+    {
+        "id": "ce603841-a840-4fc6-acc2-1e0e53771308",
+        "itemId": "55254079-d607-410a-8bae-8042afac170a",
+        "path": "minecraft_texture\\textures\\block\\chiseled_deepslate.png"
+    },
+    {
+        "id": "c9489770-2481-4ae9-a683-32c05c42ade3",
+        "itemId": "eee03533-08c7-46b9-89a1-e66a54bddd83",
+        "path": "minecraft_texture\\textures\\block\\brown_mushroom_block.png"
+    },
+    {
+        "id": "96aaacea-00e7-401a-8ee2-d44a39a91b68",
+        "itemId": "aad3a3c4-c146-4af3-ab41-fc178ed89661",
+        "path": "minecraft_texture\\textures\\block\\red_mushroom_block.png"
+    },
+    {
+        "id": "56172ae7-5dc1-46b8-8f20-dc669c3950a7",
+        "itemId": "a0a63373-50b4-462b-896a-76f74a1bf40e",
+        "path": "minecraft_texture\\textures\\block\\mushroom_stem.png"
+    },
+    {
+        "id": "2c0f2adc-8719-4fb1-99c0-9a8753d1e8b3",
+        "itemId": "1647691b-41cc-40bb-9f61-2e7d55e8e4dc",
+        "path": "minecraft_texture\\textures\\block\\iron_bars.png"
+    },
+    {
+        "id": "aa11d110-21d0-4f36-9620-c014f950314a",
+        "itemId": "21fce217-8c1e-40b6-86e5-3e50d8c2697c",
+        "path": "minecraft_texture\\textures\\block\\chain.png"
+    },
+    {
+        "id": "7ac0d8ba-d322-4678-bd31-2d86d2ce13c2",
+        "itemId": "9db83867-1204-4beb-999b-f5e1178dc94f",
+        "path": "minecraft_texture\\textures\\block\\vine.png"
+    },
+    {
+        "id": "5777c3b1-0997-465d-9edb-8b02677b4507",
+        "itemId": "aa7b2093-961d-4226-8697-ee7fdb269b3a",
+        "path": "minecraft_texture\\textures\\block\\glow_lichen.png"
+    },
+    {
+        "id": "3dcd3f83-3a24-474b-bf6c-977f44225d43",
+        "itemId": "c5a795e1-51d6-4d50-8a1a-4e4483f7d166",
+        "path": "minecraft_texture\\textures\\block\\lily_pad.png"
+    },
+    {
+        "id": "d8da7afc-606b-4112-83cf-93fcb2b6131e",
+        "itemId": "9c52f0ac-ef3a-46dc-ae09-d82ab847e044",
+        "path": "minecraft_texture\\textures\\block\\nether_bricks.png"
+    },
+    {
+        "id": "f8ef8a44-8547-40dc-8d73-4d782d18d36f",
+        "itemId": "b4eb85c1-fcfe-492e-b498-9a33af8b2f78",
+        "path": "minecraft_texture\\textures\\block\\cracked_nether_bricks.png"
+    },
+    {
+        "id": "590a118e-3dc4-4bb9-9533-8b0c1e396a8a",
+        "itemId": "3d930e2a-0728-45ba-9fa2-ebeab47de1c4",
+        "path": "minecraft_texture\\textures\\block\\chiseled_nether_bricks.png"
+    },
+    {
+        "id": "591f59f8-80dc-4c3c-ab8d-496b8ec453cf",
+        "itemId": "1949a2ef-a95e-4046-a2b9-0415850995a3",
+        "path": "minecraft_texture\\textures\\block\\sculk.png"
+    },
+    {
+        "id": "cc2e0f57-1a64-4a53-9eef-b5f8d2ea5b52",
+        "itemId": "6bd6fbdc-1fff-4536-b6b7-ceb67096bbef",
+        "path": "minecraft_texture\\textures\\block\\sculk_vein.png"
+    },
+    {
+        "id": "67388134-6ee9-44dc-8a01-a5d46acc48e3",
+        "itemId": "43bb7575-05c3-4150-83a8-477423ca762b",
+        "path": "minecraft_texture\\textures\\gui\\container\\enchanting_table.png"
+    },
+    {
+        "id": "611be4e0-42e3-4d7d-b1b7-f4e75fd687f5",
+        "itemId": "04c7ab1b-a5c2-4e53-8087-49b1c531e904",
+        "path": "minecraft_texture\\textures\\block\\end_stone.png"
+    },
+    {
+        "id": "5bd87abf-ea0c-4c72-8719-c539f0767ab7",
+        "itemId": "fa9fbbe0-f8f1-4b4d-b571-1ec54b6e5485",
+        "path": "minecraft_texture\\textures\\block\\end_stone_bricks.png"
+    },
+    {
+        "id": "825ffdd2-8021-4f58-9a4e-8156aed83e7c",
+        "itemId": "a0b18db7-8aef-4ed6-83b7-7142ffdbc149",
+        "path": "minecraft_texture\\textures\\block\\dragon_egg.png"
+    },
+    {
+        "id": "25d4ac76-00b7-45a7-9cdc-899f1f711090",
+        "itemId": "800ef2c0-c7a4-40a5-95a8-f0fe96d48d76",
+        "path": "minecraft_texture\\textures\\block\\emerald_block.png"
+    },
+    {
+        "id": "c590f6c7-ff31-48b1-8321-43b43283bec4",
+        "itemId": "b570a2d6-3550-4f3d-b026-7f8209bab94e",
+        "path": "minecraft_texture\\textures\\block\\beacon.png"
+    },
+    {
+        "id": "e2871cc2-3e36-4246-af74-52514f1b24a6",
+        "itemId": "1d595729-333b-457a-a35b-b736217221c1",
+        "path": "minecraft_texture\\textures\\block\\anvil.png"
+    },
+    {
+        "id": "ee03a117-ba12-4465-acce-87f7b119fa28",
+        "itemId": "55d77f53-fdbe-4ebe-bd97-0c6f5ba4ae62",
+        "path": "minecraft_texture\\textures\\block\\chiseled_quartz_block.png"
+    },
+    {
+        "id": "ccd8d0aa-9704-4af1-8ed9-6773e8684c9e",
+        "itemId": "a13ed742-6bb0-4256-a9ec-3fa43120cd3e",
+        "path": "minecraft_texture\\textures\\block\\quartz_bricks.png"
+    },
+    {
+        "id": "e8988cab-54a1-4add-b67d-896e1a230490",
+        "itemId": "31edf1df-68f6-4afd-b2a8-4f484a8ba376",
+        "path": "minecraft_texture\\textures\\block\\quartz_pillar.png"
+    },
+    {
+        "id": "5cf38803-2b60-4c03-90dd-11b54ce2e261",
+        "itemId": "df925b76-2f63-4637-8a90-05f38ab28b0c",
+        "path": "minecraft_texture\\textures\\block\\white_terracotta.png"
+    },
+    {
+        "id": "852a0a3a-6dde-48f9-a7f9-3c6851f7c964",
+        "itemId": "01455020-75f7-49a7-8762-b97315022f91",
+        "path": "minecraft_texture\\textures\\block\\orange_terracotta.png"
+    },
+    {
+        "id": "4101b00e-e3a6-4159-8278-0e96319b1daa",
+        "itemId": "3ad7b81c-5862-4e8c-af30-0dff36bc9697",
+        "path": "minecraft_texture\\textures\\block\\magenta_terracotta.png"
+    },
+    {
+        "id": "4a13fef1-52f8-498b-800b-d7658d598d32",
+        "itemId": "3282b104-4de3-4edc-b17a-71a4364c30ed",
+        "path": "minecraft_texture\\textures\\block\\light_blue_terracotta.png"
+    },
+    {
+        "id": "55fad87e-83ab-4990-8aa7-2cc1e6e88c0c",
+        "itemId": "f8107d09-d16b-4064-8f2e-d16f097c8119",
+        "path": "minecraft_texture\\textures\\block\\yellow_terracotta.png"
+    },
+    {
+        "id": "1d51392c-ed03-4f4b-bc8b-45d9bc143694",
+        "itemId": "7bc14365-801f-4176-9044-fa77f67ad160",
+        "path": "minecraft_texture\\textures\\block\\lime_terracotta.png"
+    },
+    {
+        "id": "570fe244-2306-48f6-9e8c-73469954cadc",
+        "itemId": "0ba62c9e-041b-47af-89f0-6acdabab22fc",
+        "path": "minecraft_texture\\textures\\block\\pink_terracotta.png"
+    },
+    {
+        "id": "59ebcea1-d9dd-4bba-81fe-6358aed6158b",
+        "itemId": "897ba445-a5e9-4749-a6c1-ec97fc0f4ce7",
+        "path": "minecraft_texture\\textures\\block\\gray_terracotta.png"
+    },
+    {
+        "id": "8a16265b-7dec-4544-b072-adaefa710607",
+        "itemId": "49098025-da46-4e20-854f-6302eb18a551",
+        "path": "minecraft_texture\\textures\\block\\light_gray_terracotta.png"
+    },
+    {
+        "id": "550b2bf1-adbd-4e02-bd91-0ce816bc05f3",
+        "itemId": "5b88b589-4929-4604-9907-deb39f4c75b6",
+        "path": "minecraft_texture\\textures\\block\\cyan_terracotta.png"
+    },
+    {
+        "id": "d68c3391-65da-412e-8ee4-d9d2c4554658",
+        "itemId": "c043dab3-fbf3-4950-9cce-31bcea181c12",
+        "path": "minecraft_texture\\textures\\block\\purple_terracotta.png"
+    },
+    {
+        "id": "925f32e4-b09d-4e87-8961-45f128139f0b",
+        "itemId": "624694cb-5892-4688-aa11-73f129962a29",
+        "path": "minecraft_texture\\textures\\block\\blue_terracotta.png"
+    },
+    {
+        "id": "14f1d9e2-02cf-4c28-b86a-47a6c3ff9a17",
+        "itemId": "b57a7e8e-8fc3-4ada-a637-fcc3466138f9",
+        "path": "minecraft_texture\\textures\\block\\brown_terracotta.png"
+    },
+    {
+        "id": "31c3553f-cc02-4bad-836c-729008e11972",
+        "itemId": "7cea768f-81e7-4cee-918a-5c156f809aac",
+        "path": "minecraft_texture\\textures\\block\\green_terracotta.png"
+    },
+    {
+        "id": "7330a0a8-d078-49c8-b26d-01613e6e89d9",
+        "itemId": "2f3b6fa1-f830-4377-a261-09dfe79ed61e",
+        "path": "minecraft_texture\\textures\\block\\red_terracotta.png"
+    },
+    {
+        "id": "815b002c-156e-40c0-bbe1-6173a925f19b",
+        "itemId": "5f4f4b03-632a-4815-b277-e690778f0988",
+        "path": "minecraft_texture\\textures\\block\\black_terracotta.png"
+    },
+    {
+        "id": "ed162bc6-9e7f-4fc1-8304-44e67c688308",
+        "itemId": "d08463c4-850f-46a8-9022-d7e281827c9a",
+        "path": "minecraft_texture\\textures\\item\\barrier.png"
+    },
+    {
+        "id": "fc47d5dd-be19-4e11-bc04-ba05afd68b8d",
+        "itemId": "60cbb933-d997-49b7-a861-32cb97febd16",
+        "path": "minecraft_texture\\textures\\item\\light.png"
+    },
+    {
+        "id": "b9d2c142-b958-4a3e-9f1f-a5512aab2718",
+        "itemId": "96a647ba-3770-4fa1-9334-2211b880e093",
+        "path": "minecraft_texture\\textures\\block\\terracotta.png"
+    },
+    {
+        "id": "ab24b03f-d1e9-4076-8993-54501026d8cd",
+        "itemId": "a6860c5e-8942-49cc-9b53-8a1105863e6f",
+        "path": "minecraft_texture\\textures\\block\\packed_ice.png"
+    },
+    {
+        "id": "5b1e92da-63a9-4173-8ebc-0e704d3ef873",
+        "itemId": "f78b051b-33e4-428d-9768-f6675f631307",
+        "path": "minecraft_texture\\textures\\block\\white_stained_glass.png"
+    },
+    {
+        "id": "c38145e9-2501-47bf-9dce-f484cbd6f829",
+        "itemId": "c4a98b18-f200-4eef-abff-2a12fbfe8a03",
+        "path": "minecraft_texture\\textures\\block\\orange_stained_glass.png"
+    },
+    {
+        "id": "1b88ae0d-e152-4e33-b8f9-270abca19bd0",
+        "itemId": "ad8e497b-6736-4be9-b63f-dbe98c444127",
+        "path": "minecraft_texture\\textures\\block\\magenta_stained_glass.png"
+    },
+    {
+        "id": "1ab6890e-5a9d-4f29-b74d-32d304ad841f",
+        "itemId": "023a89a2-028d-4ec9-83ea-afdf0f8b7dab",
+        "path": "minecraft_texture\\textures\\block\\light_blue_stained_glass.png"
+    },
+    {
+        "id": "34b6816e-339b-4e08-bd6b-31f0055aef2c",
+        "itemId": "57bf8039-161b-4f9d-ba09-41ba5ff56035",
+        "path": "minecraft_texture\\textures\\block\\yellow_stained_glass.png"
+    },
+    {
+        "id": "f9250233-9ea0-41f4-8ae2-fc19799afbe5",
+        "itemId": "9f746078-fde5-47ce-979b-401c58af716b",
+        "path": "minecraft_texture\\textures\\block\\lime_stained_glass.png"
+    },
+    {
+        "id": "4aeeb031-18c2-490b-8789-5c9997ca846b",
+        "itemId": "3f318fed-f8dc-4f86-9914-12a79ced3c5a",
+        "path": "minecraft_texture\\textures\\block\\pink_stained_glass.png"
+    },
+    {
+        "id": "b8100304-d9f7-4afe-85af-1c069ffdf933",
+        "itemId": "7befb184-b243-4b2f-94b8-736bafc62a4f",
+        "path": "minecraft_texture\\textures\\block\\gray_stained_glass.png"
+    },
+    {
+        "id": "6263efb4-1b5c-4c0b-b3f1-70ec75034486",
+        "itemId": "406403ba-c1a1-4644-b996-2d89efb659f2",
+        "path": "minecraft_texture\\textures\\block\\light_gray_stained_glass.png"
+    },
+    {
+        "id": "4ee962df-ae06-4a83-a1b5-eb958d41d7f5",
+        "itemId": "e6047810-bea7-4b7e-8a16-53aa94ded95f",
+        "path": "minecraft_texture\\textures\\block\\cyan_stained_glass.png"
+    },
+    {
+        "id": "a4e9061a-3b4b-4d12-a727-f41dc8c14252",
+        "itemId": "80077127-c518-47d2-81c9-e913eee8dc3a",
+        "path": "minecraft_texture\\textures\\block\\purple_stained_glass.png"
+    },
+    {
+        "id": "5dcd3386-2326-43fd-830c-6d7878caf2f3",
+        "itemId": "fe541028-5e07-4e55-b5f8-695113c7dfce",
+        "path": "minecraft_texture\\textures\\block\\blue_stained_glass.png"
+    },
+    {
+        "id": "badb3301-1d99-48e0-bb55-a03fd1757dc8",
+        "itemId": "ecc4cd08-81fa-4872-bb8f-965607abc448",
+        "path": "minecraft_texture\\textures\\block\\brown_stained_glass.png"
+    },
+    {
+        "id": "58e290e2-3885-451c-9aea-d558bf5220c0",
+        "itemId": "ee162991-ca81-4fa0-99fb-1ec710fc21b8",
+        "path": "minecraft_texture\\textures\\block\\green_stained_glass.png"
+    },
+    {
+        "id": "1ba61a94-f4f1-422d-bd30-d77b2b5ea1c2",
+        "itemId": "a2e1b395-70ee-4c7b-9804-1fe52a8cbe59",
+        "path": "minecraft_texture\\textures\\block\\red_stained_glass.png"
+    },
+    {
+        "id": "565d303f-90af-435f-b7ae-34025b5843fd",
+        "itemId": "bdf0f182-e754-4be3-a2b5-0f170d09ce96",
+        "path": "minecraft_texture\\textures\\block\\black_stained_glass.png"
+    },
+    {
+        "id": "fa9d520c-065c-4404-98f2-559bb8fd4538",
+        "itemId": "0fc8eb6f-7bf1-4cc6-b212-30fac7784a2c",
+        "path": "minecraft_texture\\textures\\block\\prismarine.png"
+    },
+    {
+        "id": "efa2a9b0-4cfb-4b07-8a55-3be8ee6119ae",
+        "itemId": "3c097e15-19bc-49a5-a748-cef2c5086534",
+        "path": "minecraft_texture\\textures\\block\\prismarine_bricks.png"
+    },
+    {
+        "id": "cfd5257d-aed8-4f70-af3b-30d2fd9d4ace",
+        "itemId": "7bfc5748-276c-4117-8099-b39e6af8d948",
+        "path": "minecraft_texture\\textures\\block\\dark_prismarine.png"
+    },
+    {
+        "id": "ec2d0cac-9cc2-46ca-a664-a720a2fcc21f",
+        "itemId": "c24a9324-ec41-4ba5-be76-a46df9e4f103",
+        "path": "minecraft_texture\\textures\\block\\sea_lantern.png"
+    },
+    {
+        "id": "35dc34f8-cfb9-48d2-9ec3-334d1d4bcc84",
+        "itemId": "e9866628-c3c0-4ac5-b570-c38b55026f00",
+        "path": "minecraft_texture\\textures\\block\\red_sandstone.png"
+    },
+    {
+        "id": "a408d5ee-0b81-4744-9fc5-5a7990f022f5",
+        "itemId": "2480a775-00e0-41e8-bcbd-71b3ad93bea0",
+        "path": "minecraft_texture\\textures\\block\\chiseled_red_sandstone.png"
+    },
+    {
+        "id": "4f1f8960-ac2d-491d-af80-5ff8a69df9d3",
+        "itemId": "92ff804f-e456-4d9b-ac88-89ade76e9872",
+        "path": "minecraft_texture\\textures\\block\\cut_red_sandstone.png"
+    },
+    {
+        "id": "11594a7f-8194-4119-a42f-ea1a71aee16d",
+        "itemId": "d4a52f50-1e61-481e-91a3-e4a5c3e07c1e",
+        "path": "minecraft_texture\\textures\\block\\nether_wart_block.png"
+    },
+    {
+        "id": "b75d49a0-a9f4-4e47-bcf8-ba4114ffab35",
+        "itemId": "2d1fd541-df22-4665-a23a-52966805ad22",
+        "path": "minecraft_texture\\textures\\block\\warped_wart_block.png"
+    },
+    {
+        "id": "d89087fa-c089-42dc-88fc-115f46254a1a",
+        "itemId": "b9c99338-e110-4146-9785-1d37c659ce1c",
+        "path": "minecraft_texture\\textures\\block\\red_nether_bricks.png"
+    },
+    {
+        "id": "03e974fe-2450-447f-a059-726e92f66b91",
+        "itemId": "e99b510c-4c4c-40ee-870f-59ee6e13ba23",
+        "path": "minecraft_texture\\textures\\item\\structure_void.png"
+    },
+    {
+        "id": "b22bbbc8-72b5-431b-9275-2ada6d115a86",
+        "itemId": "1ebd6f2a-d8d5-4fa6-b089-f0445263f55a",
+        "path": "minecraft_texture\\textures\\block\\shulker_box.png"
+    },
+    {
+        "id": "b6832b66-2624-4766-aebc-42da906d2ec3",
+        "itemId": "2e694cae-e0c7-49e7-9fc6-9878d80f1c05",
+        "path": "minecraft_texture\\textures\\block\\white_shulker_box.png"
+    },
+    {
+        "id": "7802a104-86ae-4f7d-8df0-210a0ccd9e3e",
+        "itemId": "09531103-b772-49ef-9c82-ce1104f0b35a",
+        "path": "minecraft_texture\\textures\\block\\orange_shulker_box.png"
+    },
+    {
+        "id": "29adb654-d0c6-4a9b-8ea4-9d49ba2bcdf8",
+        "itemId": "46d5e0fa-8d69-4291-9320-fe5188362807",
+        "path": "minecraft_texture\\textures\\block\\magenta_shulker_box.png"
+    },
+    {
+        "id": "1e8f2acd-1b7b-4a82-bf95-9b3e145a3675",
+        "itemId": "83170937-f7ed-4031-877a-313dfff4346e",
+        "path": "minecraft_texture\\textures\\block\\light_blue_shulker_box.png"
+    },
+    {
+        "id": "2d20f875-1590-4dab-b126-9c3ebdd9e3e1",
+        "itemId": "defb3c5b-64b0-4be6-846e-62fff0b38294",
+        "path": "minecraft_texture\\textures\\block\\yellow_shulker_box.png"
+    },
+    {
+        "id": "fa54c932-7f80-4789-a31c-ec95fc151210",
+        "itemId": "ab19b50b-bad9-41b3-b1ae-81ba60157b53",
+        "path": "minecraft_texture\\textures\\block\\lime_shulker_box.png"
+    },
+    {
+        "id": "c30de329-ce1c-4a7f-8caa-77817c6a809a",
+        "itemId": "b9165cd1-82cf-45a8-9707-0515c744076c",
+        "path": "minecraft_texture\\textures\\block\\pink_shulker_box.png"
+    },
+    {
+        "id": "f2c96386-847a-4551-b0cb-7e24e21c99cd",
+        "itemId": "34446697-990a-4f07-aec8-429dd4aac009",
+        "path": "minecraft_texture\\textures\\block\\gray_shulker_box.png"
+    },
+    {
+        "id": "b7e66526-2f93-47de-993c-03838f9ec3f8",
+        "itemId": "f2c225c0-68fd-4241-a3e8-a694a65ce535",
+        "path": "minecraft_texture\\textures\\block\\light_gray_shulker_box.png"
+    },
+    {
+        "id": "7777c470-2423-4928-8324-36750012343b",
+        "itemId": "7767b121-3162-4008-a132-ba861dc1f747",
+        "path": "minecraft_texture\\textures\\block\\cyan_shulker_box.png"
+    },
+    {
+        "id": "ffc0fbe5-dbe8-4ec3-815d-0dd63fbf8d96",
+        "itemId": "24c459e1-8f32-417f-b87d-4b7304076cc9",
+        "path": "minecraft_texture\\textures\\block\\purple_shulker_box.png"
+    },
+    {
+        "id": "427ef078-df5b-47bb-9421-e3e8145b2658",
+        "itemId": "db53032c-2784-4c3a-8dc9-9a0667d4b28d",
+        "path": "minecraft_texture\\textures\\block\\blue_shulker_box.png"
+    },
+    {
+        "id": "f345ae1e-f1e9-47ca-b50f-bbab48187c02",
+        "itemId": "c9baad8c-4f39-442c-8c96-13005bcbf779",
+        "path": "minecraft_texture\\textures\\block\\brown_shulker_box.png"
+    },
+    {
+        "id": "fdefda7d-066e-4635-8e84-cc64dc7e4469",
+        "itemId": "234353e9-c8c9-4f88-82f7-3ce0f0976a0a",
+        "path": "minecraft_texture\\textures\\block\\green_shulker_box.png"
+    },
+    {
+        "id": "09f50010-0312-46a7-82a4-7f29fa7164c7",
+        "itemId": "03dcb06b-5750-499c-a02a-110b43456357",
+        "path": "minecraft_texture\\textures\\block\\red_shulker_box.png"
+    },
+    {
+        "id": "1108b3e3-87f1-4bbf-805b-3c6f5987556e",
+        "itemId": "9e4403cf-b01a-4f53-ae50-58b3f3474901",
+        "path": "minecraft_texture\\textures\\block\\black_shulker_box.png"
+    },
+    {
+        "id": "67220d90-cc31-4108-8f9b-b9326fd05fdd",
+        "itemId": "c60672ce-bfaf-4b10-8940-f75120d1e97d",
+        "path": "minecraft_texture\\textures\\block\\white_glazed_terracotta.png"
+    },
+    {
+        "id": "6e47d9da-ae3f-4de5-90a0-63aefcbb6dca",
+        "itemId": "8dd968a5-7fa8-4a67-af96-313e233c1e7b",
+        "path": "minecraft_texture\\textures\\block\\orange_glazed_terracotta.png"
+    },
+    {
+        "id": "d1612283-1be5-416a-90c7-24eb30d4370b",
+        "itemId": "fa4ce864-05a1-4136-aeaa-6bde361912a0",
+        "path": "minecraft_texture\\textures\\block\\magenta_glazed_terracotta.png"
+    },
+    {
+        "id": "51153ac3-55f9-4c92-ad28-e3962fcef974",
+        "itemId": "7ec99c88-c36c-4968-b221-721873353b2a",
+        "path": "minecraft_texture\\textures\\block\\light_blue_glazed_terracotta.png"
+    },
+    {
+        "id": "87681e46-e2b9-4c93-9ab6-4938cffa5c90",
+        "itemId": "ddee271e-8f73-4610-90a6-91d032106c6e",
+        "path": "minecraft_texture\\textures\\block\\yellow_glazed_terracotta.png"
+    },
+    {
+        "id": "26c04fac-3f61-4cbd-bb81-5e56dab0960a",
+        "itemId": "a464bc84-bfc1-4010-ab3e-2728c84266e3",
+        "path": "minecraft_texture\\textures\\block\\lime_glazed_terracotta.png"
+    },
+    {
+        "id": "80765b0a-f497-4f10-bf1b-af4fe92a0c6f",
+        "itemId": "4f6972f4-d5e2-4245-9557-223968dca91c",
+        "path": "minecraft_texture\\textures\\block\\pink_glazed_terracotta.png"
+    },
+    {
+        "id": "1f54a7f0-874e-4e86-bc3b-aeb9b2b2968c",
+        "itemId": "e44ca265-960b-4a82-9b40-b7b4c504be45",
+        "path": "minecraft_texture\\textures\\block\\gray_glazed_terracotta.png"
+    },
+    {
+        "id": "962ff8ea-ab9d-4639-97f8-15e608ae67fb",
+        "itemId": "2a569bb6-f01d-4908-924a-67a01ab4837a",
+        "path": "minecraft_texture\\textures\\block\\light_gray_glazed_terracotta.png"
+    },
+    {
+        "id": "4039cb39-7a6a-4103-b508-dd0173200cd6",
+        "itemId": "fe6a3e0f-e5eb-4195-bc5f-1efaac17d9dc",
+        "path": "minecraft_texture\\textures\\block\\cyan_glazed_terracotta.png"
+    },
+    {
+        "id": "6abaf199-b7d6-4b29-abf9-c7be62fca687",
+        "itemId": "f81a4113-eb13-41cd-af8c-7fc28b938f77",
+        "path": "minecraft_texture\\textures\\block\\purple_glazed_terracotta.png"
+    },
+    {
+        "id": "e43d32bb-6118-4972-b792-d5a9e3983611",
+        "itemId": "33b03e61-2534-4ee0-915d-1a405e459813",
+        "path": "minecraft_texture\\textures\\block\\blue_glazed_terracotta.png"
+    },
+    {
+        "id": "18a319f8-2c06-4b66-b7ed-4d9e6c66d0da",
+        "itemId": "14d93799-7f48-451c-a887-43870b00cdfc",
+        "path": "minecraft_texture\\textures\\block\\brown_glazed_terracotta.png"
+    },
+    {
+        "id": "12b9f038-848c-477a-a96e-87953f92e99b",
+        "itemId": "16751109-a9d8-44d1-a1e1-d5e2dd2c582e",
+        "path": "minecraft_texture\\textures\\block\\green_glazed_terracotta.png"
+    },
+    {
+        "id": "564b8fee-50db-412a-ba4f-00f163141075",
+        "itemId": "d21a4f8e-dfab-4573-8728-140a8be1f75d",
+        "path": "minecraft_texture\\textures\\block\\red_glazed_terracotta.png"
+    },
+    {
+        "id": "4aaffc94-ee62-4471-8eb4-49cd4035a365",
+        "itemId": "db455456-89b6-412e-9bd6-de9ebb55cb0c",
+        "path": "minecraft_texture\\textures\\block\\black_glazed_terracotta.png"
+    },
+    {
+        "id": "f9f5ce92-aea8-4ab3-a5f8-092b982875a3",
+        "itemId": "1ecef88f-d872-4260-bfc1-166262f100e6",
+        "path": "minecraft_texture\\textures\\block\\white_concrete.png"
+    },
+    {
+        "id": "5c0219d4-bbd0-44fc-abec-be7da14d352a",
+        "itemId": "ba16a5fc-81e5-47a3-a627-a6a688595008",
+        "path": "minecraft_texture\\textures\\block\\orange_concrete.png"
+    },
+    {
+        "id": "c803fd7f-d9ad-434e-82e1-a72323588333",
+        "itemId": "7793b488-1bc0-4113-a9e5-1fccf773a5d8",
+        "path": "minecraft_texture\\textures\\block\\magenta_concrete.png"
+    },
+    {
+        "id": "a0c50fb9-87bd-415f-9383-c73532d28d14",
+        "itemId": "df5aa931-a9ce-4f97-83b9-5787716a2662",
+        "path": "minecraft_texture\\textures\\block\\light_blue_concrete.png"
+    },
+    {
+        "id": "7752304b-50b1-4200-a9b6-591fb0676060",
+        "itemId": "eeca569e-7e62-4a36-932b-4c3f332c5ca9",
+        "path": "minecraft_texture\\textures\\block\\yellow_concrete.png"
+    },
+    {
+        "id": "4ff31bce-b792-4daa-ac0b-93c2f375e3a9",
+        "itemId": "c2d33268-9b2b-4a1d-8eca-81f2688985b9",
+        "path": "minecraft_texture\\textures\\block\\lime_concrete.png"
+    },
+    {
+        "id": "31f1cbac-dc27-497e-9204-c1bc9b8ee286",
+        "itemId": "c453773c-23c2-4afc-afbb-2ce6059f92f9",
+        "path": "minecraft_texture\\textures\\block\\pink_concrete.png"
+    },
+    {
+        "id": "da9eb558-8968-4b76-8be0-5b147911a33d",
+        "itemId": "8ec7459b-2953-4a7e-84b8-4ba3e4bcbc9c",
+        "path": "minecraft_texture\\textures\\block\\gray_concrete.png"
+    },
+    {
+        "id": "6ff24ef2-83a8-4c77-a34a-14af7ef159c4",
+        "itemId": "e816ed34-760f-4c32-8f92-2c8d4b23d51d",
+        "path": "minecraft_texture\\textures\\block\\light_gray_concrete.png"
+    },
+    {
+        "id": "8ed03cae-f6d2-4081-9cd7-5e979da1cc28",
+        "itemId": "6358c5da-cd3b-4875-8fb4-abb6044ad5de",
+        "path": "minecraft_texture\\textures\\block\\cyan_concrete.png"
+    },
+    {
+        "id": "01195b3f-cb07-4a7f-bc4e-3204e7ed708b",
+        "itemId": "f5c69192-4ca8-4dd9-9efa-27260025ffd4",
+        "path": "minecraft_texture\\textures\\block\\purple_concrete.png"
+    },
+    {
+        "id": "fc6a533b-02aa-47f4-a44d-dcae8d31f45e",
+        "itemId": "186f25cf-93cc-4b5a-bebb-b2acab5895ec",
+        "path": "minecraft_texture\\textures\\block\\blue_concrete.png"
+    },
+    {
+        "id": "952960d3-19b7-4777-b34f-6fc5eafabff8",
+        "itemId": "4be54688-91dc-4b24-a484-e4122040ec58",
+        "path": "minecraft_texture\\textures\\block\\brown_concrete.png"
+    },
+    {
+        "id": "4acf40a3-c6b8-4e4b-b98e-0aab4da69976",
+        "itemId": "14c7f0ac-52b5-488f-ae6a-a06d4321b76b",
+        "path": "minecraft_texture\\textures\\block\\green_concrete.png"
+    },
+    {
+        "id": "81eb5b4f-5de4-4418-81db-14ac3ef098d0",
+        "itemId": "88a185cd-8c7b-4986-ada0-7e9947db9409",
+        "path": "minecraft_texture\\textures\\block\\red_concrete.png"
+    },
+    {
+        "id": "8e0dc995-9584-4827-bc90-0577378cfd71",
+        "itemId": "e7c365dd-f5ad-45fa-b07f-087088f60a3c",
+        "path": "minecraft_texture\\textures\\block\\black_concrete.png"
+    },
+    {
+        "id": "1abbd8ee-fca1-40be-8c2a-ff8d61077bc3",
+        "itemId": "1dfd7e8d-2a15-4f0d-8516-341451e9b75d",
+        "path": "minecraft_texture\\textures\\block\\white_concrete_powder.png"
+    },
+    {
+        "id": "7eec35f4-a2a4-4299-bd18-122a1ccb6c1e",
+        "itemId": "05e0186d-406b-46b4-ae88-b9f3e32e1114",
+        "path": "minecraft_texture\\textures\\block\\orange_concrete_powder.png"
+    },
+    {
+        "id": "bf8665ac-5a1e-4615-8cde-5b067d8bcc1f",
+        "itemId": "667ad8a8-12cf-4441-96b3-778eefb0e42f",
+        "path": "minecraft_texture\\textures\\block\\magenta_concrete_powder.png"
+    },
+    {
+        "id": "2f78774b-1d84-4689-aeeb-739cd93bfb29",
+        "itemId": "1e47ffcf-4fee-40d2-b928-a2dcae098e7c",
+        "path": "minecraft_texture\\textures\\block\\light_blue_concrete_powder.png"
+    },
+    {
+        "id": "bad74715-98d7-439b-90e6-1954cfd88bc1",
+        "itemId": "05aa08d5-498d-43e4-89c3-52191cb909d0",
+        "path": "minecraft_texture\\textures\\block\\yellow_concrete_powder.png"
+    },
+    {
+        "id": "af771079-327f-4c17-a566-541e46707335",
+        "itemId": "46cc8aba-998c-48fb-b346-72de39149144",
+        "path": "minecraft_texture\\textures\\block\\lime_concrete_powder.png"
+    },
+    {
+        "id": "66b9c56a-d310-4e64-bbb8-33e29a2552a9",
+        "itemId": "f2954af3-28b5-4e44-834b-c8899e5fe290",
+        "path": "minecraft_texture\\textures\\block\\pink_concrete_powder.png"
+    },
+    {
+        "id": "5a6925ac-b23a-4094-8579-da45fcc82db0",
+        "itemId": "2563ecf8-438b-4152-bcec-68af14b06558",
+        "path": "minecraft_texture\\textures\\block\\gray_concrete_powder.png"
+    },
+    {
+        "id": "e0ea2ad2-a4c4-4f1f-9f44-3fe0ca0b3c1d",
+        "itemId": "ded5b37c-2c79-4bcb-969b-b4becadee74d",
+        "path": "minecraft_texture\\textures\\block\\light_gray_concrete_powder.png"
+    },
+    {
+        "id": "c7c29594-ed2e-48bb-aeea-6c1b77cc64c4",
+        "itemId": "fe7351ce-1ecf-49fd-a5d3-1b5ff4f81307",
+        "path": "minecraft_texture\\textures\\block\\cyan_concrete_powder.png"
+    },
+    {
+        "id": "af98dcf1-2f4c-41ac-ac40-ee5657b7f697",
+        "itemId": "83190e8d-3587-4322-a447-ff67edc4c3c9",
+        "path": "minecraft_texture\\textures\\block\\purple_concrete_powder.png"
+    },
+    {
+        "id": "8936d87b-0bd5-4305-ae61-8c7faef1785d",
+        "itemId": "07a33cc2-e121-4b06-ba33-5ee6a2737021",
+        "path": "minecraft_texture\\textures\\block\\blue_concrete_powder.png"
+    },
+    {
+        "id": "5f456343-d9f8-4139-a5b7-bd7fd2cbc9e7",
+        "itemId": "56a9d78d-1014-41f4-92d3-b947843d5af5",
+        "path": "minecraft_texture\\textures\\block\\brown_concrete_powder.png"
+    },
+    {
+        "id": "a17e1065-79fb-4bdb-ae7e-d77a7d96be9f",
+        "itemId": "3fcceba7-c81b-434c-a908-8980693ac299",
+        "path": "minecraft_texture\\textures\\block\\green_concrete_powder.png"
+    },
+    {
+        "id": "2f5bd9e8-89fb-4d8c-b45b-1cd433604ad4",
+        "itemId": "b76eb072-f89a-44d9-b4c7-3bc0e6aa18c7",
+        "path": "minecraft_texture\\textures\\block\\red_concrete_powder.png"
+    },
+    {
+        "id": "a8d160a5-460a-4a3e-aada-d206837e517b",
+        "itemId": "1c2917d8-91ad-4d60-ad62-ee24e68cb916",
+        "path": "minecraft_texture\\textures\\block\\black_concrete_powder.png"
+    },
+    {
+        "id": "5ed78096-5ef6-4b6e-a0a5-7a24eaae09ea",
+        "itemId": "43158570-d52e-45d0-b048-c89436f74ae8",
+        "path": "minecraft_texture\\textures\\block\\turtle_egg.png"
+    },
+    {
+        "id": "12b4ba69-57bd-4c18-9afd-c896cdb699f1",
+        "itemId": "bea6d6d3-a013-4e82-a975-f8862503c5b3",
+        "path": "minecraft_texture\\textures\\item\\sniffer_egg.png"
+    },
+    {
+        "id": "e5b21ad7-343e-4c23-a6c4-98b50c1e07d1",
+        "itemId": "6a16083a-89f8-4318-8d94-14cd22053476",
+        "path": "minecraft_texture\\textures\\block\\dead_tube_coral_block.png"
+    },
+    {
+        "id": "527ed151-f534-406f-9c23-52959232d34d",
+        "itemId": "62b8307f-d2f3-490a-804d-a9838424eac1",
+        "path": "minecraft_texture\\textures\\block\\dead_brain_coral_block.png"
+    },
+    {
+        "id": "3fb80aab-4a02-4f02-b15c-cc280cee96b7",
+        "itemId": "da188210-be96-4595-bf93-7f6e4e33bcb4",
+        "path": "minecraft_texture\\textures\\block\\dead_bubble_coral_block.png"
+    },
+    {
+        "id": "a7e0f8af-6776-437f-b5e0-6e5e12d75120",
+        "itemId": "4ceb014d-6d4d-49f8-871a-d51a43807826",
+        "path": "minecraft_texture\\textures\\block\\dead_fire_coral_block.png"
+    },
+    {
+        "id": "2d31f6c1-62f7-40d4-a7d6-bdab55d4f18d",
+        "itemId": "12e3eca1-0b80-4666-bc91-fe7f1a9d0d97",
+        "path": "minecraft_texture\\textures\\block\\dead_horn_coral_block.png"
+    },
+    {
+        "id": "76ebc223-03be-4396-aca5-2b4e498ba39a",
+        "itemId": "7b786edb-069c-4f00-bf64-5641f2fc2abc",
+        "path": "minecraft_texture\\textures\\block\\tube_coral_block.png"
+    },
+    {
+        "id": "445e5e85-a319-4d3b-a58d-1f994f637246",
+        "itemId": "985f59b8-6929-4453-926a-6f9ad73a3193",
+        "path": "minecraft_texture\\textures\\block\\brain_coral_block.png"
+    },
+    {
+        "id": "145cbf9a-7776-48cb-b94d-a2c4be2f9309",
+        "itemId": "48ab5478-0ea8-4525-a984-32b17b1e7e7c",
+        "path": "minecraft_texture\\textures\\block\\bubble_coral_block.png"
+    },
+    {
+        "id": "05c1517e-0f61-47af-b9ef-f18c065723a7",
+        "itemId": "e89640e2-1bec-44e1-ac2b-6c80253a8630",
+        "path": "minecraft_texture\\textures\\block\\fire_coral_block.png"
+    },
+    {
+        "id": "dfa629f6-cd2a-46e9-bfb2-797aa2ad6f48",
+        "itemId": "6f72173c-be9c-44bd-984f-2a179db4a75d",
+        "path": "minecraft_texture\\textures\\block\\horn_coral_block.png"
+    },
+    {
+        "id": "6710976b-7eea-4916-9afb-3fc2fd9e978e",
+        "itemId": "3bd662b6-803e-40b4-b9be-b0bf1dd03bb9",
+        "path": "minecraft_texture\\textures\\block\\tube_coral.png"
+    },
+    {
+        "id": "afc49da9-afc5-4275-b634-cb51b80b80c5",
+        "itemId": "419f65dc-c26a-40b2-80f9-80a0e71a59fe",
+        "path": "minecraft_texture\\textures\\block\\brain_coral.png"
+    },
+    {
+        "id": "d041e371-3a09-466f-a58f-954cb5453a00",
+        "itemId": "53d6e2a3-2be1-4790-a9de-a63d87ad467b",
+        "path": "minecraft_texture\\textures\\block\\bubble_coral.png"
+    },
+    {
+        "id": "5d266f91-9dce-488f-9b2b-5945ec041f82",
+        "itemId": "1fab2253-458b-4345-ac4c-b84668a4030b",
+        "path": "minecraft_texture\\textures\\block\\fire_coral.png"
+    },
+    {
+        "id": "9ecfd28c-3359-4dde-9a3f-3fd525711ff3",
+        "itemId": "71f45f68-ee1b-44f9-bbea-4349b7a459f6",
+        "path": "minecraft_texture\\textures\\block\\horn_coral.png"
+    },
+    {
+        "id": "2e426632-1535-475f-92fe-0b0494375fdd",
+        "itemId": "cd7a0d6f-974b-48cf-9d65-c23ac9c6be4f",
+        "path": "minecraft_texture\\textures\\block\\dead_brain_coral.png"
+    },
+    {
+        "id": "4dd9926c-30e7-46e9-a48a-1be1317f0fc4",
+        "itemId": "e359c841-50a3-465c-a11e-8837b65dfa3e",
+        "path": "minecraft_texture\\textures\\block\\dead_bubble_coral.png"
+    },
+    {
+        "id": "749b370a-7bfc-4642-9bd9-7d6fb7c4d23c",
+        "itemId": "d0c2b5b6-2326-4858-8ff7-3c28e501f3f4",
+        "path": "minecraft_texture\\textures\\block\\dead_fire_coral.png"
+    },
+    {
+        "id": "cd55be8b-d2d6-48c2-8c54-5106fd9bc20b",
+        "itemId": "792ef6bf-4d39-43af-9c21-fe7a9ff3e7d1",
+        "path": "minecraft_texture\\textures\\block\\dead_horn_coral.png"
+    },
+    {
+        "id": "e1762243-ed2a-4fa0-a620-93d16a249267",
+        "itemId": "5647de22-0e8c-4029-a0cf-43cbf2c328d2",
+        "path": "minecraft_texture\\textures\\block\\dead_tube_coral.png"
+    },
+    {
+        "id": "3ab37c89-32eb-4764-8d8c-4550833dccee",
+        "itemId": "097d2b53-4f83-413d-a414-57b1cc81211c",
+        "path": "minecraft_texture\\textures\\block\\tube_coral_fan.png"
+    },
+    {
+        "id": "ccfec683-3140-4925-8bbd-ad620dbeca0d",
+        "itemId": "1607ed0b-170f-403b-9ab3-cafb201f5e36",
+        "path": "minecraft_texture\\textures\\block\\brain_coral_fan.png"
+    },
+    {
+        "id": "2fca1de9-f37b-41c1-a086-5766f56ca6a9",
+        "itemId": "5b39228b-aa17-4bf3-a183-b90e157e7271",
+        "path": "minecraft_texture\\textures\\block\\bubble_coral_fan.png"
+    },
+    {
+        "id": "e1526a85-63ed-4848-87d3-e463926756da",
+        "itemId": "ab523304-c1dc-4674-937f-af13893e9e03",
+        "path": "minecraft_texture\\textures\\block\\fire_coral_fan.png"
+    },
+    {
+        "id": "0fb090b2-7b04-4cbd-821e-4b3ef74f6740",
+        "itemId": "de4ce3e9-b257-48b3-94cc-5a0a92b219c7",
+        "path": "minecraft_texture\\textures\\block\\horn_coral_fan.png"
+    },
+    {
+        "id": "8e56352d-b513-43a5-9567-b2429f7a25d1",
+        "itemId": "409e367e-a881-41fa-adae-4df0ff23c636",
+        "path": "minecraft_texture\\textures\\block\\dead_tube_coral_fan.png"
+    },
+    {
+        "id": "52e9789e-7817-467a-994a-7632896148f1",
+        "itemId": "a64a7bc0-061a-4f12-9f1c-6e96a05a1ab6",
+        "path": "minecraft_texture\\textures\\block\\dead_brain_coral_fan.png"
+    },
+    {
+        "id": "a3a58af2-b66f-4687-a723-6ddbea47dc28",
+        "itemId": "aeaebcb9-6314-4774-820f-950944f128e3",
+        "path": "minecraft_texture\\textures\\block\\dead_bubble_coral_fan.png"
+    },
+    {
+        "id": "54015319-d561-4c11-a065-11b0a7e826e2",
+        "itemId": "c5a1608b-2dbf-4433-be36-d5b4b9e8bf20",
+        "path": "minecraft_texture\\textures\\block\\dead_fire_coral_fan.png"
+    },
+    {
+        "id": "60e01cee-f71f-4d4b-b6d4-ed8bed8e4cee",
+        "itemId": "ad144031-a7a5-4037-8e7f-17bc08011a8f",
+        "path": "minecraft_texture\\textures\\block\\dead_horn_coral_fan.png"
+    },
+    {
+        "id": "0bba1406-ac81-4d1b-bfc7-72ccd6da2987",
+        "itemId": "f22c6d1a-b867-4c4b-b9da-78b9287b776c",
+        "path": "minecraft_texture\\textures\\block\\blue_ice.png"
+    },
+    {
+        "id": "c477f1f7-6d1b-41a4-b80c-e6aff2580217",
+        "itemId": "6eec8bd1-39ec-46c0-bf32-0b0e4e110077",
+        "path": "minecraft_texture\\textures\\block\\conduit.png"
+    },
+    {
+        "id": "c6f3aca7-fa4d-4e67-85e5-67077d20223d",
+        "itemId": "d29ccbbd-dc59-418d-afd4-da24de81441f",
+        "path": "minecraft_texture\\textures\\item\\redstone.png"
+    },
+    {
+        "id": "ffca2a2e-ac9e-4dfe-855b-190194562597",
+        "itemId": "e7e89ca1-ecab-4602-a005-621661fc43c7",
+        "path": "minecraft_texture\\textures\\block\\redstone_torch.png"
+    },
+    {
+        "id": "6debefd6-c848-4880-a20c-934afa02d7b4",
+        "itemId": "073026f4-e75a-4cec-a133-1f3eef5c37f4",
+        "path": "minecraft_texture\\textures\\block\\redstone_block.png"
+    },
+    {
+        "id": "b76330b7-6f9d-4f45-a8a5-1df55eca538a",
+        "itemId": "312389aa-ec35-4e81-ba11-fa039868fa5e",
+        "path": "minecraft_texture\\textures\\block\\repeater.png"
+    },
+    {
+        "id": "72f5af56-0309-4a51-8c25-b2ba0bad702d",
+        "itemId": "132ab81c-a372-417c-b849-cf55c4078904",
+        "path": "minecraft_texture\\textures\\block\\comparator.png"
+    },
+    {
+        "id": "d4734abf-62d7-4e0f-9efc-4218c5095364",
+        "itemId": "7fd5c7fb-09ea-4d0d-b448-c94610500f5c",
+        "path": "minecraft_texture\\textures\\block\\slime_block.png"
+    },
+    {
+        "id": "af209a5c-e06a-4573-baa1-3e00111838a7",
+        "itemId": "25f42fa5-648a-4cf0-ac75-3d078e9ac764",
+        "path": "minecraft_texture\\textures\\gui\\container\\hopper.png"
+    },
+    {
+        "id": "15264f84-6a5f-4e48-aee2-89b764eb7823",
+        "itemId": "8e5b2747-92d0-44c7-830c-e1622615d727",
+        "path": "minecraft_texture\\textures\\gui\\container\\dispenser.png"
+    },
+    {
+        "id": "47c994d0-a70e-41e6-8f97-f3bb45462eba",
+        "itemId": "c84938d6-2a03-461a-b8fa-aa09de9781c4",
+        "path": "minecraft_texture\\textures\\block\\lever.png"
+    },
+    {
+        "id": "45c3a726-89fb-42a0-9dd7-6effd55edc3e",
+        "itemId": "1bebae50-27bf-4508-9f8d-9cca5b47d5e1",
+        "path": "minecraft_texture\\textures\\block\\lightning_rod.png"
+    },
+    {
+        "id": "690eabcd-8b99-4bb8-a574-08b5e4aa75b5",
+        "itemId": "2715e817-ccad-4152-ad14-3b60cb9754b9",
+        "path": "minecraft_texture\\textures\\block\\tripwire_hook.png"
+    },
+    {
+        "id": "8f6ca0a9-63a4-42fb-9362-2b366103a9da",
+        "itemId": "70febb18-6223-4293-b825-1043946945ed",
+        "path": "minecraft_texture\\textures\\block\\redstone_lamp.png"
+    },
+    {
+        "id": "8d5b95b2-77a4-4e01-9b41-2f93771b2f7c",
+        "itemId": "2df32b14-c8ae-47be-abd9-d2c6433b6fbe",
+        "path": "minecraft_texture\\textures\\block\\note_block.png"
+    },
+    {
+        "id": "4baa1949-7d3c-489c-91f4-895521d7f81e",
+        "itemId": "dc2205cd-71e2-45a8-9986-f3ec0dd98bfc",
+        "path": "minecraft_texture\\textures\\item\\iron_door.png"
+    },
+    {
+        "id": "60305313-ef2f-45e1-b804-9354f6fe2721",
+        "itemId": "3d834b90-e7d5-419a-a759-35e8a9ac0d63",
+        "path": "minecraft_texture\\textures\\item\\oak_door.png"
+    },
+    {
+        "id": "e565742b-5e08-424f-bb17-c53489e197e1",
+        "itemId": "1501b1df-5bd5-4870-afe3-50557f65261e",
+        "path": "minecraft_texture\\textures\\item\\spruce_door.png"
+    },
+    {
+        "id": "1e9be483-2a29-4a9e-9206-b7fd27712c43",
+        "itemId": "33e0702b-2659-42b2-a443-b660b1fd71bb",
+        "path": "minecraft_texture\\textures\\item\\birch_door.png"
+    },
+    {
+        "id": "ec81cda8-3162-4572-bd5e-77651e47db5d",
+        "itemId": "e31b7517-27ee-448a-a3e6-b85d343049ba",
+        "path": "minecraft_texture\\textures\\item\\jungle_door.png"
+    },
+    {
+        "id": "2f76120f-f3c8-44b6-ac77-0ae8c9d9cb93",
+        "itemId": "8cf34d07-7667-4566-8888-1d480a5a342c",
+        "path": "minecraft_texture\\textures\\item\\acacia_door.png"
+    },
+    {
+        "id": "4ec62021-9594-4789-b2a8-59ab37dac24f",
+        "itemId": "924eb58f-2e43-4683-bfba-e1e472ff30e1",
+        "path": "minecraft_texture\\textures\\item\\cherry_door.png"
+    },
+    {
+        "id": "a85c37d6-36fa-438d-9489-5008b9f8b405",
+        "itemId": "7ebc3680-fbec-4eb8-98f3-bdab4cdcb722",
+        "path": "minecraft_texture\\textures\\item\\dark_oak_door.png"
+    },
+    {
+        "id": "c99c5f92-3e09-4ac4-bb45-6a490f352cc0",
+        "itemId": "8fb40d93-7f50-4de9-be2c-5323f43779d8",
+        "path": "minecraft_texture\\textures\\item\\mangrove_door.png"
+    },
+    {
+        "id": "4ee289c8-81ec-4f68-b94b-e8c4515f1af0",
+        "itemId": "5c28feba-d966-4e84-9e45-362dfd079a0f",
+        "path": "minecraft_texture\\textures\\item\\bamboo_door.png"
+    },
+    {
+        "id": "71974a3f-89a8-4c5f-9528-3f4f360161f2",
+        "itemId": "10834f51-e268-4b4e-865b-912f1c0b6118",
+        "path": "minecraft_texture\\textures\\item\\crimson_door.png"
+    },
+    {
+        "id": "bbb3816c-ba16-4bfb-85f1-b88876122985",
+        "itemId": "442cf271-f66c-4226-a53f-c280d0838ad3",
+        "path": "minecraft_texture\\textures\\item\\warped_door.png"
+    },
+    {
+        "id": "3a3f4768-a934-409b-b105-c0106db5549b",
+        "itemId": "74f20e9c-110b-480c-a812-13947847ae0c",
+        "path": "minecraft_texture\\textures\\block\\iron_trapdoor.png"
+    },
+    {
+        "id": "4d702c4d-7e97-495e-8d68-12808e448166",
+        "itemId": "c52f09d8-a66b-484a-a3a3-c3810a558d04",
+        "path": "minecraft_texture\\textures\\block\\oak_trapdoor.png"
+    },
+    {
+        "id": "ccee6df6-f5d0-49ef-bb31-5319e055157b",
+        "itemId": "8ff52f5d-a7b0-44f2-a22a-ea92fb96e730",
+        "path": "minecraft_texture\\textures\\block\\spruce_trapdoor.png"
+    },
+    {
+        "id": "575b487f-a9a1-4fe8-a4b3-433cc6639f93",
+        "itemId": "ba587f48-558a-4a1e-a7ad-f7337e9014d4",
+        "path": "minecraft_texture\\textures\\block\\birch_trapdoor.png"
+    },
+    {
+        "id": "5098bb6f-6a1f-4ae6-994a-4a3e8669b62c",
+        "itemId": "733b3d09-c539-46ef-b61d-d4da72d0b1b5",
+        "path": "minecraft_texture\\textures\\block\\jungle_trapdoor.png"
+    },
+    {
+        "id": "31a1a82c-0b87-4a86-b41d-3b86466a77bb",
+        "itemId": "dc024527-20a8-4f68-99a4-07a2e1684757",
+        "path": "minecraft_texture\\textures\\block\\acacia_trapdoor.png"
+    },
+    {
+        "id": "6ea79db6-277b-4faa-8b18-15c3d4e46371",
+        "itemId": "a30a9407-cb9a-41a2-8d9e-ee4b3724832d",
+        "path": "minecraft_texture\\textures\\block\\cherry_trapdoor.png"
+    },
+    {
+        "id": "ac0058a9-71a4-4510-93af-d4eff018bae3",
+        "itemId": "a4972c1c-31d7-4a94-a281-d47244d9a4b4",
+        "path": "minecraft_texture\\textures\\block\\dark_oak_trapdoor.png"
+    },
+    {
+        "id": "4673d128-bcd7-49a6-9340-2c9c6f129e29",
+        "itemId": "1b5cab07-2b36-4d30-967c-abd06d1d3d0a",
+        "path": "minecraft_texture\\textures\\block\\mangrove_trapdoor.png"
+    },
+    {
+        "id": "4aed688f-543b-4e4b-98c6-6eb98945fcff",
+        "itemId": "0b1bee77-0343-405c-868a-9e6302d4ec22",
+        "path": "minecraft_texture\\textures\\block\\bamboo_trapdoor.png"
+    },
+    {
+        "id": "56718b1b-8d84-4f2f-adcf-637f8d3440b5",
+        "itemId": "9e26026c-e684-4575-b29f-6afb71899114",
+        "path": "minecraft_texture\\textures\\block\\crimson_trapdoor.png"
+    },
+    {
+        "id": "6429c59e-6a5c-43a8-95b5-aea171dacd55",
+        "itemId": "e41f0ec0-c0dc-4e2d-8474-ade7503ad96c",
+        "path": "minecraft_texture\\textures\\block\\warped_trapdoor.png"
+    },
+    {
+        "id": "68ae7554-2394-4471-b65f-7ccfb0a35f4a",
+        "itemId": "5548dc75-1809-4687-9bf8-5dea1d29e938",
+        "path": "minecraft_texture\\textures\\block\\bamboo_fence_gate.png"
+    },
+    {
+        "id": "45b3ac79-aee3-4abf-9c6f-b7d3ad2507aa",
+        "itemId": "3e9fc17b-3837-4b2b-9d74-4692d63958eb",
+        "path": "minecraft_texture\\textures\\block\\powered_rail.png"
+    },
+    {
+        "id": "edbe1700-877d-4b24-a46b-47e058bc2d31",
+        "itemId": "9ce4ec46-28a9-4b38-a0a8-4eff47231c8b",
+        "path": "minecraft_texture\\textures\\block\\detector_rail.png"
+    },
+    {
+        "id": "fa98594c-34ed-40ca-9881-b9a91039cb6e",
+        "itemId": "d011a818-257b-48ea-9d2b-c381c3afe46f",
+        "path": "minecraft_texture\\textures\\block\\rail.png"
+    },
+    {
+        "id": "c52a6252-d951-4cc0-9197-80e071d0ed03",
+        "itemId": "6ba66325-6f55-4322-a204-137bd9131643",
+        "path": "minecraft_texture\\textures\\block\\activator_rail.png"
+    },
+    {
+        "id": "40d3431b-27ad-406c-ae67-114d04bd41a4",
+        "itemId": "137cfa86-751d-4fcb-85d4-f473cd0d88a7",
+        "path": "minecraft_texture\\textures\\item\\saddle.png"
+    },
+    {
+        "id": "81df497b-f0ee-4a29-943a-3b3b4d87e9e2",
+        "itemId": "a45be8ba-b0cc-4014-bca4-9e859694b0ac",
+        "path": "minecraft_texture\\textures\\entity\\minecart.png"
+    },
+    {
+        "id": "45d4c7f2-ff89-4851-8545-2d4353dbcb10",
+        "itemId": "72950575-3760-4699-87ce-e0ae0d59b9b7",
+        "path": "minecraft_texture\\textures\\item\\chest_minecart.png"
+    },
+    {
+        "id": "011397b9-5aa0-43c6-a251-94be98b7bdf1",
+        "itemId": "35ce1f95-900c-4d3f-9654-cbba852c6fda",
+        "path": "minecraft_texture\\textures\\item\\furnace_minecart.png"
+    },
+    {
+        "id": "f45865e8-1901-48f4-a878-9e1ede40e152",
+        "itemId": "d7285822-337f-4aae-8aef-b663e3c0dc96",
+        "path": "minecraft_texture\\textures\\item\\tnt_minecart.png"
+    },
+    {
+        "id": "24448d37-f7dd-4e9d-ad03-d7d23f8b08cc",
+        "itemId": "de8d65ea-5bb7-42ce-87d4-8c2b85ca5431",
+        "path": "minecraft_texture\\textures\\item\\hopper_minecart.png"
+    },
+    {
+        "id": "7f48b6ba-0d3f-4efd-aca6-3eb8bfbf8460",
+        "itemId": "7d5d15cc-5ab7-455e-ba3e-4df23a751fad",
+        "path": "minecraft_texture\\textures\\item\\carrot_on_a_stick.png"
+    },
+    {
+        "id": "c380dc62-b72c-45af-8113-c24242fed0de",
+        "itemId": "e2f32449-a3bc-4a07-b2a0-7e3e92036d9a",
+        "path": "minecraft_texture\\textures\\item\\warped_fungus_on_a_stick.png"
+    },
+    {
+        "id": "dcbb189f-2408-4871-8024-1aaa86878712",
+        "itemId": "1c5b1485-402e-4396-ba13-8b4b5e0e8a01",
+        "path": "minecraft_texture\\textures\\entity\\elytra.png"
+    },
+    {
+        "id": "5788f554-9f98-411f-8e5e-432871f35248",
+        "itemId": "df0815c2-c7a7-4c89-9fe2-66836bdd7750",
+        "path": "minecraft_texture\\textures\\item\\oak_boat.png"
+    },
+    {
+        "id": "360521ff-0ee0-40ee-83ca-8c5ee49b2a81",
+        "itemId": "3ffbcc7a-99b7-464a-8d17-0595329136ed",
+        "path": "minecraft_texture\\textures\\item\\oak_chest_boat.png"
+    },
+    {
+        "id": "f3a8e449-9dfa-49cf-b1c3-d0fe3c0ca039",
+        "itemId": "7711ca0c-206a-48fc-b80f-e40904fcaf80",
+        "path": "minecraft_texture\\textures\\item\\spruce_boat.png"
+    },
+    {
+        "id": "edebb803-24ae-409d-9d0d-aec8997785dd",
+        "itemId": "185c4407-0e9b-4e6c-a1ca-196672e4b5ee",
+        "path": "minecraft_texture\\textures\\item\\spruce_chest_boat.png"
+    },
+    {
+        "id": "181b3c50-62cf-4f60-adde-70c0c8a7f417",
+        "itemId": "b0a6dbbd-c198-4c28-9402-2d37c7c960a9",
+        "path": "minecraft_texture\\textures\\item\\birch_boat.png"
+    },
+    {
+        "id": "76777c46-6b4f-44a3-b8f6-986a613e2e3d",
+        "itemId": "52a72cd5-872d-44b0-b681-b3f6649a077d",
+        "path": "minecraft_texture\\textures\\item\\birch_chest_boat.png"
+    },
+    {
+        "id": "fe03d86d-0f1e-42ad-81d2-f453924dfe81",
+        "itemId": "6f0f4e72-8ebb-4383-b14d-ebaec36d720b",
+        "path": "minecraft_texture\\textures\\item\\jungle_boat.png"
+    },
+    {
+        "id": "d0bf71a4-3217-497c-ba84-ed144e018e29",
+        "itemId": "efab5a84-136e-404f-adaf-424b2a8bd18f",
+        "path": "minecraft_texture\\textures\\item\\jungle_chest_boat.png"
+    },
+    {
+        "id": "a98d7df8-9151-48d0-837f-115a9cd054ce",
+        "itemId": "73f6a75e-ad34-4a10-ac48-d69bfe6cc35c",
+        "path": "minecraft_texture\\textures\\item\\acacia_boat.png"
+    },
+    {
+        "id": "0a4fe79e-9ff9-4078-b987-320ed31d4c21",
+        "itemId": "253cb393-000b-4c32-ad5c-2eef0d9fad5d",
+        "path": "minecraft_texture\\textures\\item\\acacia_chest_boat.png"
+    },
+    {
+        "id": "8ebfcf89-675c-4248-9172-dbd60be668a5",
+        "itemId": "6df267c8-fcdb-4e12-b840-4094256ea2b7",
+        "path": "minecraft_texture\\textures\\item\\cherry_boat.png"
+    },
+    {
+        "id": "18099650-20ed-43b5-a97c-e779c223ac96",
+        "itemId": "84f33f01-10f3-4cbc-bb3b-2b20c8e47875",
+        "path": "minecraft_texture\\textures\\item\\cherry_chest_boat.png"
+    },
+    {
+        "id": "35c5d309-0996-4a14-beda-ddfbb0721b84",
+        "itemId": "6a794c56-9fd1-4f05-92cd-40a92710c6df",
+        "path": "minecraft_texture\\textures\\item\\dark_oak_boat.png"
+    },
+    {
+        "id": "ec3a60b6-0528-4224-8e79-f3a0ca65aded",
+        "itemId": "35d0684b-bdde-4fe6-9f7f-dafe9efc60d0",
+        "path": "minecraft_texture\\textures\\item\\dark_oak_chest_boat.png"
+    },
+    {
+        "id": "ff0275fa-aaa6-471d-bb1e-15e3a05f383c",
+        "itemId": "8a09fac0-0083-4f92-a60b-0eb3c4a57504",
+        "path": "minecraft_texture\\textures\\item\\mangrove_boat.png"
+    },
+    {
+        "id": "a85fb40d-3216-4bfd-90c7-18d4ebd873c6",
+        "itemId": "90b3e6da-19b7-4dbc-a6b7-cedb1b4362c4",
+        "path": "minecraft_texture\\textures\\item\\mangrove_chest_boat.png"
+    },
+    {
+        "id": "7f0ab3c4-1a33-4deb-b6a1-6327d93f6c1f",
+        "itemId": "38102401-960a-4884-b4c8-41a231c94909",
+        "path": "minecraft_texture\\textures\\item\\bamboo_raft.png"
+    },
+    {
+        "id": "267e6fd4-7e69-4bcb-bbe4-47c130e25712",
+        "itemId": "32483dc9-954d-4398-936c-d482d85350c4",
+        "path": "minecraft_texture\\textures\\item\\bamboo_chest_raft.png"
+    },
+    {
+        "id": "ca67867e-4046-4851-96b5-38d96cde0a68",
+        "itemId": "892bc37e-60b4-4e00-9fe8-e6e494910492",
+        "path": "minecraft_texture\\textures\\block\\structure_block.png"
+    },
+    {
+        "id": "6286b84f-def4-4ae5-a850-421666fabc14",
+        "itemId": "d1e9f38f-74fa-466f-a4ec-4e5db40db1cc",
+        "path": "minecraft_texture\\textures\\item\\turtle_helmet.png"
+    },
+    {
+        "id": "a0bf23dc-cd45-408e-8300-a1d046fc5b81",
+        "itemId": "3ecf6350-e535-4d92-8758-749722ef129e",
+        "path": "minecraft_texture\\textures\\item\\scute.png"
+    },
+    {
+        "id": "b3508c38-99ff-490c-a1fa-dfe0a1535720",
+        "itemId": "a73e8cbc-9a09-4e7e-9877-cfcf4848e8cf",
+        "path": "minecraft_texture\\textures\\item\\flint_and_steel.png"
+    },
+    {
+        "id": "58d1d281-12f0-4ad1-b048-2d0d76971886",
+        "itemId": "03a843c2-a54a-44cb-9927-c14f0e09fd23",
+        "path": "minecraft_texture\\textures\\item\\apple.png"
+    },
+    {
+        "id": "ae44aeb7-4676-4002-85b0-e49c24bf5b5a",
+        "itemId": "5bc8d544-95f9-47a0-bc67-e2dfe01ce89d",
+        "path": "minecraft_texture\\textures\\item\\bow.png"
+    },
+    {
+        "id": "9aedb479-99b2-45f6-9b6c-3217e4bd6a78",
+        "itemId": "c5dfe666-8b92-4da4-ad58-72fce418c67a",
+        "path": "minecraft_texture\\textures\\entity\\projectiles\\arrow.png"
+    },
+    {
+        "id": "81803b94-2d19-487b-aee9-4f239ad88fe6",
+        "itemId": "7bb13951-a563-44e4-94c8-a7011a159033",
+        "path": "minecraft_texture\\textures\\item\\coal.png"
+    },
+    {
+        "id": "b48803ad-3af3-4be2-9742-154e6c80470c",
+        "itemId": "3d2c18e9-95f9-427a-93d6-8d835c02418b",
+        "path": "minecraft_texture\\textures\\item\\charcoal.png"
+    },
+    {
+        "id": "2f5d36cf-50a4-421d-a627-0e8e56e9fd01",
+        "itemId": "33361f63-e9d3-4675-9575-b978617b9789",
+        "path": "minecraft_texture\\textures\\entity\\villager\\profession_level\\diamond.png"
+    },
+    {
+        "id": "ff4847e1-a6e9-4bf4-9fa4-055ee814470c",
+        "itemId": "2de6d0db-12e2-4275-b54d-6bb7928020bf",
+        "path": "minecraft_texture\\textures\\entity\\villager\\profession_level\\emerald.png"
+    },
+    {
+        "id": "08d6f3d4-0988-485e-9349-22f3409a4ef2",
+        "itemId": "5ba9e070-c4ee-44fb-ab82-406ab6097498",
+        "path": "minecraft_texture\\textures\\item\\lapis_lazuli.png"
+    },
+    {
+        "id": "c2397ef3-4515-49fa-9ad4-97d17f7aa71c",
+        "itemId": "6ef61883-7572-4c1c-9d4f-6aa070e73154",
+        "path": "minecraft_texture\\textures\\item\\quartz.png"
+    },
+    {
+        "id": "d19af989-0a67-41aa-ad06-3ab56b7e90fd",
+        "itemId": "eba0b5d7-feb9-41a1-971f-ca25f0dcc6b7",
+        "path": "minecraft_texture\\textures\\item\\amethyst_shard.png"
+    },
+    {
+        "id": "e936a969-6f5d-4e6a-bca0-7d11a1784adb",
+        "itemId": "73c4ccfb-5f83-4315-9481-5ba9b46bf83d",
+        "path": "minecraft_texture\\textures\\item\\raw_iron.png"
+    },
+    {
+        "id": "6230071c-6927-4e45-a63e-b3b3e9873e4a",
+        "itemId": "1a204c48-c752-410d-843f-79e85f125b24",
+        "path": "minecraft_texture\\textures\\item\\iron_ingot.png"
+    },
+    {
+        "id": "fdd7c3ca-9a59-4cf0-8580-4be2b1c9f692",
+        "itemId": "28329147-2b37-48a6-aa7c-d79739237722",
+        "path": "minecraft_texture\\textures\\item\\raw_copper.png"
+    },
+    {
+        "id": "2f87ae54-0d4a-414c-afaa-eb3e9b524369",
+        "itemId": "7c43d1d7-50c2-44bc-b62b-501273d22713",
+        "path": "minecraft_texture\\textures\\item\\copper_ingot.png"
+    },
+    {
+        "id": "253d33ac-bd72-40fd-aec0-eea1e9db7f98",
+        "itemId": "d90db003-37df-480c-8d32-ba01afd1cd45",
+        "path": "minecraft_texture\\textures\\item\\raw_gold.png"
+    },
+    {
+        "id": "d20d9b45-3d43-4d0f-929e-61eaa9799ef3",
+        "itemId": "47f04a6c-0884-4981-950f-d2c8474cf535",
+        "path": "minecraft_texture\\textures\\item\\gold_ingot.png"
+    },
+    {
+        "id": "a0e6d824-a088-4b8a-bbf3-778bafafcf2d",
+        "itemId": "905bba44-a794-4c98-baef-0d8c9b99eb91",
+        "path": "minecraft_texture\\textures\\item\\netherite_ingot.png"
+    },
+    {
+        "id": "605f4e83-b46f-45e8-b3a4-9f31417e3726",
+        "itemId": "cc94adc8-6c5d-4f90-8781-24291b99b8c2",
+        "path": "minecraft_texture\\textures\\item\\netherite_scrap.png"
+    },
+    {
+        "id": "cdc25727-6a9d-48ab-bb09-9afe5c14462e",
+        "itemId": "340144c2-8213-4338-8669-a2ec55a51410",
+        "path": "minecraft_texture\\textures\\item\\wooden_sword.png"
+    },
+    {
+        "id": "70dfaa9a-56ec-4a04-b111-86a78983f238",
+        "itemId": "c0290d3d-f901-44ff-a050-83f11ce8e89f",
+        "path": "minecraft_texture\\textures\\item\\wooden_shovel.png"
+    },
+    {
+        "id": "9575c597-3a1d-4996-9be6-e440800fba43",
+        "itemId": "24ccb993-001e-4ecc-91fa-80a66064251c",
+        "path": "minecraft_texture\\textures\\item\\wooden_pickaxe.png"
+    },
+    {
+        "id": "9b7fe7c0-b92d-462e-8c9c-4758402a6ddf",
+        "itemId": "bb834727-b6c6-400e-8658-b5ad26ad05e1",
+        "path": "minecraft_texture\\textures\\item\\wooden_axe.png"
+    },
+    {
+        "id": "104337a2-d119-4250-962f-14eae25e89b3",
+        "itemId": "14f81bd7-97e4-4e90-920a-a4c62731fe77",
+        "path": "minecraft_texture\\textures\\item\\wooden_hoe.png"
+    },
+    {
+        "id": "f9868880-26d3-4632-b31d-1ff0508bd586",
+        "itemId": "c9b8020e-00fe-4de0-9aa1-c044ec5c101d",
+        "path": "minecraft_texture\\textures\\item\\stone_sword.png"
+    },
+    {
+        "id": "b88bb5e2-5d8f-4873-aa93-3f2ab3211226",
+        "itemId": "26379728-0084-4d27-9c80-177e0a1d2f5e",
+        "path": "minecraft_texture\\textures\\item\\stone_shovel.png"
+    },
+    {
+        "id": "00db4cc9-a818-4866-bcb0-ae66bc6e9bca",
+        "itemId": "ef93feb7-bc6b-4f42-bee0-e3cdd6c7f3f6",
+        "path": "minecraft_texture\\textures\\item\\stone_pickaxe.png"
+    },
+    {
+        "id": "76c48235-22f5-4116-b473-c8c14f35e46a",
+        "itemId": "9a204e63-a0f3-42f9-99f9-2f4455a70140",
+        "path": "minecraft_texture\\textures\\item\\stone_axe.png"
+    },
+    {
+        "id": "32b4dc71-1b01-42ee-a867-d11e32336d44",
+        "itemId": "92aebe6a-3e75-41b0-8c95-1682bc4ac942",
+        "path": "minecraft_texture\\textures\\item\\stone_hoe.png"
+    },
+    {
+        "id": "0f631beb-7069-45ff-b27a-e988ae91dd75",
+        "itemId": "01931ebc-14fa-4d76-a2e0-3635d057a6d6",
+        "path": "minecraft_texture\\textures\\item\\golden_sword.png"
+    },
+    {
+        "id": "02880477-01a4-4508-8a9a-e08a885e86e2",
+        "itemId": "47e54a4b-d56a-4bb9-9c1f-50d223571504",
+        "path": "minecraft_texture\\textures\\item\\golden_shovel.png"
+    },
+    {
+        "id": "f705455a-e124-4705-bca8-5b1fe2c8f057",
+        "itemId": "8c355a09-6260-4dd8-b14f-9e78408808dc",
+        "path": "minecraft_texture\\textures\\item\\golden_pickaxe.png"
+    },
+    {
+        "id": "bba4aa37-2126-4617-8f3f-2695b11f3a89",
+        "itemId": "585d819e-a7cb-42e9-bb9f-a8ed744f6179",
+        "path": "minecraft_texture\\textures\\item\\golden_axe.png"
+    },
+    {
+        "id": "424b9b69-3990-405a-9f6e-cc72b8ce4a96",
+        "itemId": "3adc8a42-30a6-4436-bc42-b60dde4ca4c9",
+        "path": "minecraft_texture\\textures\\item\\golden_hoe.png"
+    },
+    {
+        "id": "3be45bae-f06f-4a95-899d-6642a341e1fd",
+        "itemId": "a4ad69d6-74c0-4706-a425-942ea0de3776",
+        "path": "minecraft_texture\\textures\\item\\iron_sword.png"
+    },
+    {
+        "id": "449bd6b4-9006-430d-86c7-2af245537f60",
+        "itemId": "ef9be85c-bfe1-406f-bf28-958d03d75532",
+        "path": "minecraft_texture\\textures\\item\\iron_shovel.png"
+    },
+    {
+        "id": "3640897e-b625-4662-9003-633a7e819b44",
+        "itemId": "52561821-b17c-4319-8be3-69a5d2beb8d4",
+        "path": "minecraft_texture\\textures\\item\\iron_pickaxe.png"
+    },
+    {
+        "id": "5c36f6ae-efb8-499a-a13f-331c091d81b1",
+        "itemId": "f0b6d158-366f-4ddb-b089-42e921b88041",
+        "path": "minecraft_texture\\textures\\item\\iron_axe.png"
+    },
+    {
+        "id": "21cccd05-0fac-4320-900b-a28c6b2a7bfc",
+        "itemId": "11975719-8642-494b-a3cb-fbcd3411a322",
+        "path": "minecraft_texture\\textures\\item\\iron_hoe.png"
+    },
+    {
+        "id": "dd237bf6-3d0c-4cd7-bf1f-bb00f12d9a28",
+        "itemId": "bee1385c-a75c-48db-a7d4-5542c94c97c5",
+        "path": "minecraft_texture\\textures\\item\\diamond_sword.png"
+    },
+    {
+        "id": "a8cad9d2-d087-461c-b7a2-6276d3b399f3",
+        "itemId": "f48bf2f3-0aa8-4813-bdc5-2d1e79dbad35",
+        "path": "minecraft_texture\\textures\\item\\diamond_shovel.png"
+    },
+    {
+        "id": "19607a5e-6897-4057-83d9-3a799a0ed2d0",
+        "itemId": "e5fc5033-275f-4853-89a4-3849cd93d31c",
+        "path": "minecraft_texture\\textures\\item\\diamond_pickaxe.png"
+    },
+    {
+        "id": "a44a4d09-467b-4987-847a-08c84da41299",
+        "itemId": "ca4d5ba8-8c40-49f7-807f-1d3b0dad50d9",
+        "path": "minecraft_texture\\textures\\item\\diamond_axe.png"
+    },
+    {
+        "id": "b352d41f-4104-4229-8a54-48ebed86e7d0",
+        "itemId": "41cf5ca5-945a-4fc8-88d1-de6900ea189a",
+        "path": "minecraft_texture\\textures\\item\\diamond_hoe.png"
+    },
+    {
+        "id": "07c700e0-8e2b-496f-9780-85795c6899af",
+        "itemId": "e179b5a5-f5f4-4f80-9a1d-4459ddcbb2d9",
+        "path": "minecraft_texture\\textures\\item\\netherite_sword.png"
+    },
+    {
+        "id": "7a194400-8df2-48e5-a24f-1d8ee747cac2",
+        "itemId": "726658e6-6cd5-46b0-9549-10ec96198045",
+        "path": "minecraft_texture\\textures\\item\\netherite_shovel.png"
+    },
+    {
+        "id": "758597a8-8382-464e-8c30-0d1e10aa0112",
+        "itemId": "c706d899-c108-4b23-bc73-813aac6932c8",
+        "path": "minecraft_texture\\textures\\item\\netherite_pickaxe.png"
+    },
+    {
+        "id": "a40a7ff8-1af6-43ca-924d-e12982bdf573",
+        "itemId": "fa5eae02-2625-4a91-813c-cca1e8811cec",
+        "path": "minecraft_texture\\textures\\item\\netherite_axe.png"
+    },
+    {
+        "id": "a17fd360-47f9-4ab8-9d3e-ce77cdf25fbc",
+        "itemId": "522a9133-4284-48a8-b8b1-3ae37499eda2",
+        "path": "minecraft_texture\\textures\\item\\netherite_hoe.png"
+    },
+    {
+        "id": "dc04163f-168a-4c62-8919-8bada0c69cc7",
+        "itemId": "cce44f47-d0b4-4dbe-8668-f5ad06ffbdd4",
+        "path": "minecraft_texture\\textures\\item\\stick.png"
+    },
+    {
+        "id": "17b92c7f-9254-493a-ad95-08e382664bb0",
+        "itemId": "0e2fccdc-77b9-45a5-8645-5006e20d3091",
+        "path": "minecraft_texture\\textures\\item\\bowl.png"
+    },
+    {
+        "id": "98480638-5363-40d4-a35d-60f55b2d7d57",
+        "itemId": "544c42ee-4b83-4126-8057-67d1e837a77d",
+        "path": "minecraft_texture\\textures\\item\\mushroom_stew.png"
+    },
+    {
+        "id": "6b7a0ff7-1c4f-47d8-8a81-5d748dcc8682",
+        "itemId": "3df63961-fdc1-44f9-8105-c8812965bc42",
+        "path": "minecraft_texture\\textures\\item\\string.png"
+    },
+    {
+        "id": "27832801-2458-4d79-89c3-b7ca72e4e287",
+        "itemId": "49c10f46-03f9-4c11-9ccf-4ae024020698",
+        "path": "minecraft_texture\\textures\\item\\feather.png"
+    },
+    {
+        "id": "fefc6dbc-04a8-4600-8fd2-36f136703c61",
+        "itemId": "8ba27054-d8b9-40a3-b29f-09c64442101d",
+        "path": "minecraft_texture\\textures\\item\\gunpowder.png"
+    },
+    {
+        "id": "31d85efe-605b-408d-b107-0ecbea5f340d",
+        "itemId": "7e16120f-23fd-4084-ba11-361f3ada68e6",
+        "path": "minecraft_texture\\textures\\item\\wheat_seeds.png"
+    },
+    {
+        "id": "e7538d74-c3d2-43c5-a612-da9ef9dbccb3",
+        "itemId": "9465050c-4ad5-4d6a-9efd-a4ce74acbfa7",
+        "path": "minecraft_texture\\textures\\item\\wheat.png"
+    },
+    {
+        "id": "0201853a-69b1-4f87-a6c5-9232c36cffc3",
+        "itemId": "fa822f10-b249-49c1-95a1-f7179a41ce68",
+        "path": "minecraft_texture\\textures\\item\\bread.png"
+    },
+    {
+        "id": "b97bd117-a5ef-4f04-a107-2a4180ba1a3a",
+        "itemId": "b2a1d829-861a-4802-8737-f7956b130749",
+        "path": "minecraft_texture\\textures\\item\\leather_helmet.png"
+    },
+    {
+        "id": "fa2478d8-aebc-4a07-9aab-1b4934cb0eda",
+        "itemId": "141647f7-5e57-4510-87a0-d287a61a25c9",
+        "path": "minecraft_texture\\textures\\item\\leather_chestplate.png"
+    },
+    {
+        "id": "88072e6f-40d9-4352-a15d-1e7c4daaa10a",
+        "itemId": "a10f47e5-b06d-4711-8a2b-81fea3fb24f7",
+        "path": "minecraft_texture\\textures\\item\\leather_leggings.png"
+    },
+    {
+        "id": "345a0243-eb2f-45a6-86eb-0b9de1409989",
+        "itemId": "e1733d37-911d-407e-b4af-162779a63778",
+        "path": "minecraft_texture\\textures\\item\\leather_boots.png"
+    },
+    {
+        "id": "dccf981c-ecbd-4aac-b708-e14c2ffab8a9",
+        "itemId": "cfe891d8-da39-4f4e-b5ef-080cd2af4c94",
+        "path": "minecraft_texture\\textures\\item\\chainmail_helmet.png"
+    },
+    {
+        "id": "9c2d7ab8-01a9-4205-8586-ce3baa222f27",
+        "itemId": "d98e4c19-e575-4d79-8c51-13c5e5865c46",
+        "path": "minecraft_texture\\textures\\item\\chainmail_chestplate.png"
+    },
+    {
+        "id": "1e56d6d3-26ee-4a66-84de-265240cca0d7",
+        "itemId": "f1844746-53c6-422c-a7fc-a2b6edc00fcf",
+        "path": "minecraft_texture\\textures\\item\\chainmail_leggings.png"
+    },
+    {
+        "id": "26376962-a8c9-4282-b3c0-e1eaab5028c6",
+        "itemId": "377b7de5-d5f7-4b4e-b456-36343375a17d",
+        "path": "minecraft_texture\\textures\\item\\chainmail_boots.png"
+    },
+    {
+        "id": "3d4387d6-bb43-49c1-a86a-600d7b1d88b7",
+        "itemId": "4fb6e0f7-83da-4ca2-a594-842bafa417d8",
+        "path": "minecraft_texture\\textures\\item\\iron_helmet.png"
+    },
+    {
+        "id": "301dfb5b-d64a-497c-bc1c-97f256dd0027",
+        "itemId": "d2920484-312a-4884-bf54-491fdd404b35",
+        "path": "minecraft_texture\\textures\\item\\iron_chestplate.png"
+    },
+    {
+        "id": "c5291cc5-aae4-4b43-ac4e-34dca459cbba",
+        "itemId": "9ce19842-41da-4814-96a8-2da7034abfcf",
+        "path": "minecraft_texture\\textures\\item\\iron_leggings.png"
+    },
+    {
+        "id": "b2432aec-7200-48c2-970e-0d779e0abf6f",
+        "itemId": "86ba1c08-96b9-4552-859b-289dab8cac38",
+        "path": "minecraft_texture\\textures\\item\\iron_boots.png"
+    },
+    {
+        "id": "a31c45df-742a-457b-880c-2a0299bb563c",
+        "itemId": "13177848-f367-4c12-93ce-c8634a1be1db",
+        "path": "minecraft_texture\\textures\\item\\diamond_helmet.png"
+    },
+    {
+        "id": "b17df146-6cea-467d-9f46-0928d59504cd",
+        "itemId": "7c563214-3f17-465b-b949-f4d6e36446a7",
+        "path": "minecraft_texture\\textures\\item\\diamond_chestplate.png"
+    },
+    {
+        "id": "7b57f67c-1024-4057-b9f0-a568a8f71162",
+        "itemId": "ecde9c38-443f-4151-a0cb-38e678bb5b31",
+        "path": "minecraft_texture\\textures\\item\\diamond_leggings.png"
+    },
+    {
+        "id": "c0979a0d-77c9-4717-a410-b3168fda02a1",
+        "itemId": "6e80334e-458c-45c8-8401-9e058003c08b",
+        "path": "minecraft_texture\\textures\\item\\diamond_boots.png"
+    },
+    {
+        "id": "e95a08b0-f0a6-4ff0-bf66-70c05293fdf3",
+        "itemId": "690475d4-716a-4385-a8d7-43bfc0976a25",
+        "path": "minecraft_texture\\textures\\item\\golden_helmet.png"
+    },
+    {
+        "id": "b6ea88a9-c512-48ca-ace1-d05ca74e77a7",
+        "itemId": "5011407d-1838-4c72-ac8d-68551f812e05",
+        "path": "minecraft_texture\\textures\\item\\golden_chestplate.png"
+    },
+    {
+        "id": "a313005c-cf78-4a14-81c7-db171bd45b8a",
+        "itemId": "2f29bfe4-3d07-4040-8871-c8dfedc00ea8",
+        "path": "minecraft_texture\\textures\\item\\golden_leggings.png"
+    },
+    {
+        "id": "922f3174-ad8e-4d3b-b4fc-a9a18387fd61",
+        "itemId": "230915a4-e46c-4c74-bdc9-9bbad2b53676",
+        "path": "minecraft_texture\\textures\\item\\golden_boots.png"
+    },
+    {
+        "id": "7f7fa322-11db-40ff-8961-8f627c8462cb",
+        "itemId": "d7063707-8460-47cb-abde-9d10c824b11b",
+        "path": "minecraft_texture\\textures\\item\\netherite_helmet.png"
+    },
+    {
+        "id": "dda57b5a-d36a-4c34-9ea1-d03cbb956245",
+        "itemId": "a8bbb5e0-62d7-48d1-a952-37d4f312f1c2",
+        "path": "minecraft_texture\\textures\\item\\netherite_chestplate.png"
+    },
+    {
+        "id": "c3501fa0-62f7-413a-b36b-0d1406da7156",
+        "itemId": "5588502b-7b52-4fa4-abca-31bc9892286f",
+        "path": "minecraft_texture\\textures\\item\\netherite_leggings.png"
+    },
+    {
+        "id": "4c6e57bb-42da-47c2-a380-bf673e353947",
+        "itemId": "da307f91-60fd-48e2-84d2-1b4d746e29d4",
+        "path": "minecraft_texture\\textures\\item\\netherite_boots.png"
+    },
+    {
+        "id": "c38b5060-1d78-4588-9c05-51b12b23384b",
+        "itemId": "7b4d2184-aad0-4c1d-8f60-8809688db634",
+        "path": "minecraft_texture\\textures\\item\\flint.png"
+    },
+    {
+        "id": "f80bda9e-4cb3-4a1a-9f76-a39e9311b46d",
+        "itemId": "06bff30a-5d80-4b6e-a887-b793ee3ae14d",
+        "path": "minecraft_texture\\textures\\item\\porkchop.png"
+    },
+    {
+        "id": "9bfabf5a-a796-4409-9969-44af79379369",
+        "itemId": "af8e3bc4-16a4-4e71-a0ad-240816b8ec00",
+        "path": "minecraft_texture\\textures\\item\\cooked_porkchop.png"
+    },
+    {
+        "id": "f5f89129-5b48-482d-80fd-bce29b029edb",
+        "itemId": "dde20223-f72b-4d38-8c80-22bc36967dc4",
+        "path": "minecraft_texture\\textures\\item\\painting.png"
+    },
+    {
+        "id": "e7b4f39d-5c89-4c3e-ae8b-b843fbfbbe67",
+        "itemId": "199e2d24-b85f-41e6-8ad5-ad1ffc25a2ad",
+        "path": "minecraft_texture\\textures\\item\\golden_apple.png"
+    },
+    {
+        "id": "7d6c7865-855c-4a95-b3c1-49eaf195d663",
+        "itemId": "bfecb01d-ff42-4f78-97e8-82948f3ebada",
+        "path": "minecraft_texture\\textures\\item\\oak_sign.png"
+    },
+    {
+        "id": "4dafb143-3e94-4a23-9beb-cb82655f5c8f",
+        "itemId": "56739bdf-48c4-40d8-a8cd-80d0bd04d0f4",
+        "path": "minecraft_texture\\textures\\item\\spruce_sign.png"
+    },
+    {
+        "id": "60850fa3-bb2b-4102-b802-228a1610ce30",
+        "itemId": "caf88517-6664-4bdf-b84e-fb7a1a7a8234",
+        "path": "minecraft_texture\\textures\\item\\birch_sign.png"
+    },
+    {
+        "id": "ab29a2fc-e205-4e86-b329-d4a0e412a554",
+        "itemId": "b481192e-9df7-4f4d-bfd4-8021e75fa038",
+        "path": "minecraft_texture\\textures\\item\\jungle_sign.png"
+    },
+    {
+        "id": "1a887e66-2388-4bfc-aba6-018cca15a48c",
+        "itemId": "d9ae58ae-ab85-4a39-86b3-abe2f888a6db",
+        "path": "minecraft_texture\\textures\\item\\acacia_sign.png"
+    },
+    {
+        "id": "984126ea-817f-4ea6-a534-0923fe600bde",
+        "itemId": "5611e2d3-4843-4f0f-9283-81a3a6247de4",
+        "path": "minecraft_texture\\textures\\item\\cherry_sign.png"
+    },
+    {
+        "id": "e425d0a0-324e-46d7-99d5-a3f487dc6003",
+        "itemId": "b1143d42-f6ca-44d7-a5c3-75c0833a75f2",
+        "path": "minecraft_texture\\textures\\item\\dark_oak_sign.png"
+    },
+    {
+        "id": "1dcebf95-65e0-4274-9a34-3f54058c192e",
+        "itemId": "d26edb49-c1a0-48b9-96f7-1e1be81e7b48",
+        "path": "minecraft_texture\\textures\\item\\mangrove_sign.png"
+    },
+    {
+        "id": "17490f42-b416-4ac1-b2de-e255c637e6cc",
+        "itemId": "c38c5d14-529a-4987-a8ed-f678eaff3aef",
+        "path": "minecraft_texture\\textures\\item\\bamboo_sign.png"
+    },
+    {
+        "id": "e0df1ce4-7c1a-4aaa-aecf-050a23deff9a",
+        "itemId": "fe2d3542-6661-45ec-9fd7-bf23caf67fa8",
+        "path": "minecraft_texture\\textures\\item\\crimson_sign.png"
+    },
+    {
+        "id": "be3112cf-4e77-4c94-ba12-60c959a3a01a",
+        "itemId": "50433b70-07c3-47ca-b8a4-a988f4000e13",
+        "path": "minecraft_texture\\textures\\item\\warped_sign.png"
+    },
+    {
+        "id": "62b4e4ed-dbf3-4336-98c7-35457fb31061",
+        "itemId": "a4ad74ce-20e0-4ad0-b684-604502ad6c8e",
+        "path": "minecraft_texture\\textures\\item\\oak_hanging_sign.png"
+    },
+    {
+        "id": "71fef85d-cd1f-4ff2-a259-f960a07fd234",
+        "itemId": "249db506-3827-40ae-946e-4ffbb66fad59",
+        "path": "minecraft_texture\\textures\\item\\spruce_hanging_sign.png"
+    },
+    {
+        "id": "07545c82-7dae-426b-9896-20ae903482ce",
+        "itemId": "ecf27265-2650-4c7c-a904-ed09dfe6c175",
+        "path": "minecraft_texture\\textures\\item\\birch_hanging_sign.png"
+    },
+    {
+        "id": "9256e0d9-beec-4a70-906d-574a4aaff7a7",
+        "itemId": "a42fb3cf-0e33-42ee-862e-e9c335131959",
+        "path": "minecraft_texture\\textures\\item\\jungle_hanging_sign.png"
+    },
+    {
+        "id": "ba4e4372-6c3e-4c2a-80c6-a8b97ecf4330",
+        "itemId": "925e3ca4-1246-4c23-b254-5e1ff4a1f674",
+        "path": "minecraft_texture\\textures\\item\\acacia_hanging_sign.png"
+    },
+    {
+        "id": "a2e30e9d-5a8f-4a90-b53e-2070356bd1f5",
+        "itemId": "fd87b2cd-8f4b-4ff5-b99b-c5b41651e75b",
+        "path": "minecraft_texture\\textures\\item\\cherry_hanging_sign.png"
+    },
+    {
+        "id": "d430ce4b-e9e2-4395-b626-9c14fccc3266",
+        "itemId": "4d3c4caa-6fee-4e8a-98d8-c48a1a96af82",
+        "path": "minecraft_texture\\textures\\item\\dark_oak_hanging_sign.png"
+    },
+    {
+        "id": "45b8d58f-aae6-4189-81ab-cb91f21c3daa",
+        "itemId": "8f798a73-111c-4a52-a92b-b8ef9b2620b3",
+        "path": "minecraft_texture\\textures\\item\\mangrove_hanging_sign.png"
+    },
+    {
+        "id": "6c32d822-6db2-4b8e-aff4-c8191341e1bb",
+        "itemId": "df8e4931-adce-4d77-91b7-f8c5cbe70c5c",
+        "path": "minecraft_texture\\textures\\item\\bamboo_hanging_sign.png"
+    },
+    {
+        "id": "17b5b068-b3c6-4768-9bae-115a9216c519",
+        "itemId": "62a65a5b-053b-4e49-9be9-7f42f8be1f8e",
+        "path": "minecraft_texture\\textures\\item\\crimson_hanging_sign.png"
+    },
+    {
+        "id": "ba9eb1c9-1585-4245-90c9-407a15991dda",
+        "itemId": "6b518b69-a408-4490-add5-0ccf7871450e",
+        "path": "minecraft_texture\\textures\\item\\warped_hanging_sign.png"
+    },
+    {
+        "id": "ec017b9c-f7de-4ed9-b628-7a313222eb54",
+        "itemId": "3fdf3670-b759-4aea-a450-e51600781af7",
+        "path": "minecraft_texture\\textures\\item\\bucket.png"
+    },
+    {
+        "id": "d7555002-8644-4bf9-994c-2674b37dbf40",
+        "itemId": "7a0fc14c-9527-454e-97bc-85abdb2ebba2",
+        "path": "minecraft_texture\\textures\\item\\water_bucket.png"
+    },
+    {
+        "id": "8bbb52ac-f6d2-49da-8ff8-fef9b2f1121a",
+        "itemId": "874d6f9d-b0e0-49cf-84c9-b8847f84a521",
+        "path": "minecraft_texture\\textures\\item\\lava_bucket.png"
+    },
+    {
+        "id": "ccf0f435-c572-454a-82dc-bc9966fb17d4",
+        "itemId": "d5379392-5e68-44a7-b0df-61bce2db17bf",
+        "path": "minecraft_texture\\textures\\item\\powder_snow_bucket.png"
+    },
+    {
+        "id": "30bf9854-d37c-4ea5-ad06-e431c97a896f",
+        "itemId": "df059a46-631b-4981-8ea5-9151160da24c",
+        "path": "minecraft_texture\\textures\\item\\snowball.png"
+    },
+    {
+        "id": "573f675f-73cf-4650-9b68-540fba4f1173",
+        "itemId": "f7dce1de-d663-42dd-887f-0612eabdc4d9",
+        "path": "minecraft_texture\\textures\\item\\leather.png"
+    },
+    {
+        "id": "e67c2086-f54a-40d8-a856-67631adb2d36",
+        "itemId": "50a325fc-d0e3-4cd0-bbcc-295387c98d44",
+        "path": "minecraft_texture\\textures\\item\\milk_bucket.png"
+    },
+    {
+        "id": "f5a01037-9f5d-4c4e-bae1-4a51cf57eea9",
+        "itemId": "b48df0db-40ce-41e0-bba6-83d7a9552c83",
+        "path": "minecraft_texture\\textures\\item\\pufferfish_bucket.png"
+    },
+    {
+        "id": "490870a1-f89f-4be0-9098-001764596963",
+        "itemId": "c3f3457b-a0ee-4dc5-b1c8-b3be49409a12",
+        "path": "minecraft_texture\\textures\\item\\salmon_bucket.png"
+    },
+    {
+        "id": "c1f1e690-d6e6-45ab-9e9e-1e525e293e0b",
+        "itemId": "d2b0b2cc-6557-4acc-b88f-8b3d4df7d73b",
+        "path": "minecraft_texture\\textures\\item\\cod_bucket.png"
+    },
+    {
+        "id": "80c982fb-8463-45bf-af76-5ff0e7944a6d",
+        "itemId": "7e64088e-5436-4d48-b5eb-91897f15377e",
+        "path": "minecraft_texture\\textures\\item\\tropical_fish_bucket.png"
+    },
+    {
+        "id": "34796fac-3b5e-494b-adf4-77b538d48f24",
+        "itemId": "0130d4d4-99f0-4676-a07e-82c50b9a1767",
+        "path": "minecraft_texture\\textures\\item\\axolotl_bucket.png"
+    },
+    {
+        "id": "f4056812-87f4-4cf1-9f31-ea463cb7b013",
+        "itemId": "3ce87548-3cc6-4822-bd8f-920a1140b359",
+        "path": "minecraft_texture\\textures\\item\\tadpole_bucket.png"
+    },
+    {
+        "id": "c0ed270a-e7b3-453c-b2fa-23fbc8d8929a",
+        "itemId": "f2d37bb6-9d8d-4508-99a2-c8fa7f81a2f3",
+        "path": "minecraft_texture\\textures\\item\\brick.png"
+    },
+    {
+        "id": "09800b4b-3836-4057-8784-334ada251820",
+        "itemId": "3e855043-9e21-43e3-93bb-bf6906bf4b57",
+        "path": "minecraft_texture\\textures\\item\\clay_ball.png"
+    },
+    {
+        "id": "62a4c73e-c67b-458a-87c5-f5b2df74a5fa",
+        "itemId": "15870086-b1c8-4951-a020-0debed1deeb4",
+        "path": "minecraft_texture\\textures\\item\\paper.png"
+    },
+    {
+        "id": "813c0800-955d-4df5-8382-3fe309f0e6f2",
+        "itemId": "92e5e688-eaf7-485c-a91d-8a8369ee7dec",
+        "path": "minecraft_texture\\textures\\gui\\book.png"
+    },
+    {
+        "id": "f67fcfcc-c28e-47d1-9ca7-81d9840e8f66",
+        "itemId": "18d106b1-b606-4213-8b9d-97e875a03fae",
+        "path": "minecraft_texture\\textures\\item\\slime_ball.png"
+    },
+    {
+        "id": "163be1c7-bb21-40ad-818d-48356cf51680",
+        "itemId": "bb627329-2719-44db-a108-60f626f017bd",
+        "path": "minecraft_texture\\textures\\item\\egg.png"
+    },
+    {
+        "id": "2185cee4-f682-4f4e-a662-807e3c479c91",
+        "itemId": "56ae8694-f49b-43f9-828e-b78f43278c46",
+        "path": "minecraft_texture\\textures\\gui\\container\\bundle.png"
+    },
+    {
+        "id": "306f26bb-ca5a-4d9c-a475-939b9c7ab714",
+        "itemId": "c97cfd92-4099-4082-aeca-3cc932be1185",
+        "path": "minecraft_texture\\textures\\item\\fishing_rod.png"
+    },
+    {
+        "id": "96fe27da-597b-4df2-8788-4caa8a6b73f7",
+        "itemId": "7eff90d2-f5bf-4320-86d3-cffd2e7e094b",
+        "path": "minecraft_texture\\textures\\item\\spyglass.png"
+    },
+    {
+        "id": "dca668f7-eb1f-406d-9bca-d9fe00a65e35",
+        "itemId": "406e9b29-22e1-463c-868a-749d04d796c0",
+        "path": "minecraft_texture\\textures\\item\\glowstone_dust.png"
+    },
+    {
+        "id": "53c5d2f1-f03f-4a68-8bab-97dae7040840",
+        "itemId": "733c68d0-d861-4f71-8cd9-90b6ecf60c03",
+        "path": "minecraft_texture\\textures\\entity\\fish\\cod.png"
+    },
+    {
+        "id": "8021d49b-72e4-4a8f-b940-9fc881d0c129",
+        "itemId": "a7e7c250-4ddc-4fdc-b8dd-301e26e5690e",
+        "path": "minecraft_texture\\textures\\entity\\fish\\salmon.png"
+    },
+    {
+        "id": "eccd88cc-e88e-4d06-bc8d-e4f0faaeead4",
+        "itemId": "db514235-0307-440e-82da-ffaf040e9d38",
+        "path": "minecraft_texture\\textures\\item\\tropical_fish.png"
+    },
+    {
+        "id": "9266ff40-c7e2-4592-94ad-7f472f80606c",
+        "itemId": "7a8a9b37-a06a-4bc5-8429-cda1ec74b780",
+        "path": "minecraft_texture\\textures\\entity\\fish\\pufferfish.png"
+    },
+    {
+        "id": "62212805-1ef6-43a7-8974-ef761e732774",
+        "itemId": "6cf4efa0-505d-43f1-82d3-0adde33e6e5f",
+        "path": "minecraft_texture\\textures\\item\\cooked_cod.png"
+    },
+    {
+        "id": "3e724563-30d6-4d93-9bf3-b68bdf78d7d0",
+        "itemId": "61c778a6-a659-43bf-af39-0e97679da3d3",
+        "path": "minecraft_texture\\textures\\item\\cooked_salmon.png"
+    },
+    {
+        "id": "c17c5a80-6e4a-4bb2-9c32-ef1be9825fd1",
+        "itemId": "4b649d64-3c94-4d0b-8e84-5b447114b4a0",
+        "path": "minecraft_texture\\textures\\item\\ink_sac.png"
+    },
+    {
+        "id": "06aaface-1ddf-4877-ae1b-0c5303c26abc",
+        "itemId": "5aab142e-7637-481d-8e9f-68dfc6b64b8e",
+        "path": "minecraft_texture\\textures\\item\\glow_ink_sac.png"
+    },
+    {
+        "id": "5b966f4f-b00c-4a61-9be8-af821b00d4a4",
+        "itemId": "f98287b4-ea78-4282-8658-efe6069df36c",
+        "path": "minecraft_texture\\textures\\item\\cocoa_beans.png"
+    },
+    {
+        "id": "c76c527f-1760-41bf-8110-4ff1c36ee5fa",
+        "itemId": "f992c02f-26aa-4bf1-b7cb-0985f7ceb488",
+        "path": "minecraft_texture\\textures\\item\\white_dye.png"
+    },
+    {
+        "id": "e55976ef-97b1-48ae-9c45-0ec66c306b76",
+        "itemId": "88134b0e-96b8-4036-9a29-142426cf0ce3",
+        "path": "minecraft_texture\\textures\\item\\orange_dye.png"
+    },
+    {
+        "id": "37cf35c7-9724-4db6-9734-8625340119e7",
+        "itemId": "f2c405c5-df6a-4573-827f-97698d054db8",
+        "path": "minecraft_texture\\textures\\item\\magenta_dye.png"
+    },
+    {
+        "id": "8ca18a86-dcc8-4b04-b363-72c14a8d0ceb",
+        "itemId": "a010d5d2-db02-49b0-8dc9-60c6ec467370",
+        "path": "minecraft_texture\\textures\\item\\light_blue_dye.png"
+    },
+    {
+        "id": "ef680594-54ef-4c59-97fc-a64b9bf17ce8",
+        "itemId": "fbe2928c-7ebf-4ae3-b2bd-477455eae91a",
+        "path": "minecraft_texture\\textures\\item\\yellow_dye.png"
+    },
+    {
+        "id": "f89d8e70-cd48-4f33-b83d-ea8049ed35f4",
+        "itemId": "4c60abec-d0d6-40bb-ace0-78b69c8c7d58",
+        "path": "minecraft_texture\\textures\\item\\lime_dye.png"
+    },
+    {
+        "id": "33454840-bb5d-412a-a41a-3f59d8f56f49",
+        "itemId": "3022c4b9-8750-46a9-986f-9848bfede53d",
+        "path": "minecraft_texture\\textures\\item\\pink_dye.png"
+    },
+    {
+        "id": "18cc84e2-1ece-46e9-a9f5-d4e4b25ff5c4",
+        "itemId": "d45c8916-d464-406d-8736-e33e61d665a0",
+        "path": "minecraft_texture\\textures\\item\\gray_dye.png"
+    },
+    {
+        "id": "27a80782-3b83-45e1-856f-1cc92d7e1133",
+        "itemId": "b26f5ea8-312a-4e2c-8c59-cb18f4c38349",
+        "path": "minecraft_texture\\textures\\item\\light_gray_dye.png"
+    },
+    {
+        "id": "01e6737e-1e36-4171-8c18-e24b4c35431a",
+        "itemId": "37cefd02-c82a-4d90-8877-5cf625f13f5c",
+        "path": "minecraft_texture\\textures\\item\\cyan_dye.png"
+    },
+    {
+        "id": "198cf3c0-c846-41ca-80f6-748aca9946d6",
+        "itemId": "36042321-5daf-48e8-93fe-4821d2fde5f5",
+        "path": "minecraft_texture\\textures\\item\\purple_dye.png"
+    },
+    {
+        "id": "179792be-67bd-4cbf-b5b3-8b71162cb752",
+        "itemId": "0288d0fd-4a0b-481a-bc80-9f1cea228fa1",
+        "path": "minecraft_texture\\textures\\item\\blue_dye.png"
+    },
+    {
+        "id": "4e87e028-de3f-4c27-9f71-3ff3879a325b",
+        "itemId": "4ff29559-42dd-4b38-a4e4-10d0614f95c9",
+        "path": "minecraft_texture\\textures\\item\\brown_dye.png"
+    },
+    {
+        "id": "75e84517-e3ca-442d-a1da-a9fe37c3cbce",
+        "itemId": "021ab94a-0df2-485c-b93f-cde9836cfa88",
+        "path": "minecraft_texture\\textures\\item\\green_dye.png"
+    },
+    {
+        "id": "9a69dfd2-accc-4517-8e38-6d841da6140c",
+        "itemId": "e725f623-e4b4-4808-b853-104d52379253",
+        "path": "minecraft_texture\\textures\\item\\red_dye.png"
+    },
+    {
+        "id": "ecfcb891-195f-4d2b-b7d1-1453cf180dca",
+        "itemId": "6c2ebf61-0bd4-438c-811a-4e86f230135d",
+        "path": "minecraft_texture\\textures\\item\\black_dye.png"
+    },
+    {
+        "id": "62bf2209-8093-4b42-befc-df3261d4daf6",
+        "itemId": "7280ca92-fed9-4d57-b4d5-5fc3fcd59d83",
+        "path": "minecraft_texture\\textures\\item\\bone_meal.png"
+    },
+    {
+        "id": "32b247d8-00cc-4885-8198-e48ce3326894",
+        "itemId": "49927233-c275-4aed-a7f0-a32d58e2881a",
+        "path": "minecraft_texture\\textures\\item\\bone.png"
+    },
+    {
+        "id": "fd8b461b-46c1-47a6-9f26-66eb2e0aaefd",
+        "itemId": "aadd4ea8-1e79-46f7-8b85-d47ae04554bf",
+        "path": "minecraft_texture\\textures\\item\\sugar.png"
+    },
+    {
+        "id": "4466aba5-212e-461a-a633-a0856aabc9e3",
+        "itemId": "3aa65724-aece-4d78-9c31-094d31af6a8f",
+        "path": "minecraft_texture\\textures\\item\\cake.png"
+    },
+    {
+        "id": "8f818ede-c0a9-45c3-b257-db8f3727d9e9",
+        "itemId": "e45255bb-a339-488e-9679-f0bef9fa3f76",
+        "path": "minecraft_texture\\textures\\item\\cookie.png"
+    },
+    {
+        "id": "5bbb9538-e7cc-4180-9ed0-843819bbf2ff",
+        "itemId": "d2057649-8066-4053-a8d8-7f8c2ca6720e",
+        "path": "minecraft_texture\\textures\\item\\filled_map.png"
+    },
+    {
+        "id": "53747c16-5267-4094-a0d5-5ea74c568ff3",
+        "itemId": "b67246ee-d9dc-4fb7-9587-85c5bdf87c47",
+        "path": "minecraft_texture\\textures\\item\\shears.png"
+    },
+    {
+        "id": "1fd252c7-f5c2-4bc9-8305-13a8f4a98ded",
+        "itemId": "851c514b-9e7c-47ec-af36-e49208b55d1b",
+        "path": "minecraft_texture\\textures\\item\\melon_slice.png"
+    },
+    {
+        "id": "b7e305c4-371c-4437-9023-5e30d7d79cdf",
+        "itemId": "eedd70cc-4425-4960-a17d-8c8e033799cb",
+        "path": "minecraft_texture\\textures\\item\\dried_kelp.png"
+    },
+    {
+        "id": "f8619083-81e0-480a-994c-d9f1c622c24c",
+        "itemId": "2aedfafd-a8c6-428e-bf01-755040f181bb",
+        "path": "minecraft_texture\\textures\\item\\pumpkin_seeds.png"
+    },
+    {
+        "id": "73514c3b-77b7-4a27-84a8-9d13e5ab4f71",
+        "itemId": "4dc69d65-2633-42a0-8dda-69ab5cf8a2ee",
+        "path": "minecraft_texture\\textures\\item\\melon_seeds.png"
+    },
+    {
+        "id": "aec2b45f-4ff3-4447-b990-ebaed6511a41",
+        "itemId": "109a4dae-031a-47ea-b794-668c32ad684d",
+        "path": "minecraft_texture\\textures\\item\\beef.png"
+    },
+    {
+        "id": "9ad5e3d3-3e91-408a-ad4f-a3344f1bc044",
+        "itemId": "95d0785b-6f7f-416f-8eec-663a348c6f46",
+        "path": "minecraft_texture\\textures\\item\\cooked_beef.png"
+    },
+    {
+        "id": "29e93bc7-bd2e-46eb-9d90-a32f74b4600e",
+        "itemId": "2f635147-7518-4718-800a-88bfee38ec9b",
+        "path": "minecraft_texture\\textures\\entity\\chicken.png"
+    },
+    {
+        "id": "9cf70688-0ffd-4f73-ae0c-e58ac4641fe9",
+        "itemId": "53aeda5e-baba-41d3-80fc-70a20c1d20da",
+        "path": "minecraft_texture\\textures\\item\\cooked_chicken.png"
+    },
+    {
+        "id": "27d24fc2-43ef-432a-bca3-e0fa909fea3b",
+        "itemId": "4a561e65-5edd-4d97-9b2b-630e99bc0a57",
+        "path": "minecraft_texture\\textures\\item\\rotten_flesh.png"
+    },
+    {
+        "id": "060211be-b88a-43a7-84d5-9c50aba182de",
+        "itemId": "7d0295a8-bc1b-4016-8fd8-ef1413bde8cf",
+        "path": "minecraft_texture\\textures\\item\\ender_pearl.png"
+    },
+    {
+        "id": "055fbdda-e205-43e4-ab46-cc8985264eaa",
+        "itemId": "6bbad1e1-b90b-4eea-9388-b60986d8f415",
+        "path": "minecraft_texture\\textures\\item\\blaze_rod.png"
+    },
+    {
+        "id": "4aced367-7174-4af6-b2d1-70a2706b16c7",
+        "itemId": "8dfdf4e7-6aea-4375-8c6a-d2939b67e084",
+        "path": "minecraft_texture\\textures\\item\\ghast_tear.png"
+    },
+    {
+        "id": "c916ac0e-9c08-41ef-b3b2-35ab2cd036b8",
+        "itemId": "deed6d15-abcd-44d8-966e-37b2e3c4c44f",
+        "path": "minecraft_texture\\textures\\item\\gold_nugget.png"
+    },
+    {
+        "id": "a675f4e7-0c19-4ee1-a622-f7e4964a3065",
+        "itemId": "91e08ec5-7677-4756-aef1-3c1f2a0d351b",
+        "path": "minecraft_texture\\textures\\item\\nether_wart.png"
+    },
+    {
+        "id": "2d1088ef-4dcd-4994-ac72-4d2e4c48a7a2",
+        "itemId": "7a331a3b-1fa0-476b-8fae-67b09e9130e2",
+        "path": "minecraft_texture\\textures\\item\\potion.png"
+    },
+    {
+        "id": "a952c838-5549-450f-ab46-7c4fc34eee0a",
+        "itemId": "2d9f0727-20c7-4925-8f95-100a16d3e04c",
+        "path": "minecraft_texture\\textures\\item\\glass_bottle.png"
+    },
+    {
+        "id": "d6c77325-4192-4e68-9db3-c813c7678892",
+        "itemId": "bf3fc9c7-95bc-4a8f-9de0-0fe37509b7b8",
+        "path": "minecraft_texture\\textures\\item\\spider_eye.png"
+    },
+    {
+        "id": "ae62290e-5d00-4d40-957d-9338308e2e06",
+        "itemId": "c0fb3905-f7c1-4924-bae6-13b800830ec0",
+        "path": "minecraft_texture\\textures\\item\\fermented_spider_eye.png"
+    },
+    {
+        "id": "2612fd11-a9bb-495e-b4e1-05cefa01681b",
+        "itemId": "dac0d443-f59d-4828-b3ff-d0372e2aa8d5",
+        "path": "minecraft_texture\\textures\\item\\blaze_powder.png"
+    },
+    {
+        "id": "0d6da692-a888-44e4-a5fe-4bf37f487c23",
+        "itemId": "3ea7ca04-9412-4513-9785-4dc1b887900f",
+        "path": "minecraft_texture\\textures\\item\\magma_cream.png"
+    },
+    {
+        "id": "9235b11b-9533-4c0d-974c-c72123cea24c",
+        "itemId": "02e4d5f6-eb88-47ea-a06c-82ba2fb303cf",
+        "path": "minecraft_texture\\textures\\block\\brewing_stand.png"
+    },
+    {
+        "id": "e53833c7-283f-4b04-b0a2-a825c597669c",
+        "itemId": "4c3dc6c5-7c7b-494e-8317-b39c763e3ce7",
+        "path": "minecraft_texture\\textures\\item\\cauldron.png"
+    },
+    {
+        "id": "d23b46fa-6545-466a-99ab-eae93d90eae0",
+        "itemId": "162597c8-2d8b-44ec-a145-6b09feb640db",
+        "path": "minecraft_texture\\textures\\item\\ender_eye.png"
+    },
+    {
+        "id": "4c92186c-7f63-4299-a873-027e7699bea7",
+        "itemId": "6bae3605-7a30-45b1-ace3-d46d49e003a5",
+        "path": "minecraft_texture\\textures\\item\\glistering_melon_slice.png"
+    },
+    {
+        "id": "34b082d0-8de0-4242-bc89-2bd7bb844d07",
+        "itemId": "6d032b77-63be-42eb-acb8-e13e9167ac89",
+        "path": "minecraft_texture\\textures\\item\\experience_bottle.png"
+    },
+    {
+        "id": "363b2173-49aa-4ff9-a1ba-590f4739b255",
+        "itemId": "d0b3fc30-e29f-471d-9a9d-983e597e948f",
+        "path": "minecraft_texture\\textures\\item\\fire_charge.png"
+    },
+    {
+        "id": "358064f9-b2b7-4f64-a3a9-50c914d9cdc4",
+        "itemId": "1a7b6ab5-93f9-4056-ad7a-e01efb58fae3",
+        "path": "minecraft_texture\\textures\\item\\writable_book.png"
+    },
+    {
+        "id": "3cd1c10d-965c-4e6f-b422-7e2b50442a82",
+        "itemId": "c0e238f9-fa43-4f45-a76f-82c28f2e00b6",
+        "path": "minecraft_texture\\textures\\item\\written_book.png"
+    },
+    {
+        "id": "18d337ec-1419-49f8-814b-e905c28490ff",
+        "itemId": "e7302ee6-6e12-494b-a68d-4251c77f51f7",
+        "path": "minecraft_texture\\textures\\block\\item_frame.png"
+    },
+    {
+        "id": "ae4b602e-f8d3-420d-9b52-240175e66904",
+        "itemId": "4ce2b4a0-f01d-40c6-9104-4b44f343b68a",
+        "path": "minecraft_texture\\textures\\block\\glow_item_frame.png"
+    },
+    {
+        "id": "cc9009c8-ac8b-4fd1-8c99-f35230492f99",
+        "itemId": "b37c78a6-b22a-4538-9ee6-d42d3c984711",
+        "path": "minecraft_texture\\textures\\block\\flower_pot.png"
+    },
+    {
+        "id": "1adb2628-17ee-46d5-ba26-8a1b58873d6c",
+        "itemId": "dd9e3465-bd9b-4f99-9330-ebe7a5d095f4",
+        "path": "minecraft_texture\\textures\\item\\carrot.png"
+    },
+    {
+        "id": "1d1e4ad5-42a7-44e3-be0b-fcc8f3b15ed3",
+        "itemId": "daff3abf-1b7f-45fb-9e7c-e61491ed6a00",
+        "path": "minecraft_texture\\textures\\item\\potato.png"
+    },
+    {
+        "id": "145c675a-14a0-4484-8925-6e8dbefb4fbd",
+        "itemId": "491471c1-cddb-4d22-924b-588b5e9cbec7",
+        "path": "minecraft_texture\\textures\\item\\baked_potato.png"
+    },
+    {
+        "id": "e79c3abe-91c2-4fd2-9c9c-478d8f06a278",
+        "itemId": "595cb391-7180-4f6f-adc0-b5c33db64060",
+        "path": "minecraft_texture\\textures\\item\\poisonous_potato.png"
+    },
+    {
+        "id": "716ab553-00ac-4ab1-b437-b52672347d3c",
+        "itemId": "1cee6129-c9fa-4cdf-96cc-2e46790739cc",
+        "path": "minecraft_texture\\textures\\item\\map.png"
+    },
+    {
+        "id": "6d9ed838-4a98-41d7-ab39-a62caad853f4",
+        "itemId": "d4194734-f342-49c4-b636-91ab66785e78",
+        "path": "minecraft_texture\\textures\\item\\golden_carrot.png"
+    },
+    {
+        "id": "1fb136a1-d1d3-46f0-bf45-4989b4e520f0",
+        "itemId": "8bb5cf89-df43-4d96-a712-796ce495c3bf",
+        "path": "minecraft_texture\\textures\\item\\nether_star.png"
+    },
+    {
+        "id": "6afe677d-3c10-4207-9342-c86e1ee50ffa",
+        "itemId": "4df7399a-2784-41bc-beeb-ebf7a4648725",
+        "path": "minecraft_texture\\textures\\item\\pumpkin_pie.png"
+    },
+    {
+        "id": "aa226c0e-b2a7-4c3b-a80d-2d5bfbd37545",
+        "itemId": "7baf8b67-9a25-4742-a8ca-34f2c61def48",
+        "path": "minecraft_texture\\textures\\item\\firework_rocket.png"
+    },
+    {
+        "id": "37f65e57-2205-4191-9d44-4645d836ec40",
+        "itemId": "a4c6b161-8f92-4228-b1b9-3d3b45d9c777",
+        "path": "minecraft_texture\\textures\\item\\firework_star.png"
+    },
+    {
+        "id": "0f9c873a-e502-44f7-9e2b-e690e1c45030",
+        "itemId": "3f49532d-a318-46dd-9f9c-a090758c8284",
+        "path": "minecraft_texture\\textures\\item\\enchanted_book.png"
+    },
+    {
+        "id": "aff39d29-7c70-4ad5-8869-3fbac9aef9bf",
+        "itemId": "279e9d5e-c4de-4911-bbbe-df7a29153dc0",
+        "path": "minecraft_texture\\textures\\item\\nether_brick.png"
+    },
+    {
+        "id": "6281ffcc-7534-49a1-a6ae-7b67185133af",
+        "itemId": "3501a9df-d148-4bcb-9d59-dd0167704cba",
+        "path": "minecraft_texture\\textures\\item\\prismarine_shard.png"
+    },
+    {
+        "id": "8c5d7619-6fd9-4cea-8a4d-370c944f496c",
+        "itemId": "734d69fe-447d-4fc8-9a97-7080ff22381d",
+        "path": "minecraft_texture\\textures\\item\\prismarine_crystals.png"
+    },
+    {
+        "id": "39f2e444-f1c0-4d81-a78b-e2248273eb02",
+        "itemId": "c8b0fdfd-b1d1-463f-9401-4d3a88b3fa55",
+        "path": "minecraft_texture\\textures\\item\\rabbit.png"
+    },
+    {
+        "id": "3056a23d-90fb-412b-a548-3448d62fd151",
+        "itemId": "b0f0f485-0d91-4361-9715-8d5f3bfdefd9",
+        "path": "minecraft_texture\\textures\\item\\cooked_rabbit.png"
+    },
+    {
+        "id": "f90cb4d3-edbe-4d7c-ac52-b7fe0eaf6140",
+        "itemId": "1a4ffdda-08c1-403d-b556-6eb007ed50b9",
+        "path": "minecraft_texture\\textures\\item\\rabbit_stew.png"
+    },
+    {
+        "id": "32373366-f34a-4964-afe8-9b2e10cd29f8",
+        "itemId": "0500e2be-8be4-440b-9395-ca8caa5d1161",
+        "path": "minecraft_texture\\textures\\item\\rabbit_foot.png"
+    },
+    {
+        "id": "e6ea0ba4-421b-433c-8360-395f3040a07d",
+        "itemId": "d481ea6a-9c06-41f6-a9c1-050bef10a824",
+        "path": "minecraft_texture\\textures\\item\\rabbit_hide.png"
+    },
+    {
+        "id": "1e2e6d05-93bc-4f90-bcb7-f31d287bc71e",
+        "itemId": "39bbe52b-e1d3-458e-a784-cdbb3ab53052",
+        "path": "minecraft_texture\\textures\\item\\armor_stand.png"
+    },
+    {
+        "id": "eebf65dc-1a20-4867-973c-6d6052452895",
+        "itemId": "59b9a8a3-b49d-4b02-b374-102d4efad5f9",
+        "path": "minecraft_texture\\textures\\item\\iron_horse_armor.png"
+    },
+    {
+        "id": "d96fea96-70c2-4c93-90c3-54b419b8b5e3",
+        "itemId": "ca4e9f43-df0c-40dd-8cdc-71e2cf9d6063",
+        "path": "minecraft_texture\\textures\\item\\golden_horse_armor.png"
+    },
+    {
+        "id": "3a391f0a-f9ca-415b-9222-14c612678ad9",
+        "itemId": "267c995e-f0fb-478e-b899-44f1ca947984",
+        "path": "minecraft_texture\\textures\\item\\diamond_horse_armor.png"
+    },
+    {
+        "id": "1b6bc20e-3924-40cb-abb6-6e0cd2d00f17",
+        "itemId": "6bd057e4-2d53-4acd-a4a7-6b5a43d6a2bd",
+        "path": "minecraft_texture\\textures\\item\\leather_horse_armor.png"
+    },
+    {
+        "id": "62342bc2-b10b-434b-aa33-6c296a9a7041",
+        "itemId": "48117cef-4ff1-41a1-b246-0e24a50204d9",
+        "path": "minecraft_texture\\textures\\item\\lead.png"
+    },
+    {
+        "id": "f1e6c1e0-316e-424b-b3b5-ff560a88236e",
+        "itemId": "ba87a5ec-8732-405b-99c4-893434c923da",
+        "path": "minecraft_texture\\textures\\item\\name_tag.png"
+    },
+    {
+        "id": "73f007be-ad54-498e-996a-bb40377209c8",
+        "itemId": "7be087ea-fe78-43da-b9c1-efd47181243d",
+        "path": "minecraft_texture\\textures\\item\\command_block_minecart.png"
+    },
+    {
+        "id": "171ef9d2-074a-45e6-8a41-0e364f8a5fea",
+        "itemId": "f2dc1e73-8500-4c8b-9ae1-d7133ecccff0",
+        "path": "minecraft_texture\\textures\\item\\mutton.png"
+    },
+    {
+        "id": "1037ea47-2497-4dff-a519-85c5d06e9deb",
+        "itemId": "c35da64f-8722-4dba-9bb4-0d6249c8cc8d",
+        "path": "minecraft_texture\\textures\\item\\cooked_mutton.png"
+    },
+    {
+        "id": "fb7b85c3-486c-4359-82e4-19d7d9043c57",
+        "itemId": "d0bafb8e-f52f-4aa0-8565-89b0e77dfa91",
+        "path": "minecraft_texture\\textures\\entity\\end_crystal\\end_crystal.png"
+    },
+    {
+        "id": "20a51347-c4ef-4794-925a-054febd29a43",
+        "itemId": "c752b203-de43-4d87-9339-e6888d21f2a6",
+        "path": "minecraft_texture\\textures\\item\\chorus_fruit.png"
+    },
+    {
+        "id": "e838a4b7-691f-428a-b699-1c1f3362a64d",
+        "itemId": "227a905a-3f15-469b-9f67-f9971c0fb88a",
+        "path": "minecraft_texture\\textures\\item\\popped_chorus_fruit.png"
+    },
+    {
+        "id": "3bf896a2-44d8-4bb4-ae6f-4fb2bb97878a",
+        "itemId": "990f52fd-65fc-4188-9ee8-994a5c2e9805",
+        "path": "minecraft_texture\\textures\\item\\torchflower_seeds.png"
+    },
+    {
+        "id": "5ae97740-bf54-452e-80e1-0691cfb8864c",
+        "itemId": "45ccd79e-b4e6-40cd-aabd-7af344ce9471",
+        "path": "minecraft_texture\\textures\\item\\pitcher_pod.png"
+    },
+    {
+        "id": "1e1e55ee-24e2-47ad-b3cf-ce1ad8df4417",
+        "itemId": "056fae01-1f66-4eac-9534-f3a4a69f098b",
+        "path": "minecraft_texture\\textures\\item\\beetroot.png"
+    },
+    {
+        "id": "4382f4b4-b611-4fe6-84da-278170dbeecd",
+        "itemId": "2053ee7d-7817-4e6a-b092-cd15abe10aab",
+        "path": "minecraft_texture\\textures\\item\\beetroot_seeds.png"
+    },
+    {
+        "id": "e2384eb3-b260-4d68-b514-ec83ab372de0",
+        "itemId": "1e6ed5d8-40b8-4397-bc61-2fe902435a9f",
+        "path": "minecraft_texture\\textures\\item\\beetroot_soup.png"
+    },
+    {
+        "id": "50240e7b-d7f5-475c-8178-08877461eee0",
+        "itemId": "e97d92f1-f7c8-49e9-90c9-d52dc864762f",
+        "path": "minecraft_texture\\textures\\item\\dragon_breath.png"
+    },
+    {
+        "id": "8451ea7b-c397-46b5-b36f-2533a9ded8a4",
+        "itemId": "13a85ac6-9f3f-4f5d-980a-4c1bf0feb5c1",
+        "path": "minecraft_texture\\textures\\item\\splash_potion.png"
+    },
+    {
+        "id": "4ae9adcc-012d-422d-9beb-d6386a3bed85",
+        "itemId": "c02737d7-aa06-49c8-b486-895aaecf3b62",
+        "path": "minecraft_texture\\textures\\entity\\projectiles\\spectral_arrow.png"
+    },
+    {
+        "id": "248afd76-3c0d-4431-837e-04bc776e69de",
+        "itemId": "0c418f64-0d47-4637-883d-fbe4442360eb",
+        "path": "minecraft_texture\\textures\\entity\\projectiles\\tipped_arrow.png"
+    },
+    {
+        "id": "71ed933a-cee5-4e7f-a88a-36611f55136e",
+        "itemId": "656a2d2b-7a5d-4b5a-8090-0ccc941c7549",
+        "path": "minecraft_texture\\textures\\item\\lingering_potion.png"
+    },
+    {
+        "id": "aa126f21-e072-4f5f-9a3b-f8ad77995082",
+        "itemId": "9d2e3715-be3b-404b-a498-8ae61361e1b7",
+        "path": "minecraft_texture\\textures\\item\\totem_of_undying.png"
+    },
+    {
+        "id": "907760f6-7e82-42bf-a1fb-4ca79efd6209",
+        "itemId": "05d4713b-ef8d-48dd-9783-a52ced709547",
+        "path": "minecraft_texture\\textures\\item\\shulker_shell.png"
+    },
+    {
+        "id": "a5481e16-01b7-4608-bbfa-87ef1b7fa260",
+        "itemId": "9e4c2e84-5123-4f16-a807-c677d97319e2",
+        "path": "minecraft_texture\\textures\\item\\iron_nugget.png"
+    },
+    {
+        "id": "a5a171c6-7f24-48a4-8272-39329f4f57cf",
+        "itemId": "4602ae42-f8ab-4842-b9de-ddc1ba885f31",
+        "path": "minecraft_texture\\textures\\item\\knowledge_book.png"
+    },
+    {
+        "id": "d8a5d0d3-a911-46e4-9abc-c0c0f1c369a4",
+        "itemId": "98932826-09da-4bbb-9ed7-9c1c1fa699c0",
+        "path": "minecraft_texture\\textures\\item\\music_disc_13.png"
+    },
+    {
+        "id": "036ea751-55fc-49bd-b784-decdaddfa887",
+        "itemId": "e5ec04e4-64bd-47cb-9044-b3440d1b8653",
+        "path": "minecraft_texture\\textures\\item\\music_disc_cat.png"
+    },
+    {
+        "id": "98a27a80-a65d-45fa-9df5-82f154e048c2",
+        "itemId": "e6d761dc-eaaf-4b1e-997e-757ea9227d23",
+        "path": "minecraft_texture\\textures\\item\\music_disc_blocks.png"
+    },
+    {
+        "id": "9805b233-82a0-4e8f-9ba7-c4c00842fb80",
+        "itemId": "774654e2-781b-4600-a49f-5444e54d3106",
+        "path": "minecraft_texture\\textures\\item\\music_disc_chirp.png"
+    },
+    {
+        "id": "40a3bc74-b8d5-428f-a2e0-77830fef776c",
+        "itemId": "64dbc777-e650-431b-8d93-f6d7442ed38d",
+        "path": "minecraft_texture\\textures\\item\\music_disc_far.png"
+    },
+    {
+        "id": "356367d8-a1e5-4f67-adbd-ab1a7953a217",
+        "itemId": "ec57d0b9-1310-475f-baa6-a7fe12ad45ba",
+        "path": "minecraft_texture\\textures\\item\\music_disc_mall.png"
+    },
+    {
+        "id": "5b42fc01-ae75-47a9-b320-e35472de873a",
+        "itemId": "eba2aa92-6344-4a82-9a9f-b3db128d2e8b",
+        "path": "minecraft_texture\\textures\\item\\music_disc_mellohi.png"
+    },
+    {
+        "id": "d6209e3f-5ad9-4b7b-a5bd-eb523cd8cbe8",
+        "itemId": "cffdea46-c8b9-4e95-9636-1e80476f4bd7",
+        "path": "minecraft_texture\\textures\\item\\music_disc_stal.png"
+    },
+    {
+        "id": "22342f41-aca4-45ef-aeb4-68f7eb847a92",
+        "itemId": "231b7939-0a0d-4c85-af4e-06cb217155ea",
+        "path": "minecraft_texture\\textures\\item\\music_disc_strad.png"
+    },
+    {
+        "id": "54547851-9e87-497f-a7b0-e2611ae67701",
+        "itemId": "d72201e6-3070-48ab-a192-61382d7ce7d7",
+        "path": "minecraft_texture\\textures\\item\\music_disc_ward.png"
+    },
+    {
+        "id": "3ddb3634-9c3a-484b-8ee5-00e9f7e4b21b",
+        "itemId": "8f054a6a-9a7b-4938-8566-87ca0dd44115",
+        "path": "minecraft_texture\\textures\\item\\music_disc_11.png"
+    },
+    {
+        "id": "257f9d15-be81-4ba1-9a61-cb22b18a53f1",
+        "itemId": "4bbf1296-24dc-40bc-b036-b4c7bad1d68a",
+        "path": "minecraft_texture\\textures\\item\\music_disc_wait.png"
+    },
+    {
+        "id": "6067df6d-df31-4114-9499-bdc579ca9cc5",
+        "itemId": "e5848974-9b3f-475e-925f-552f5ee3e9a3",
+        "path": "minecraft_texture\\textures\\item\\music_disc_otherside.png"
+    },
+    {
+        "id": "47156bcd-cc06-46bd-9492-e4f93f9c7491",
+        "itemId": "cfc15495-9ccd-4c7f-b27a-a4d149f63092",
+        "path": "minecraft_texture\\textures\\item\\music_disc_relic.png"
+    },
+    {
+        "id": "0ae460b7-1367-4a66-98ad-7009d0bbc5bf",
+        "itemId": "6e25d65e-798e-4c0a-b426-0cb249e35fb1",
+        "path": "minecraft_texture\\textures\\item\\music_disc_5.png"
+    },
+    {
+        "id": "37ec7be1-b483-4c35-bfd3-3454f30bf679",
+        "itemId": "2cd7fbd6-3bf2-4509-93fe-3229103cb8a1",
+        "path": "minecraft_texture\\textures\\item\\music_disc_pigstep.png"
+    },
+    {
+        "id": "4de11997-c6a2-4df4-a1e0-3716fd699017",
+        "itemId": "998fda6c-b4f8-41aa-90ce-648386d68fa6",
+        "path": "minecraft_texture\\textures\\item\\disc_fragment_5.png"
+    },
+    {
+        "id": "dcf027ba-4dfd-4ddf-b61b-6c97e857689c",
+        "itemId": "546a40f1-af6d-4305-acc7-4062a6034249",
+        "path": "minecraft_texture\\textures\\entity\\trident.png"
+    },
+    {
+        "id": "042ab1ae-d3d2-4572-a291-46cdd83a1690",
+        "itemId": "7405a1ad-b958-4a3a-9f30-4f503184db88",
+        "path": "minecraft_texture\\textures\\item\\phantom_membrane.png"
+    },
+    {
+        "id": "f33ee789-22ad-4fc4-b3b2-950c1cfb3c7e",
+        "itemId": "a860765e-237e-47a2-9800-950571f90d76",
+        "path": "minecraft_texture\\textures\\item\\nautilus_shell.png"
+    },
+    {
+        "id": "de0d14b6-1b17-4dc0-a7ee-6c7f2a0f20be",
+        "itemId": "dbf745e8-e8bf-4b1d-99ac-a4b4478fbd8a",
+        "path": "minecraft_texture\\textures\\item\\heart_of_the_sea.png"
+    },
+    {
+        "id": "1a62af2f-85a6-4396-86c0-8bdf3773446b",
+        "itemId": "82fc516d-4a66-4402-ad84-29c5b6291906",
+        "path": "minecraft_texture\\textures\\item\\suspicious_stew.png"
+    },
+    {
+        "id": "6b8295eb-177e-4f07-9cca-35b08bc5f0ef",
+        "itemId": "9ec3b934-dcd2-4517-98ca-420e3af91892",
+        "path": "minecraft_texture\\textures\\gui\\container\\loom.png"
+    },
+    {
+        "id": "3a0227b9-983a-459a-b0f6-9f18d18613ac",
+        "itemId": "b81adadb-ce09-4d59-bc35-1999a6da301c",
+        "path": "minecraft_texture\\textures\\item\\flower_banner_pattern.png"
+    },
+    {
+        "id": "7e65c85f-4977-4b97-a61e-07b80eaa2388",
+        "itemId": "ca6e9c80-ecfb-492d-9f23-dc9d89616cff",
+        "path": "minecraft_texture\\textures\\item\\creeper_banner_pattern.png"
+    },
+    {
+        "id": "fc3fd1d0-90e3-4ac3-83cb-a2ab55a9b388",
+        "itemId": "9a410ac1-5cb2-46b0-b968-40f1b2d86e80",
+        "path": "minecraft_texture\\textures\\item\\skull_banner_pattern.png"
+    },
+    {
+        "id": "5f8c2a70-ee0a-4586-9383-256db9710c78",
+        "itemId": "87826811-aae0-4f3b-bfab-3c4900945ffb",
+        "path": "minecraft_texture\\textures\\item\\mojang_banner_pattern.png"
+    },
+    {
+        "id": "a25309df-686f-4c7f-b0c8-bb8a09f4b6d3",
+        "itemId": "78825d26-873f-4bd5-9efc-06a41473a431",
+        "path": "minecraft_texture\\textures\\item\\globe_banner_pattern.png"
+    },
+    {
+        "id": "8fc60813-f662-4801-884c-ff15ec529f0f",
+        "itemId": "e154b688-9896-4e4f-9f08-04443f394274",
+        "path": "minecraft_texture\\textures\\item\\piglin_banner_pattern.png"
+    },
+    {
+        "id": "39602d34-901e-4bc0-b83c-d1259ea5872a",
+        "itemId": "4cee3fdc-4c14-4cbd-b7df-35bfc2e04d92",
+        "path": "minecraft_texture\\textures\\item\\goat_horn.png"
+    },
+    {
+        "id": "3e806390-16a6-42a5-bcab-7e72b91c2f76",
+        "itemId": "f4e8d326-db52-4645-aee2-3a38005e7295",
+        "path": "minecraft_texture\\textures\\gui\\container\\smoker.png"
+    },
+    {
+        "id": "69c631a1-4b97-49ee-844f-63859c272d04",
+        "itemId": "46825a30-016d-423d-a3f9-d4cbbb183a2b",
+        "path": "minecraft_texture\\textures\\gui\\container\\blast_furnace.png"
+    },
+    {
+        "id": "234dfbd8-bd8a-41fd-9dd8-be1591301cdd",
+        "itemId": "27b03939-ef37-4ee0-8c4b-6033cfdcb5a6",
+        "path": "minecraft_texture\\textures\\gui\\container\\cartography_table.png"
+    },
+    {
+        "id": "6f2ff9aa-da96-413f-b6db-207328e77d08",
+        "itemId": "56a1c3a8-00ba-4c89-ad0d-777877e8a142",
+        "path": "minecraft_texture\\textures\\gui\\container\\grindstone.png"
+    },
+    {
+        "id": "5867c15f-52f3-4244-981d-11741640ed65",
+        "itemId": "3c92ca09-acc6-4530-9258-321d76a190ee",
+        "path": "minecraft_texture\\textures\\gui\\container\\stonecutter.png"
+    },
+    {
+        "id": "9f71becb-7690-46d4-8a6d-423a6b018242",
+        "itemId": "6a74400c-f6f0-4d2e-b9ed-49689e552a1b",
+        "path": "minecraft_texture\\textures\\item\\bell.png"
+    },
+    {
+        "id": "48fd7346-a6f9-4923-bada-5e595f441cd3",
+        "itemId": "37602a67-6ddd-4760-a1d4-f7b42806e78f",
+        "path": "minecraft_texture\\textures\\block\\lantern.png"
+    },
+    {
+        "id": "e683a2ff-b384-46fb-a56c-02cf90e49134",
+        "itemId": "ea2d6e3c-d3f6-411f-a093-bc98b23b9fc8",
+        "path": "minecraft_texture\\textures\\block\\soul_lantern.png"
+    },
+    {
+        "id": "d040b985-55b5-4a4e-8c72-d37771e95fa0",
+        "itemId": "d1f74884-f90b-43d1-b060-38aa70e662ad",
+        "path": "minecraft_texture\\textures\\item\\sweet_berries.png"
+    },
+    {
+        "id": "c4f87964-eff6-4354-baec-c3d3f563f4a3",
+        "itemId": "f2477ef2-d425-4dd0-bf9b-40c2daec700c",
+        "path": "minecraft_texture\\textures\\item\\glow_berries.png"
+    },
+    {
+        "id": "2bbf8a49-b5b9-4fcb-a515-f05fbe86a5d8",
+        "itemId": "2f14dd11-e289-4fee-8a01-5812ba89ab0c",
+        "path": "minecraft_texture\\textures\\item\\campfire.png"
+    },
+    {
+        "id": "c92e1603-ad86-461b-b7ed-9a9c29c3660d",
+        "itemId": "0d249d69-dabc-46af-adfe-1e6d6028c2e2",
+        "path": "minecraft_texture\\textures\\item\\soul_campfire.png"
+    },
+    {
+        "id": "3c72245e-1b44-41ce-8a3c-074a063432ea",
+        "itemId": "023ccfe2-faa0-4d7f-b0fe-75305059e042",
+        "path": "minecraft_texture\\textures\\block\\shroomlight.png"
+    },
+    {
+        "id": "8c4db6ac-ad7e-4da6-9346-989766844976",
+        "itemId": "c82f48c0-4f81-4f90-ac50-b319e014e28a",
+        "path": "minecraft_texture\\textures\\item\\honeycomb.png"
+    },
+    {
+        "id": "317be4cc-9bbf-4262-863b-9c598e66c91d",
+        "itemId": "0874a7cc-9faf-43f3-883b-441605869517",
+        "path": "minecraft_texture\\textures\\item\\honey_bottle.png"
+    },
+    {
+        "id": "429b0abc-e268-42f7-adaf-83b97a6e3473",
+        "itemId": "72e7c305-f682-4201-a7c8-3d354fc31939",
+        "path": "minecraft_texture\\textures\\block\\honeycomb_block.png"
+    },
+    {
+        "id": "d79abe0c-bcb0-438c-9e0c-ed693a4919f7",
+        "itemId": "921d6431-b6d5-4496-bf7f-bdff8ab6f593",
+        "path": "minecraft_texture\\textures\\block\\crying_obsidian.png"
+    },
+    {
+        "id": "8b5e1221-1364-4435-a6dd-c153ef33d054",
+        "itemId": "36fc9acc-4a74-426c-a561-a2763a420ccf",
+        "path": "minecraft_texture\\textures\\block\\blackstone.png"
+    },
+    {
+        "id": "38955b84-7720-43b4-ad88-647086aef0cd",
+        "itemId": "3fc6c661-bbca-43a8-8dde-d69d404d42d0",
+        "path": "minecraft_texture\\textures\\block\\gilded_blackstone.png"
+    },
+    {
+        "id": "9aff90fa-f0ac-4f22-8529-130f38ce3470",
+        "itemId": "a3bb60e9-2e9f-4b94-ba17-f5c6a9525711",
+        "path": "minecraft_texture\\textures\\block\\polished_blackstone.png"
+    },
+    {
+        "id": "0cdcdacf-869e-43f2-8789-0590c7ee94cc",
+        "itemId": "ac01c686-ec99-438f-87c3-749de39e0818",
+        "path": "minecraft_texture\\textures\\block\\chiseled_polished_blackstone.png"
+    },
+    {
+        "id": "bd090a5b-a411-4d3c-8e6c-29b82f0cfd0f",
+        "itemId": "ca34a5f7-2d3c-4859-a12a-9dbeee06cc7a",
+        "path": "minecraft_texture\\textures\\block\\polished_blackstone_bricks.png"
+    },
+    {
+        "id": "5d0b0a46-0282-43f5-8816-8c2f3f805ab7",
+        "itemId": "86677d07-4e8c-49a9-b3b4-bd87b439da13",
+        "path": "minecraft_texture\\textures\\block\\cracked_polished_blackstone_bricks.png"
+    },
+    {
+        "id": "beab3518-15dc-45bb-8a9f-1f9fa3fcd4a2",
+        "itemId": "89f2aa37-b132-4be4-b2e0-304fea1c773e",
+        "path": "minecraft_texture\\textures\\block\\candle.png"
+    },
+    {
+        "id": "115035f1-857d-429e-9fb0-b77fe8053209",
+        "itemId": "3ae37810-2c1f-4a30-810f-9ce906e696a5",
+        "path": "minecraft_texture\\textures\\block\\white_candle.png"
+    },
+    {
+        "id": "4ed93aea-2ff1-48d1-a951-f3b9e576303d",
+        "itemId": "acd735a2-a914-4dbe-8b00-dcbe1fac310e",
+        "path": "minecraft_texture\\textures\\block\\orange_candle.png"
+    },
+    {
+        "id": "be0569a6-df12-4401-a10b-07cba62747b4",
+        "itemId": "5341d0e3-acba-4404-b14b-dd08d82e3bdc",
+        "path": "minecraft_texture\\textures\\block\\magenta_candle.png"
+    },
+    {
+        "id": "2854f04c-e14c-420b-af90-ed229fcc9746",
+        "itemId": "29a30ec2-e9e4-4e1c-bb58-81cc45481a77",
+        "path": "minecraft_texture\\textures\\block\\light_blue_candle.png"
+    },
+    {
+        "id": "7bc754e3-5491-4a06-b6fa-4fe7447a5be9",
+        "itemId": "7002dde1-6738-47bc-904d-3c071a3b2bef",
+        "path": "minecraft_texture\\textures\\block\\yellow_candle.png"
+    },
+    {
+        "id": "94bf33c3-1847-45ca-8af8-846a1901d6d9",
+        "itemId": "d4f39e28-2a56-4e03-b1dc-2a64a8e7b4f0",
+        "path": "minecraft_texture\\textures\\block\\lime_candle.png"
+    },
+    {
+        "id": "62591f1b-ecfe-41bb-915a-76e588db7a16",
+        "itemId": "347f36f4-a75a-4b3d-b17f-96aafb1dd5b6",
+        "path": "minecraft_texture\\textures\\block\\pink_candle.png"
+    },
+    {
+        "id": "4da60d1a-ea14-437e-84ed-1ccb590171ab",
+        "itemId": "7bed2430-43e9-458a-b536-c02ca0584850",
+        "path": "minecraft_texture\\textures\\block\\gray_candle.png"
+    },
+    {
+        "id": "cd606f8f-2701-47cc-8f39-e68a56991524",
+        "itemId": "f5b95d54-8318-4a0f-9a8a-ec3fa4bd8b43",
+        "path": "minecraft_texture\\textures\\block\\light_gray_candle.png"
+    },
+    {
+        "id": "1f911c9a-1440-4799-be69-9eb65a0c3864",
+        "itemId": "626cc662-e52d-4311-992b-ad2391b6eab6",
+        "path": "minecraft_texture\\textures\\block\\cyan_candle.png"
+    },
+    {
+        "id": "71744df6-6998-4158-ba7b-6bdb85022e8a",
+        "itemId": "05008e20-b28a-46bd-8f67-807adcf6db85",
+        "path": "minecraft_texture\\textures\\block\\purple_candle.png"
+    },
+    {
+        "id": "e1b26ddd-e46e-45c2-9d78-0e732b7524b5",
+        "itemId": "1eb05973-8476-4b83-bdf3-6e02afb6da79",
+        "path": "minecraft_texture\\textures\\block\\blue_candle.png"
+    },
+    {
+        "id": "68a8f4c7-230e-4996-a730-4e4556bd644f",
+        "itemId": "1065f847-db2e-47a8-a5e0-6309f0cbc048",
+        "path": "minecraft_texture\\textures\\block\\brown_candle.png"
+    },
+    {
+        "id": "633378de-79dc-4d9a-8dec-b867d2f534d9",
+        "itemId": "4f59f5ad-186a-4d6c-ac0a-a4ee67da6953",
+        "path": "minecraft_texture\\textures\\block\\green_candle.png"
+    },
+    {
+        "id": "c203294a-4e2f-42fc-aadc-399fcd23ed4c",
+        "itemId": "a3cdb53d-5927-4492-b937-11bae6323224",
+        "path": "minecraft_texture\\textures\\block\\red_candle.png"
+    },
+    {
+        "id": "c3031761-3b1a-473e-a51a-222201705a70",
+        "itemId": "042d25e5-c3bf-4ff2-95ea-84177cc650b4",
+        "path": "minecraft_texture\\textures\\block\\black_candle.png"
+    },
+    {
+        "id": "8f8a5ca2-4789-4f8d-b516-2358c0051c94",
+        "itemId": "c09b1c4a-6405-4bf1-966b-abdb1100686c",
+        "path": "minecraft_texture\\textures\\block\\small_amethyst_bud.png"
+    },
+    {
+        "id": "e39037d3-6f26-430c-abed-59545dfa205c",
+        "itemId": "e950d462-02b2-43a7-a671-4c63a2090e1d",
+        "path": "minecraft_texture\\textures\\block\\medium_amethyst_bud.png"
+    },
+    {
+        "id": "b674a23a-7c53-4a55-a43d-81e9d45ecd46",
+        "itemId": "d0e25949-e27f-40e8-ae15-63c7eba8d055",
+        "path": "minecraft_texture\\textures\\block\\large_amethyst_bud.png"
+    },
+    {
+        "id": "969e5208-4769-4465-a611-0fa548cca78c",
+        "itemId": "6750bf13-6af9-4809-89aa-cf3103d8948d",
+        "path": "minecraft_texture\\textures\\block\\amethyst_cluster.png"
+    },
+    {
+        "id": "ac8825b3-aa2c-4745-85ea-c5e00e110597",
+        "itemId": "dde5fbce-0256-41a1-bfd4-eba9a369e71a",
+        "path": "minecraft_texture\\textures\\item\\pointed_dripstone.png"
+    },
+    {
+        "id": "aa4876f9-e8fc-4821-8f1c-186fb882b230",
+        "itemId": "ad47e52c-32f5-45e9-95db-873c0907def8",
+        "path": "minecraft_texture\\textures\\block\\frogspawn.png"
+    },
+    {
+        "id": "40e64739-aa33-420f-a837-f501f56c92e6",
+        "itemId": "8fd90fbd-6f42-4999-8a8d-082b031aee15",
+        "path": "minecraft_texture\\textures\\item\\echo_shard.png"
+    },
+    {
+        "id": "9fa9c5c4-e244-483f-9c53-7c1c4e9cfb61",
+        "itemId": "0a5e3b46-e12c-4d6e-9cb7-553ef998af78",
+        "path": "minecraft_texture\\textures\\item\\brush.png"
+    },
+    {
+        "id": "6a044845-5e8e-4766-b33b-fc500e8e9b9d",
+        "itemId": "de6ad623-c8b3-45ab-b20f-cd814bc2e925",
+        "path": "minecraft_texture\\textures\\item\\netherite_upgrade_smithing_template.png"
+    },
+    {
+        "id": "2aa8793d-8e6a-4f5f-b0a9-ba00f8e76988",
+        "itemId": "5f639eed-141a-452a-b547-4448f1151813",
+        "path": "minecraft_texture\\textures\\item\\sentry_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "f0407010-cf6f-4f08-ba08-b76eb9638fa7",
+        "itemId": "34f82a80-cad4-4751-99c1-7138c1fc01ba",
+        "path": "minecraft_texture\\textures\\item\\dune_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "f8a519ac-e566-48e3-a12a-7870ac45d8c0",
+        "itemId": "423dc85a-f446-4ca1-a65e-02bb7ab10c5b",
+        "path": "minecraft_texture\\textures\\item\\coast_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "757516c9-490a-46d6-b183-78442d1236cc",
+        "itemId": "6b02e59c-b1cc-49bb-9361-63f88bee5c41",
+        "path": "minecraft_texture\\textures\\item\\wild_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "8b05d9c4-04fe-4d10-9cd7-848cdf58f599",
+        "itemId": "ebb65869-91d8-42b5-bc16-564c9c88942c",
+        "path": "minecraft_texture\\textures\\item\\ward_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "dfd93762-7277-4cbd-a6e2-7407a821fc4e",
+        "itemId": "4cce97a1-aaa6-42c8-a931-49423cd2647f",
+        "path": "minecraft_texture\\textures\\item\\eye_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "5a554134-f663-4b0b-868e-c9d62d55aa40",
+        "itemId": "5754c02d-64be-4ae5-bd49-8414c1c18ed1",
+        "path": "minecraft_texture\\textures\\item\\vex_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "1f5a4bd4-d6e5-4a90-a604-2ec58c40ca89",
+        "itemId": "76867dc0-ceb7-411e-8484-cfae742b6420",
+        "path": "minecraft_texture\\textures\\item\\tide_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "b55836b5-d032-40fe-9a9e-708efe95f611",
+        "itemId": "1080bd72-55f8-4fd4-a382-6aeff041a40e",
+        "path": "minecraft_texture\\textures\\item\\snout_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "4621dc1c-635c-43c1-afaf-3b5b41c71b74",
+        "itemId": "ab6a12cd-40b5-49ee-8113-ada3c7c4424a",
+        "path": "minecraft_texture\\textures\\item\\rib_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "987be913-9adc-4d08-b62a-8e9424293952",
+        "itemId": "bc7a0407-613f-4118-9326-0a03e7fe001b",
+        "path": "minecraft_texture\\textures\\item\\spire_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "1405e36d-d319-4f7d-898c-c658e4eee2c1",
+        "itemId": "5522a9b3-688a-4ab6-8d3b-4da2e0b8ad06",
+        "path": "minecraft_texture\\textures\\item\\wayfinder_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "9614c14f-1576-470d-8104-fc63e05e4ffa",
+        "itemId": "231b0703-d54f-485f-976e-92a01b6c1db5",
+        "path": "minecraft_texture\\textures\\item\\shaper_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "9ba2cd18-fc83-4dfb-a720-b1bd7fd94e99",
+        "itemId": "07c06836-832d-48ce-a898-fbc6e3dd3e5a",
+        "path": "minecraft_texture\\textures\\item\\silence_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "9815332b-9bad-493a-a364-f7d01643c510",
+        "itemId": "e8340062-c46a-4844-ba08-5c9bca5419ed",
+        "path": "minecraft_texture\\textures\\item\\raiser_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "63172a23-b65b-4608-ac4e-c107701b1ac0",
+        "itemId": "d8d45831-f228-47d7-b2a3-26917bd3fe24",
+        "path": "minecraft_texture\\textures\\item\\host_armor_trim_smithing_template.png"
+    },
+    {
+        "id": "46abcdad-80ef-40ab-a54d-f31b66084d31",
+        "itemId": "47eb01c3-987c-4192-bbcf-4c6c00f37b97",
+        "path": "minecraft_texture\\textures\\item\\angler_pottery_sherd.png"
+    },
+    {
+        "id": "a50654bf-d4f2-4cc1-945d-2960254fad10",
+        "itemId": "c1f8d9f7-2292-4be8-9484-81d815a1d0c0",
+        "path": "minecraft_texture\\textures\\item\\archer_pottery_sherd.png"
+    },
+    {
+        "id": "0810f2b5-2a28-4042-af74-3ab2435ed571",
+        "itemId": "436c4799-7e0f-48b8-805f-3c42c347ede0",
+        "path": "minecraft_texture\\textures\\item\\arms_up_pottery_sherd.png"
+    },
+    {
+        "id": "27246ecf-9abc-4a74-b2d5-e0d497bc3d0d",
+        "itemId": "33ff5819-9ed2-469c-9e20-3f258cb81afb",
+        "path": "minecraft_texture\\textures\\item\\blade_pottery_sherd.png"
+    },
+    {
+        "id": "33230909-a550-455f-b432-ec2d8454fa2e",
+        "itemId": "3e89f46d-e6b7-494f-9b25-dd91fd6d9fc9",
+        "path": "minecraft_texture\\textures\\item\\brewer_pottery_sherd.png"
+    },
+    {
+        "id": "ebdffd43-1e36-45bf-b748-8e4cb2c99799",
+        "itemId": "4cc50045-bb15-4d60-bdae-e46b86bffe6b",
+        "path": "minecraft_texture\\textures\\item\\burn_pottery_sherd.png"
+    },
+    {
+        "id": "0c251511-ebe8-4cdc-a8b2-d9bee9f0ff94",
+        "itemId": "099e92b7-6c93-49cf-ad4c-32f321579a29",
+        "path": "minecraft_texture\\textures\\item\\danger_pottery_sherd.png"
+    },
+    {
+        "id": "73c68621-70e9-47c2-af45-28dbceee6779",
+        "itemId": "5e4e52ed-9ee3-4234-85d3-1a614c00b4af",
+        "path": "minecraft_texture\\textures\\item\\explorer_pottery_sherd.png"
+    },
+    {
+        "id": "a596d9c9-1997-48ac-b100-7ef598655bf1",
+        "itemId": "76716bb9-9973-442c-bfaa-d04065b72389",
+        "path": "minecraft_texture\\textures\\item\\friend_pottery_sherd.png"
+    },
+    {
+        "id": "2d2e2776-225b-45a2-9ec2-abc6453faeff",
+        "itemId": "e0b2eb6a-0c11-43b3-b06e-d85970f1c627",
+        "path": "minecraft_texture\\textures\\item\\heart_pottery_sherd.png"
+    },
+    {
+        "id": "ed80283b-ca3e-4aaa-928f-86be03993615",
+        "itemId": "cd46a2d4-0906-46f9-9158-38a9d4e59e19",
+        "path": "minecraft_texture\\textures\\item\\heartbreak_pottery_sherd.png"
+    },
+    {
+        "id": "a8269f39-72f7-4770-ab62-86da66868cde",
+        "itemId": "a0df0cb6-4f12-48b7-be64-37b46cb059e1",
+        "path": "minecraft_texture\\textures\\item\\howl_pottery_sherd.png"
+    },
+    {
+        "id": "07ef3c14-b099-4642-9e2b-7e555851cdc3",
+        "itemId": "d2ed4c1a-b3f7-438d-822e-ed1c5ef1e5c9",
+        "path": "minecraft_texture\\textures\\item\\miner_pottery_sherd.png"
+    },
+    {
+        "id": "73dab021-b600-4d42-ac1a-cc5dde1c25f2",
+        "itemId": "9cc24602-2ad9-4dba-86bc-c6fdd31acf46",
+        "path": "minecraft_texture\\textures\\item\\mourner_pottery_sherd.png"
+    },
+    {
+        "id": "0dfb83d1-9f1d-45bb-bf79-d98e48cdf786",
+        "itemId": "6c9a1c3a-b3b5-42df-8315-c511fb6896b0",
+        "path": "minecraft_texture\\textures\\item\\plenty_pottery_sherd.png"
+    },
+    {
+        "id": "a19c2529-2f32-44ca-8173-fc876b4939ca",
+        "itemId": "fc5945d7-e741-4bf6-b95e-e506800e1a2d",
+        "path": "minecraft_texture\\textures\\item\\prize_pottery_sherd.png"
+    },
+    {
+        "id": "fde476b1-c660-48ab-a7e9-e40c97f6c0bd",
+        "itemId": "e0dfb5dd-60a2-42c6-9814-60b2ca3fe99c",
+        "path": "minecraft_texture\\textures\\item\\sheaf_pottery_sherd.png"
+    },
+    {
+        "id": "412457d2-3040-4057-9148-1080cb19588d",
+        "itemId": "a012d0f6-427c-4e60-bf22-ab22c64a6d9a",
+        "path": "minecraft_texture\\textures\\item\\shelter_pottery_sherd.png"
+    },
+    {
+        "id": "4a6939b1-f59c-44f4-83b5-7053a3274286",
+        "itemId": "1cd0feeb-17ce-43df-9e15-010e4338818a",
+        "path": "minecraft_texture\\textures\\item\\skull_pottery_sherd.png"
+    },
+    {
+        "id": "9b63d92e-e9fa-40e4-b789-12f88ac955d8",
+        "itemId": "52662046-6404-427b-a37e-57d403d3d002",
+        "path": "minecraft_texture\\textures\\item\\snort_pottery_sherd.png"
+    },
+    {
+        "id": "77299c32-fad9-4192-8d78-7fbeabcfd06a",
+        "itemId": "ba70d90a-4cfb-43cc-b18e-34cbfe7e6f13",
+        "path": "minecraft_texture\\textures\\painting\\water.png"
+    },
+    {
+        "id": "07239212-ed01-497e-afb2-9013df1a78b3",
+        "itemId": "8ed739e8-ba27-4420-b104-f8ea659cf66e",
+        "path": "minecraft_texture\\textures\\particle\\lava.png"
+    },
+    {
+        "id": "ee1c0ee5-7cf6-42d5-bc91-e6338f236ed7",
+        "itemId": "fa12b102-2a1c-4dc9-bacf-fda052cc6d8e",
+        "path": "minecraft_texture\\textures\\painting\\fire.png"
+    },
+    {
+        "id": "1009f014-9999-4733-9095-b3701fe29cd1",
+        "itemId": "c3957583-d271-4693-8bd5-02116d244dfc",
+        "path": "minecraft_texture\\textures\\block\\nether_portal.png"
+    },
+    {
+        "id": "e7554c11-f8bf-427d-bbfa-1acfa59d93c4",
+        "itemId": "69591045-720b-47a8-8e14-3794852b1d7a",
+        "path": "minecraft_texture\\textures\\block\\attached_pumpkin_stem.png"
+    },
+    {
+        "id": "8e1e8c53-8d0a-4692-995a-7135674ec9f4",
+        "itemId": "173af875-beeb-4746-90d9-d4f6f4dc11d1",
+        "path": "minecraft_texture\\textures\\block\\attached_melon_stem.png"
+    },
+    {
+        "id": "66d8707b-6155-46e7-862e-b6c2354ecb38",
+        "itemId": "39def98e-5214-4106-b90a-b8bd7ad1dc21",
+        "path": "minecraft_texture\\textures\\block\\pumpkin_stem.png"
+    },
+    {
+        "id": "d2314afc-a7cd-4fa8-8c97-66c599176310",
+        "itemId": "a783e46b-2681-4cbf-833b-4f02e7681502",
+        "path": "minecraft_texture\\textures\\block\\melon_stem.png"
+    },
+    {
+        "id": "19232227-7902-495d-8022-6917d38fcd2a",
+        "itemId": "1c72dd0f-fdd0-40bf-93ba-4d5e03b72d82",
+        "path": "minecraft_texture\\textures\\entity\\end_portal.png"
+    },
+    {
+        "id": "24bf4c25-4a0b-4d70-a8ab-fdaddc28b848",
+        "itemId": "2e084d6e-fd91-4553-ad62-d2e35713fd18",
+        "path": "minecraft_texture\\textures\\block\\tripwire.png"
+    },
+    {
+        "id": "38cb6760-c159-45e9-868d-cc45f5bee8da",
+        "itemId": "2487710d-8bd4-4cee-bf1d-d477ebf455bd",
+        "path": "minecraft_texture\\textures\\block\\kelp_plant.png"
+    },
+    {
+        "id": "ded763fe-b7a3-499e-b177-d7d2067351be",
+        "itemId": "9e4b2a47-c1ff-4790-bdaf-e02e9db01d95",
+        "path": "minecraft_texture\\textures\\block\\weeping_vines_plant.png"
+    },
+    {
+        "id": "3db38042-1193-4b06-86b3-b7668af89bae",
+        "itemId": "0d526047-e9c7-4c9d-9fb6-314a46bf5f9c",
+        "path": "minecraft_texture\\textures\\block\\twisting_vines_plant.png"
+    },
+    {
+        "id": "d9329b6a-e8e7-41e4-bcda-1d798aeb89c7",
+        "itemId": "3c47c607-f047-4811-b589-81a9d70e5f98",
+        "path": "minecraft_texture\\textures\\block\\powder_snow.png"
+    },
+    {
+        "id": "d692a364-45ff-46e1-b073-08cd2d011efb",
+        "itemId": "b7893648-6166-4835-9191-b3be665b5a22",
+        "path": "minecraft_texture\\textures\\block\\cave_vines.png"
+    },
+    {
+        "id": "49794d9e-7871-4c10-b618-b4aea4baca7e",
+        "itemId": "077225c9-63bb-4732-82bb-ca88e7e6b7a2",
+        "path": "minecraft_texture\\textures\\block\\cave_vines_plant.png"
+    },
+    {
+        "id": "9ccb90b5-3a58-4e68-a3c3-41aea96e6a55",
+        "itemId": "b63427b0-5ac1-4652-8f66-3d16e1b61b82",
+        "path": "minecraft_texture\\textures\\block\\big_dripleaf_stem.png"
+    }
+]
